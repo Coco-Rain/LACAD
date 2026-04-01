@@ -1,0 +1,5 @@
+{
+  "operation": "Start by creating a 10 unit x 10 unit x 1 unit rectangular box on the XY workplane. Then select all edges that run parallel to the Z axis, and apply a 0.5 unit radius fillet to each of these selected edges to finish the model.",
+  "geometry": "This is a thin, flat uniform-thickness square plate. Its four vertical side edges are rounded with consistent radius fillets, while the top and bottom faces are identical flat rounded-corner squares, with no extra cutouts or protrusions present.",
+  "function": "This low-profile rounded-edge square pad is designed to be used as a small spacer, shim, mounting base, or protective foot, with smooth rounded edges to avoid sharp contact points with adjacent parts."
+}

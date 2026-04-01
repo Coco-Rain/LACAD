@@ -1,0 +1,5 @@
+{
+  "operation": "First, a CadQuery workplane aligned to the XY coordinate plane is initialized. An intermediate rectangular prism with X-length 8 units, Y-width 6 units, and Z-height 4 units is created as a positioning reference. The positive Z-oriented top face of the prism is selected to establish a new workplane, whose origin is offset 1 unit along the positive X axis and 1 unit along the negative Y axis. A circle with 1.5 unit radius is sketched at this offset origin, then extruded 2 units in the positive Z direction with the combine flag set to False, producing a standalone cylindrical solid as the final output while discarding the intermediate reference prism.",
+  "geometry": "The model is a single upright right circular cylinder with uniform diameter across its full vertical height, featuring flat, parallel circular faces at both its top and bottom ends.",
+  "function": "This is a basic cylindrical mechanical component suitable for use as a spacer, small plug, or assembly insert, designed to be positioned at a predefined offset location relative to a rectangular base part."
+}

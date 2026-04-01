@@ -1,0 +1,5 @@
+{
+  "operation": "First, create a workplane aligned to the XY reference plane. Next, sketch a regular 6-sided hexagon with a circumradius of 10 units on this workplane. Extrude the sketched hexagon 5 units in the positive Z direction to form a prismatic solid. Then select the top face of the prism (the face farthest along the positive Z axis), create a new workplane on this face, and cut a fully through concentric hole with a 3 unit diameter through the entire prism.",
+  "geometry": "The model is a right regular hexagonal prism with a consistent cross-section across its full height. A straight cylindrical through hole is concentrically aligned to the central longitudinal axis of the prism, running completely through the part from its top to bottom end face. All outer side faces of the prism are flat and perpendicular to the parallel top and bottom end faces.",
+  "function": "This part is designed as a hexagonal spacer, nut blank, or alignment component for mechanical assemblies. Its hexagonal outer profile enables easy tool engagement for tightening or positioning, while the central through hole accommodates fasteners or alignment pins for mounting."
+}

@@ -1,0 +1,5 @@
+{
+  "operation": "Start by drawing a 10x10 rectangle on the base XY workplane. Create a new workplane offset by 10 units in the Z-direction and draw a smaller 5x5 rectangle on it. Finally, apply a loft operation to connect the two square sketches, creating a solid tapered shape.",
+  "geometry": "The model is a square frustum, consisting of a large square base and a smaller square top face positioned parallel to each other. Four identical trapezoidal faces slope inward from the base to the top, forming a symmetric, truncated pyramid structure.",
+  "function": "This part functions as a tapered support or a transition adapter designed to connect components of different square cross-sections in a mechanical or structural assembly."
+}

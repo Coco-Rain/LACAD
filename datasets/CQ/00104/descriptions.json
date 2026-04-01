@@ -1,0 +1,5 @@
+{
+  "operation": "Create a 10×10×10 unit cube centered on the XY workplane. Select the four edges oriented parallel to the Z-axis and apply a fillet with a radius of 1.0 to round the vertical corners.",
+  "geometry": "The model is a solid cube where the four vertical edges have been smoothed into cylindrical fillets, while the top and bottom faces remain flat squares with sharp edges.",
+  "function": "This component acts as a basic structural block or spacer. The rounded vertical edges are designed to eliminate sharp corners for safety and to allow the part to fit smoothly into matching recessed enclosures."
+}

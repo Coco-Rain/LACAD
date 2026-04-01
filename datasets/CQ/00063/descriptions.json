@@ -1,0 +1,5 @@
+{
+  "operation": "First, a workplane is initialized on the XY coordinate plane, then a rectangular box with X-length 6 units, Y-length 8 units, and Z-height 2 units is created. Next, the top positive Z-facing face of the box is selected, a new workplane aligned to this face is created, and the workplane origin is offset 0 units along the X-axis and -3 units along the Y-axis. An ellipse with a 2.5 unit major radius and 1.5 unit minor radius is drawn at the offset origin, and this profile is extruded 1.5 units upwards normal to the top face to form the final solid.",
+  "geometry": "The model is a fused assembly of two solid shapes: a lower rectangular prism base, and an upright elliptical prism attached to the upper surface of the base. The elliptical protrusion is offset toward one shorter edge of the rectangular base, and its footprint sits entirely within the perimeter of the base's top face.",
+  "function": "This is a basic mechanical fixture or interface component, designed as a base with a shaped locating boss, suitable for alignment, spacing, or mounting applications that require mating with an elliptical feature."
+}

@@ -1,0 +1,5 @@
+{
+  "operation": "First, a workplane is initialized on the XZ plane. A 10-unit horizontal construction line is drawn rightward from the origin, then the cursor is moved to the (10, 0) coordinate. A 3-unit vertical line is drawn upward, followed by a 4-unit horizontal line leftward to form half of the base profile. This half-profile is mirrored across the X axis to create a full symmetric closed 2D trapezoidal sketch. Finally, the sketch is extruded 5 units perpendicular to the XZ plane along the Y axis to produce the final 3D model.",
+  "geometry": "This is a straight prism extruded from a symmetric isosceles trapezoidal cross section. It has six flat planar faces, with the cross section wider at its bottom edge and narrower at its parallel top edge, symmetric across the central vertical axis of the cross section. All edges are sharp, and there are no secondary features like cutouts, fillets, or chamfers present.",
+  "function": "This symmetric trapezoidal wedge component is designed for use as a structural spacer, alignment shim, or mounting insert, delivering a stable, symmetric fit in corresponding slots or between paired mating components."
+}

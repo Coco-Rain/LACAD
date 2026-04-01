@@ -1,0 +1,5 @@
+{
+  "operation": "First, initialize a workplane on the XY coordinate plane, then create a rectangular box with dimensions 10 mm in length, 10 mm in width, and 2 mm in height. Next, select the top positive Z face of the box to create a new workplane, draw a circle with a 3 mm radius centered on this workplane, and extrude the circle 2 mm upward along the Z axis to form a cylindrical boss. Finally, select the top face of the extruded cylinder and apply a 0.5 mm chamfer to the outer edge of this top face.",
+  "geometry": "The model consists of a flat square prism base, with a right circular cylindrical boss centered on the top surface of the base and extending vertically upward. The upper outer edge of the cylindrical boss has a beveled chamfer that eliminates the sharp 90-degree top edge, giving the top of the boss a shallow tapered profile.",
+  "function": "This is a compact low-profile mounting and alignment component, designed to act as a spacer, locating feature, or simple fastening boss for small mechanical assemblies, with the chamfered top easing insertion into mating parts and reducing sharp edge burr risk."
+}

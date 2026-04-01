@@ -1,0 +1,5 @@
+{
+  "operation": "First, create a 30 mm × 20 mm × 5 mm rectangular box using an XY-plane workplane. Next, union an 8 mm radius, 10 mm tall extruded cylinder to the center of the box, then union a 6 mm radius sphere to the top of the cylinder. Finally, establish a workplane on the topmost Z face of the combined solid, draw a 3 mm radius circle, and perform a through-all cut to create a vertical hole running the full height of the assembly.",
+  "geometry": "The model consists of a flat rectangular base, with a coaxial vertical cylindrical protrusion centered on the base's top face that is capped with a smooth spherical dome. A small vertical through-hole runs along the shared central axis, passing entirely through the dome, cylinder, and rectangular base.",
+  "function": "This is a compact mounting adapter or spacer component, designed to provide a raised locating post with a through fastener hole on a flat base, used for aligning and securing attached parts to a mounting surface."
+}

@@ -1,0 +1,5 @@
+{
+  "operation": "First, a rectangular box with dimensions 20 x 20 x 5 is created on the XY workplane. Next, the top (highest Z) face of the box is selected to create a new workplane, whose origin is offset 5 units along the X axis and 5 units along the Y axis. Finally, a counterbore through hole is cut at this offset position, with a 3 unit diameter through section, 7 unit diameter counterbore section, and 2 unit counterbore depth.",
+  "geometry": "The model is a thin square flat plate, with a single counterbored through hole positioned off-center near one of its corners. The hole has a wider recessed segment at the plate's top surface that transitions to a smaller diameter hole that runs fully through the entire thickness of the plate.",
+  "function": "This is a small mounting or spacer plate designed to be fastened with a flush socket head screw via its counterbore hole, used for spacing, alignment, or attachment of small assembly parts."
+}

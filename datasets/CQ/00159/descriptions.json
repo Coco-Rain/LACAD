@@ -1,0 +1,5 @@
+{
+  "operation": "Start with a workplane aligned to the XY coordinate plane, then generate a solid rectangular box with dimensions 8 units (X-axis), 12 units (Y-axis), and 4 units (Z-axis). Select the top positive-Z face of the box, create a new workplane on this face, offset the sketch origin to the coordinate (3, -2) on this workplane, sketch a circle of radius 1.5 units, then execute a cut-thru-all operation to remove material along the circular profile completely through the full height of the box.",
+  "geometry": "The model consists of a rectangular prism solid with a single cylindrical through hole that runs fully through the prism from its top face to its bottom face, perpendicular to both faces. The circular hole is located off-center, positioned closer to one short edge of the top surface of the prism.",
+  "function": "This is a rigid rectangular mounting block with a pre-drilled through hole, intended for use as a spacer, bracket base, or assembly component to accommodate fasteners, alignment pins, or small routed elements."
+}

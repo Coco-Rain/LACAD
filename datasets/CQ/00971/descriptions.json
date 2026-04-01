@@ -1,0 +1,5 @@
+{
+  "operation": "First, create a workplane aligned to the XZ plane. Draw a 10-unit radius circle in a sketch on this plane, then perform a subtraction operation to remove a 5-unit wide, 3-unit tall rectangle rotated 45 degrees from the center of the circle. Finalize the 2D sketch, then extrude the resulting closed profile to a depth of 4 units perpendicular to the XZ plane to generate the final 3D solid.",
+  "geometry": "The model is a thin, flat circular disk with a concentric, 45-degree rotated rectangular through-hole that passes fully through the entire thickness of the disk. The rectangular hole is significantly smaller than the outer diameter of the disk and centered perfectly on the disk's main axis.",
+  "function": "This part is designed as a torque-transferring hub, custom washer, or small pulley that mounts onto a matching rectangular profiled shaft, using the shaped through hole to prevent slippage and rotation relative to the mounted shaft."
+}

@@ -1,0 +1,5 @@
+{
+  "operation": "Begin by creating a rectangular box of 20x20x5 units on the XY plane. Select the top face (positive Z) to establish a new workplane. On this face, draw a 16x16 construction rectangle and select its four vertices. At each vertex, place a circular sketch with a radius of 0.8 units, then apply a 'cutThruAll' operation to create four symmetrical vertical holes through the entire thickness of the block.",
+  "geometry": "The model is a thick square plate with four circular through-holes. These holes are arranged in a square pattern, positioned symmetrically near the corners of the plate's top and bottom faces.",
+  "function": "This part functions as a mounting base or a spacer plate. The four corner holes are designed to accommodate fasteners such as screws or bolts for securing the plate to another component in a mechanical assembly."
+}

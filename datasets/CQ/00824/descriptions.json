@@ -1,0 +1,5 @@
+{
+  "operation": "First, a new blank 2D CadQuery Sketch object is initialized. A slotted 2D feature is then generated on the sketch with a total length of 12 units, total width of 4 units, and a 45-degree rotation offset from the default horizontal axis, producing the final 2D slotted geometry.",
+  "geometry": "The 2D model is a diagonal-oriented slotted profile with semicircular rounded ends. It has a consistent uniform width along its entire length, with two parallel straight edges connecting the two identical matching rounded end caps.",
+  "function": "This is a standard slotted mounting profile intended for use as an adjustable fastener slot, alignment guide, or clearance cutout in mechanical assemblies, allowing positional adjustment of attached components."
+}

@@ -1,0 +1,5 @@
+{
+  "operation": "Begin by creating a 10x10x1 box on the XY plane. Select the top face (positive Z) and establish a new workplane. On this workplane, define a rectangular array of 3 by 3 points with a spacing of 2 units between centers in both the X and Y directions. At each of these points, sketch a circle with a radius of 0.5 and apply a through-all cut to create nine identical cylindrical holes.",
+  "geometry": "The model is a thin, square plate with a uniform thickness. It features a centered 3x3 grid of circular through-holes. The layout is symmetrical, with the holes evenly spaced within the central area of the plate's surface.",
+  "function": "This part functions as a perforated mounting base or a simple ventilation plate, providing a grid of holes for fasteners, alignment pins, or fluid passage in a mechanical assembly."
+}

@@ -1,0 +1,5 @@
+{
+  "operation": "Starting on the XY workplane, create a base rectangular box with dimensions 30×30×5. Select the top face (positive Z) to establish a new workplane and add a second box of 15×15×5 centered on that face. Finally, select the top face of the second box to create another workplane and add a third box of 7×7×5. Each box is centered on its respective workplane, meaning each tier embeds halfway into the level beneath it.",
+  "geometry": "The model is a concentric, tiered structure resembling a low-profile stepped pyramid. It consists of three square layers of decreasing surface area (30×30, 15×15, and 7×7) stacked vertically and centered along a common central axis, forming a series of steps.",
+  "function": "This part functions as a multi-level pedestal or a tiered mounting base, designed to provide a centered support platform with three distinct height levels for mating parts or components."
+}

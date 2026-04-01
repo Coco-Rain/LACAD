@@ -1,0 +1,5 @@
+{
+  "operation": "Begin by creating a circular profile with a radius of 5 on the XY plane and extrude it 10 units to form a cylinder. Next, select the top face (positive Z) and define a 6x6 construction rectangle centered on it. Finally, select the four vertices of this rectangle and place a sphere with a radius of 1 at each point, resulting in four spherical bumps on the top surface.",
+  "geometry": "The model is a solid vertical cylinder with a flat circular top. Four small spherical domes are arranged in a square layout on the top face, positioned symmetrically around the center and slightly inset from the cylinder's perimeter.",
+  "function": "This part functions as a cylindrical support or spacer with integrated spherical contact points on the top surface, suitable for positioning, alignment, or acting as a specialized foot for a mechanical assembly."
+}

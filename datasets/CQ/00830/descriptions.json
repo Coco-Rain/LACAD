@@ -1,0 +1,5 @@
+{
+  "operation": "Start with a CadQuery workplane aligned to the XY plane. First, sketch a centered 10 x 10 rectangle and tag it 'outer', then sketch a concentric centered 5 x 5 rectangle on the same workplane and tag it 'inner'. Select the inner tagged wire, then extrude the region between the outer and inner rectangular boundaries 3 units along the axis perpendicular to the XY plane to form the final 3D part.",
+  "geometry": "The model is a right square prismatic frame of uniform thickness, featuring a smaller square through-hole that is perfectly concentric with the outer square profile, running the full height of the part. All edges are sharp, and all adjacent faces intersect at right angles.",
+  "function": "This part is intended for use as a spacer, alignment guide, shim, or mounting adapter, with the central cutout designed to accommodate a mating square component while the outer frame provides a stable, consistent positioning footprint."
+}

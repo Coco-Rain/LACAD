@@ -1,0 +1,5 @@
+{
+  "operation": "First, a workplane aligned to the XY coordinate plane is initialized. A rectangular box with X-length 8 units, Y-width 8 units, and Z-height 2 units is generated on this workplane. All edges of the box parallel to the Z axis are selected, and the first of these vertical edges is isolated. A 1-unit chamfer is applied to the selected edge to finalize the model.",
+  "geometry": "The model is a low-profile square-based cuboid, with one of its four sharp vertical corners replaced by a flat angled chamfer face. The remaining three vertical corners stay sharp, and the top and bottom faces are almost square, only modified by the angled edge from the single chamfer feature.",
+  "function": "This is a small chamfered shim or mounting plate designed for assembly use, with the single chamfered corner serving as an alignment aid, a safety feature to eliminate sharp edges, or to fit the profile of an adjacent mating part."
+}

@@ -1,0 +1,5 @@
+{
+  "operation": "Start by initializing a workplane on the XY coordinate plane, then create an 8 x 8 x 2 unit rectangular box on this workplane. Next, select the top (positive Z-facing) face of the box and create a new workplane aligned to this face. Sketch a 2-unit radius circle centered on this workplane, finalize the sketch, then extrude the circular sketch 3 units in the positive Z direction to produce the final solid model.",
+  "geometry": "The model is an assembled solid made of two coaxial stacked primitives: a low-profile square cuboid base, and a right circular cylinder that is centered on and protrudes perpendicularly upward from the top face of the square base, with no additional cutouts or secondary features.",
+  "function": "This is a simple centered peg standoff, designed to act as a mounting or alignment component, with its flat base attaching to a surface and the protruding cylindrical post fitting into matching holes to position, space, or connect assembled parts."
+}

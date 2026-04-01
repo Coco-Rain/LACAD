@@ -1,0 +1,5 @@
+{
+  "operation": "First, initialize a CadQuery workplane aligned to the XY coordinate plane with 0 offset from the origin plane. Next, set the active sketch center to the (0, 0) origin point on this workplane. Finally, create a solid cylinder feature with a height of 5 units and a circular base radius of 2 units, extruded along the direction normal to the XY workplane.",
+  "geometry": "The model is a single right circular cylinder with identical parallel circular flat faces at its top and bottom, connected by a continuous smooth curved lateral surface. Its central longitudinal axis is aligned perpendicular to the XY reference plane, the part is fully symmetric around this axis, and it contains no additional cutouts, protrusions, or secondary features.",
+  "function": "This is a basic generic cylindrical component designed to serve as a spacer, alignment pin, standoff, or simple structural element in mechanical assemblies, with a uniform symmetric shape suitable for general positioning, spacing, or low-load support use cases."
+}

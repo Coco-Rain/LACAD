@@ -1,0 +1,5 @@
+{
+  "operation": "On the XY workplane, initialize a 2D sketch and define a rectangle with a width of 4 units and a height of 2 units. Subsequently, create a location transformation using a vector of (5, 5, 0) and apply this to the sketch to translate it from the origin to the specified coordinate position.",
+  "geometry": "The resulting model is a flat, two-dimensional rectangular plane. It maintains a 2:1 aspect ratio and is positioned horizontally, parallel to the XY plane but offset from the origin in both the X and Y directions.",
+  "function": "This model represents a 2D profile or sketch, commonly used as a foundation for further 3D operations such as extrusion or as a boundary template for layout planning in a CAD assembly."
+}

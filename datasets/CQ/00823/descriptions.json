@@ -1,0 +1,5 @@
+{
+  "operation": "First, initialize a workplane on the XY coordinate plane, then create a rectangular box with X-axis length 40, Y-axis width 30, and Z-axis height 15. Next, select the top face oriented in the positive Z direction, create a new workplane on this face, sketch an ellipse with major radius 12 and minor radius 8 centered on the workplane, and use this ellipse profile to perform a through cut that removes material completely through the entire height of the box.",
+  "geometry": "This model consists of a solid rectangular prism block with a full-depth elliptical through-hole that runs perpendicularly between the top and bottom flat faces of the block. The elliptical hole is centered on the top surface of the prism, with its axes aligned to the primary axes of the block's top face.",
+  "function": "This is a rigid structural spacer, mounting base, or fixture component with an elliptical through opening designed to accommodate adjustable fasteners, non-circular alignment pins, or allow passage of wiring/rod components while providing stable load bearing support."
+}

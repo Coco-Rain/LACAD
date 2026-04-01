@@ -1,0 +1,5 @@
+{
+  "operation": "First, a closed 2D quadrilateral sketch is drawn on the default XY workplane, with vertices at coordinates (0,0), (0,2), (4,3), and (4,0). This 2D profile is then revolved a full 360 degrees around the X-axis, which is defined by axis start point (0,0,0) and axis end point (1,0,0), to generate the final 3D solid.",
+  "geometry": "This is a watertight solid of revolution aligned to a linear central axis. It features a flat circular face at one end, a smooth curved lateral surface that increases in maximum outer radius along the length of the central axis, and a sloped conical end face at the opposite end that tapers down to meet the central axis.",
+  "function": "This custom profiled rotational component is designed for use as a specialized flow nozzle, cam lobe, or custom mechanical fitting, with a variable outer radius profile tailored to meet specific functional requirements such as controlled flow characteristics or targeted contact geometry."
+}

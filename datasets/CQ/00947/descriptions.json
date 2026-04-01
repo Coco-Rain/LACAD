@@ -1,0 +1,5 @@
+{
+  "operation": "Start by creating an XY workplane, sketch a 5-unit by 10-unit centered rectangle, extrude the sketch 2 units along the Z axis to form a rectangular prism. Select the topmost Z face of the prism, create a new workplane on this face, draw a 1.5-unit radius circle at the workplane origin, execute a cutThruAll operation to form a full-depth through hole. Finally, mirror the entire solid across the XZ plane to produce the final symmetric part.",
+  "geometry": "The model is a thin, symmetric rectangular prism with a length twice its width. A single circular through hole runs perpendicularly through the center of its two largest flat faces, aligned with the central symmetry axis of the block.",
+  "function": "This is a symmetric rectangular spacer or mounting plate designed to be secured via its central through hole, intended for spacing components or acting as a simple fixture base in small mechanical assemblies."
+}

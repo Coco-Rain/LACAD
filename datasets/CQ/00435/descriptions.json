@@ -1,0 +1,5 @@
+{
+  "operation": "First, a workplane is created on the XY reference plane. A solid cube with 10 units of length, 10 units of width, and 10 units of height is generated on this workplane. All edges of the cube that are parallel to the Z axis are then selected, and a 1-unit linear chamfer is applied to each of these selected edges to form the final model.",
+  "geometry": "This is a symmetric prism adapted from a standard cube, with its four vertical edges cut away by identical flat chamfers. Its top and bottom faces are regular octagons, four large rectangular main side faces are separated by four narrow rectangular chamfer faces that run the full height of the part, and the structure is symmetric around its central vertical axis.",
+  "function": "This chamfered cube is intended to serve as a basic mechanical component like a spacer, standoff, or assembly insert, with chamfers that eliminate sharp edges for safe handling and simplify alignment during assembly processes."
+}

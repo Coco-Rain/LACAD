@@ -1,0 +1,5 @@
+{
+  "operation": "First, a workplane is initialized on the XY coordinate plane. A right circular cylinder with a height of 10 units and radius of 5 units is created centered on this workplane. The active workplane is then translated 10 units along the positive Z-axis to align its origin with the top center of the cylinder. A square box with length 6 units, width 6 units, and height 2 units is created centered on the translated workplane. All generated solid bodies are retained to form the final model.",
+  "geometry": "The model consists of two solid primitives aligned along a shared vertical central axis. The lower component is a vertical right circular cylinder, while the upper component is a square cuboid that sits centered on the top flat face of the cylinder. The square cross-section of the upper cuboid is smaller than the diameter of the cylinder, so no portion of the cuboid overhangs the perimeter of the cylindrical base.",
+  "function": "This simple two-part model is suitable for use as a CAD modeling training demonstration part, a small stand with an integrated alignment feature, or a test object for 3D printing calibration workflows."
+}

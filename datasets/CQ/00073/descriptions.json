@@ -1,0 +1,5 @@
+{
+  "operation": "First, a workplane aligned to the XY coordinate plane is initialized. A solid cube with length, width, and height all measuring 20 units is created on this workplane. A shell operation is then executed, with the face oriented in the positive Z direction (the top face of the cube) specified as the face to remove, producing a hollow open-top structure with uniform wall thickness across all remaining faces.",
+  "geometry": "The model is a hollow open-top cubic structure, with a fully closed flat bottom, four connected vertical side walls of consistent thickness, and an entirely open upper face, forming a single cubic internal cavity accessible from the top. Its outer profile is a regular cube with all right-angle edges.",
+  "function": "This is a simple open-top cubic enclosure, intended for use as a small storage bin, small component housing, or basic mold insert, allowing easy access to its internal space while holding contents within its closed bottom and side walls."
+}

@@ -1,0 +1,5 @@
+{
+  "operation": "First, create a 2D sketch workplane on the XY coordinate plane. Move the sketch starting point to coordinate (5, 0). Draw a 10-unit long polar line segment angled 60 degrees from the positive X-axis, then draw a second 10-unit long polar line segment angled -60 degrees from the positive X-axis. Close the sketch path to form a closed triangular 2D profile, then extrude this profile 4 units perpendicular to the XY workplane to generate the final 3D solid.",
+  "geometry": "This model is a straight uniform triangular prism, with two congruent parallel triangular end faces connected by three planar rectangular side faces that are perpendicular to both triangular end faces. All edges are sharp, with no fillets or chamfers, and the prism has a consistent thickness along its extrusion direction.",
+  "function": "This is a rigid triangular cross-section prism component, suitable for use as a spacer, structural wedge, support insert, or basic building block for mechanical assembly and custom part prototyping."
+}

@@ -1,0 +1,5 @@
+{
+  "operation": "First, a CadQuery workplane is initialized on the XY coordinate plane, and a 5-unit radius solid sphere is created centered at this workplane's origin. Next, the active workplane is transformed to be offset 10 units along the positive Z axis. A solid cylinder with a height of 3 units and radius of 10 units is then generated centered on this offset workplane. Both resulting solid primitives are retained as the final coaxial model.",
+  "geometry": "The model consists of two smooth, concentric solid components stacked vertically along a central axis. The upper component is a short, wide flat cylinder, while the lower component is a smaller full sphere attached centrally to the bottom flat face of the upper cylinder, with the cylinder having a noticeably larger diameter than the sphere.",
+  "function": "This simple two-part component is suitable for use as a small cabinet pull knob, push button head, or furniture glide foot, with a wide upper surface for easy gripping and a rounded lower end for smooth contact with mating surfaces."
+}

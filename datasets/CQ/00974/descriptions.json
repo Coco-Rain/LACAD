@@ -1,0 +1,5 @@
+{
+  "operation": "First, initialize a workplane on the XY reference plane. Create a first rectangular box with X-length 5, Y-width 5, Z-height 1 at the origin. Transform the workplane by an offset of 7 units along the positive X-axis, then create a second identical 5x5x1 box at the new position. Transform the workplane again by an additional 7 units offset along the positive X-axis, create a third identical 5x5x1 box. Finally, combine all three separate boxes into a single compound object.",
+  "geometry": "The model is composed of three identical thin square prisms arranged in a straight linear array. All prisms sit at the same vertical height, are aligned parallel to one another, and are separated by equal horizontal gaps between their adjacent edges.",
+  "function": "This is an evenly spaced array of three identical flat pads, designed for use as positioning supports, stepping elements, or mounting bases for components that require consistent linear spacing in small assemblies."
+}

@@ -1,0 +1,5 @@
+{
+  "operation": "Create a 5×5×1 unit box centered on the YZ workplane. Select the face located at the minimum X coordinate and establish a new workplane on it. Shift the sketch center to (-1, -2) and draw a 2×3 rectangle. Finally, extrude this rectangle by -1 unit, which adds a rectangular tab that extends past the bottom boundary of the original square plate.",
+  "geometry": "The model is composed of a primary square plate of uniform thickness (1 unit). A smaller rectangular block is integrated into one of the plate's edges, positioned off-center. This secondary block is flush with the front and back faces of the plate but protrudes outward from the bottom edge, creating an L-shaped silhouette with one very short arm.",
+  "function": "This component serves as a mounting plate or base with an integrated alignment tab, typically used for positioning a part against a reference edge or providing a specific mounting flange in a mechanical assembly."
+}

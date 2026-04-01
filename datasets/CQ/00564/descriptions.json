@@ -1,0 +1,5 @@
+{
+  "operation": "First, initialize a workplane on the XY reference plane, then create a solid sphere with a radius of 5 units centered at the workplane origin. Next, apply a coordinate transformation that offsets the workplane origin 10 units along the positive X-axis, then create a second 5-unit radius sphere at the new origin. Repeat the 10-unit X-axis offset transformation, create a third identical 5-unit radius sphere at the resulting origin, then combine all three spheres into a single compound solid.",
+  "geometry": "The model is composed of three identical solid spheres arranged in a straight collinear linear chain, where each adjacent pair of spheres touches tangentially at a single contact point. All spheres are equal in size, aligned along a single horizontal axis, with no intermediate connecting structure between the spherical elements.",
+  "function": "This model is intended for use as a simplified triatomic molecule representation, a test calibration geometry for 3D printing or simulation workflows, or a base component for linear spherical chain assembly applications, featuring a simple uniform arrangement of identical spherical parts."
+}

@@ -1,0 +1,5 @@
+{
+  "operation": "First, a base rectangular box is constructed on the XY workplane with dimensions of 20 units along the X axis, 30 units along the Y axis, and 2 units along the Z axis. The top Z-facing face of the box is then selected to create a new workplane. A rectangular point array with 5 unit X spacing, 5 unit Y spacing, 3 columns, and 2 rows is generated on this workplane. 1-unit radius circles are drawn at each array position, and a through-all cut operation is applied to these circles to create fully penetrating holes through the entire thickness of the base box.",
+  "geometry": "The model is a thin rectangular flat prism, with six identical cylindrical through holes arranged in a regular 3-column, 2-row grid pattern evenly spaced across the top face of the plate, where every hole passes completely through the full thickness of the plate.",
+  "function": "This is a perforated mounting plate, intended for use as a small component bracket, spacer, or alignment base, with its evenly spaced through holes supporting fastening screw placement or positional alignment."
+}

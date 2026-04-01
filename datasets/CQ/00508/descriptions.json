@@ -1,0 +1,5 @@
+{
+  "operation": "First, initialize a sketch workplane aligned to the XY reference plane. Draw a closed rectangular 2D profile by sketching an 8-unit horizontal line to the right, followed by a 5-unit vertical line upwards, followed by an 8-unit horizontal line to the left, then closing the path to form an 8×5 rectangle. Finally, extrude the closed 2D profile 3 units along the Z-axis perpendicular to the workplane to create the final 3D solid.",
+  "geometry": "The model is a right rectangular cuboid with 6 flat rectangular faces. All adjacent faces meet at 90-degree right angles, opposite faces are congruent and parallel to each other, and the cross-section of the part is uniform along its entire extrusion axis.",
+  "function": "This is a generic rectangular solid block designed to serve as a basic structural element, spacer, shim, mounting base, or raw workblank for secondary machining and modification in general mechanical assembly applications."
+}

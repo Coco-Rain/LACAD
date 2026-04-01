@@ -1,0 +1,5 @@
+{
+  "operation": "First, a workplane aligned to the XY reference plane is initialized. A 2D circular sketch with a radius of 5 units, centered at the workplane origin, is drawn on this workplane. The closed circular sketch is then extruded linearly along the Z-axis to a height of 3 units to form the final solid part.",
+  "geometry": "The model is a right circular cylinder, with two identical parallel flat circular faces on its top and bottom, connected by a smooth continuous cylindrical side surface. Its central axis runs perpendicular to the XY plane, with a uniform circular cross-section along the entire length of the axis.",
+  "function": "This basic cylindrical blank is suitable for use as a spacer, small support base, washer, small puck component, or starting stock for further machining and modification to produce custom cylindrical parts for mechanical or hobby applications."
+}

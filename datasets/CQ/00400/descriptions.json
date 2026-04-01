@@ -1,0 +1,5 @@
+{
+  "operation": "First, create a 10 x 10 x 10 cubic solid on the XY workplane. Next, select the topmost face with the maximum Z coordinate. Finally, perform a shell operation with an inward wall thickness of 1 unit, removing material from the selected top face to hollow out the interior while retaining the solid base and side walls.",
+  "geometry": "This model is an open-topped hollow square cuboid, with equal external height, width, and depth. It features uniform thickness side walls, a fully closed flat square base, and an internal cavity that matches the shape of the outer profile, only open at the top surface.",
+  "function": "This is a small open-top square container, designed to store small items, act as a simple enclosure, or serve as a generic holding vessel for small parts, with a sturdy base and consistent wall thickness for structural stability."
+}

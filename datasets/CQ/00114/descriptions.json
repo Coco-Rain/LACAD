@@ -1,0 +1,5 @@
+{
+  "operation": "First, a workplane aligned to the XY coordinate plane is initialized. A regular 5-sided pentagon with a circumscribed size of 40 units is sketched on this workplane, then extruded 10 units along the positive Z axis to form a pentagonal prism base. Next, all vertices on the top (maximum Z) face of the prism are selected. A 2-unit radius circle is drawn centered at each selected vertex, then each circle is extruded 10 units upward along the Z axis to create five identical vertical cylindrical posts.",
+  "geometry": "The model consists of a thick regular pentagonal prism base, with five identical equal-height vertical cylindrical posts protruding upwards, one positioned at each corner of the top face of the pentagonal base. The posts are arranged symmetrically around the central vertical axis of the pentagonal base.",
+  "function": "This is a pentagonal alignment fixture or mounting base with integrated locating pins, intended to position, align, and support mating pentagonal components during assembly, testing, or manufacturing operations."
+}

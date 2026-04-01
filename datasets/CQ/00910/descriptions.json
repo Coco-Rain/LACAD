@@ -1,0 +1,5 @@
+{
+  "operation": "First, a base rectangular box with dimensions 20 mm along the X-axis, 5 mm along the Y-axis, and 10 mm along the Z-axis is created on the XZ workplane. Next, the positive Y-facing face of the box is selected to establish a new workplane. A circular sketch with a 4 mm radius is drawn on this workplane, and the edges of this circular sketch receive a 0.8 mm chamfer. The finalized sketch is then used to perform a cut-thru-all operation, removing material fully along the Y-axis length of the base box.",
+  "geometry": "The model consists of two identical rectangular prism segments separated by a cylindrical through-hole that runs along the full width of the original base block. Each segment has one concave curved inner face matching the radius of the cylindrical opening, with all sharp edges around the circumference of the opening chamfered, and flat rectangular outer faces.",
+  "function": "This two-part component is designed to act as a clamp or guide for an 8 mm diameter cylindrical shaft, with chamfered edges at the opening to simplify assembly and eliminate sharp burrs."
+}

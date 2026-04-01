@@ -1,0 +1,5 @@
+{
+  "operation": "Start a workplane aligned to the XY plane, create a 2D sketch on this plane. First draw a circle with a radius of 5 units, then add an 8-unit by 8-unit axis-aligned rectangle to the sketch, combine these two shapes into a single profile via union, then extrude the completed profile to a height of 2 units perpendicular to the XY plane to produce the final solid model.",
+  "geometry": "This is a low-profile uniform-thickness prismatic solid. Its cross-section is formed by the union of a circle and an axis-aligned square, where the four corners of the square protrude as small pointed tabs evenly spaced around the circumference of the circular section. It has flat, identical top and bottom faces, with vertical side faces connecting the top and bottom perimeters.",
+  "function": "This is a compact anti-rotation component suitable for use as a small control knob, fastener cap, or mounting insert, where the four protruding tabs lock into mating features to prevent unintended rotational movement."
+}

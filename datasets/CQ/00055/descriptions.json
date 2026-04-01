@@ -1,0 +1,5 @@
+{
+  "operation": "First, two 3-point spline edges are constructed: the first spline uses control points (1, 1, 0), (1, 1, 1), (1.2, 0.74, 2), while the second spline uses control points (2, 2, 0), (2, 2, 1), (2.2, 1.77, 2). A ruled surface face is generated to connect these two spline edges. Finally, the ruled face is revolved 30 degrees around an axis running from the start point of the first spline (1, 1, 0) to the start point of the second spline (2, 2, 0) to produce the final solid model.",
+  "geometry": "This is a curved wedge-shaped solid sector. It features a flat planar base aligned with its revolution axis, two flat planar radial end faces set at a 30-degree angle to each other, and a smooth contoured outer surface formed from the revolved ruled profile. The structure gently tapers and curves inward as it extends upward from its wider base edge to its narrower curved top edge.",
+  "function": "This precision contoured curved sector component is designed for use as a segment of a turbomachinery blade, aerodynamic surface insert, or structural part for rotational assemblies that require a custom curved profile to meet performance requirements."
+}

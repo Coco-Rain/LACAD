@@ -1,0 +1,5 @@
+{
+  "operation": "Starting on the XY workplane, the cursor is moved to (2, 2) to sketch a 4×4 rectangle, which is then extruded 3 units along the Z-axis to create a solid block extending from (0,0,0) to (4,4,3). The top face (positive Z) is selected to create a new workplane, which by default projects the original (0,0) origin onto this face. A hole with a diameter of 2 units is then drilled at this origin, resulting in a vertical cylindrical cutout at one corner of the block.",
+  "geometry": "The model is a rectangular prism with a square 4×4 base and a height of 3 units. One vertical edge of the block is transformed into a concave cylindrical notch with a radius of 1 unit, which runs the full height of the part. The other three vertical edges are sharp 90-degree corners, and the top and bottom surfaces remain otherwise flat.",
+  "function": "This part is designed as a corner-notched spacer or mounting block. The cylindrical cutout at the corner provides clearance for a round pillar, shaft, or fastener, allowing the block to be positioned flush against a curved vertical component in a mechanical assembly."
+}

@@ -1,0 +1,5 @@
+{
+  "operation": "Start by initializing a CadQuery workplane aligned to the XY reference plane. Create a 2D sketch on this workplane, first drawing a 10 unit by 10 unit centered rectangle, then drawing a 5 unit by 5 unit centered rectangle at the same origin. Run the sketch clean operation to resolve overlapping geometry, finalize the sketch profile, then extrude the resulting closed 2D shape to a height of 1 unit along the positive Z axis.",
+  "geometry": "The model is a thin, uniform-thickness square prism with flat, parallel square top and bottom faces, and four straight vertical side faces that meet the top and bottom faces at sharp right angles. The part has no cutouts, protrusions, or rounded features, with all edges forming 90-degree corners.",
+  "function": "This is a low-profile square shim, spacer, or flat base plate designed for use as a spacing component, mounting pad, or simple structural element in general assembly applications."
+}

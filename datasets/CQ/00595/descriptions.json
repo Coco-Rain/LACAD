@@ -1,0 +1,5 @@
+{
+  "operation": "First, create a workplane aligned to the XY coordinate plane. Next, initialize a 2D sketch on this workplane. Finally, draw an axis-aligned rectangle on the sketch with a length of 4 units and a width of 2 units as the final feature, with no additional extrusion or modification operations applied.",
+  "geometry": "This is a flat planar 2D rectangular shape situated entirely on the XY plane. It has four straight edges that meet at right angles, with its long dimension double the length of its short dimension, and no added cutouts, protrusions, or modified edge features.",
+  "function": "This is a foundational 2D rectangular sketch profile intended for use as a base for subsequent CAD operations, including extrusion, cutting, or as a reference boundary for designing simple flat parts like shims, plates, or mounting bases."
+}

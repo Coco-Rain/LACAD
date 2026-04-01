@@ -1,0 +1,5 @@
+{
+  "operation": "First, create a workplane on the XY coordinate plane, then generate a solid rectangular box with length 20 units, width 20 units, and height 5 units. Select the top face of the box facing the positive Z direction, create a new workplane on this face, then offset the workplane origin 10 units along the X axis and 10 units along the Y axis. Draw a 4-unit by 4-unit square sketch at this offset origin, then perform a through-all cut to extrude this square sketch through the full thickness of the box, forming a complete through hole.",
+  "geometry": "This model is a flat, square-shaped thin plate with a consistent thickness. A square through hole that penetrates the full height of the plate is positioned at one of its four corners, with the edges of the square hole aligned parallel to the outer edges of the plate.",
+  "function": "This is a simple square mounting plate or spacer, designed to be fastened via the through hole at its corner, suitable for use as a positioning shim, basic support component, or mounting fixture in small mechanical assemblies."
+}

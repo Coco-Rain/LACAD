@@ -1,0 +1,5 @@
+{
+  "operation": "First initialize a workplane aligned to the XY reference plane, draw a 20 x 10 unit rectangular profile on this workplane, enter sketch mode to add a 2-unit radius circle, reset sketch selection and add a 1-unit radius circle, finalize the combined sketch profile, then extrude the resulting closed profile 5 units along the Z-axis to generate the final 3D solid.",
+  "geometry": "The model is a uniform right circular solid cylinder, with two flat, parallel identical circular end faces that are perpendicular to its central longitudinal axis, with a consistent circular cross-section across its full height, no holes, notches, or additional protruding features.",
+  "function": "This simple generic cylindrical part is intended for use as a spacer, standoff, test coupon, or basic structural insert in small mechanical assemblies."
+}

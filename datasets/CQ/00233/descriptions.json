@@ -1,0 +1,5 @@
+{
+  "operation": "First, a workplane aligned to the XY coordinate plane is initialized. A 2D sketch is then created on this workplane, featuring a regular 6-sided hexagon with a circumradius of 5 units. After finalizing the sketch, the closed 2D profile is extruded linearly 10 units along the Z-axis (perpendicular to the XY workplane) to produce the final 3D solid.",
+  "geometry": "The model is a right regular hexagonal prism, consisting of two identical parallel regular hexagon end faces connected by six congruent rectangular lateral faces that are perpendicular to both end faces. All edges of the hexagonal end faces are equal in length, and all edges joining the two end faces are uniform in length.",
+  "function": "This standard hexagonal prism part is suitable for use as a spacer, hex fastener head prototype, structural mounting element, or general test component for 3D printing and machining workflows."
+}

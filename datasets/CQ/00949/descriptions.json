@@ -1,0 +1,5 @@
+{
+  "operation": "First, a sphere with a radius of 8 units is created on the front workplane. Next, a 12 unit × 12 unit × 12 unit cube is generated on the XY workplane. The final model is produced by performing a boolean intersection between the sphere and the cube, with redundant geometry cleaned up after the intersection operation.",
+  "geometry": "This is a 3-axis symmetric solid derived from a sphere, with six congruent flat square faces aligned parallel to the three principal orthogonal planes. All transitions between adjacent flat faces are smooth convex curved segments originating from the original spherical surface, with no sharp edges between flat and curved regions.",
+  "function": "This symmetric truncated sphere is suitable for use as a test part for validating boolean modeling operations, a low-roll weighted base component, or a decorative rounded structural element."
+}

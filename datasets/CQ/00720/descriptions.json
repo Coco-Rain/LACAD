@@ -1,0 +1,5 @@
+{
+  "operation": "On the XY workplane, create a 12x8 rectangular sketch and extrude it by 1 unit to form a base plate. Select the top face (positive Z), create a new workplane, and define a closed sketch starting at (-4, 0). Draw a horizontal line segment to (0, 0), then a three-point arc passing through (2, 2) and ending at (4, 0), and finally close the sketch with a line back to (-4, 0). Use this profile to perform a 'cutThruAll' operation to create a through-hole in the plate.",
+  "geometry": "The model is a thin rectangular plate featuring a central through-hole with a unique asymmetric shape. One side of the hole is a straight 8-unit long edge, while the opposite side is comprised of a 4-unit straight section transitioning into a circular arc that spans another 4 units in width.",
+  "function": "This component acts as a base plate or template with a specialized aperture designed to fit or guide a mechanical part that has a combination of flat and curved surfaces, such as a cam follower or a custom locking pin."
+}

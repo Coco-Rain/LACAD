@@ -1,0 +1,5 @@
+{
+  "operation": "First, create an XY workplane, then generate a rectangular box with dimensions 40 along the X axis, 37 along the Y axis, and 70 along the Z axis. Select all edges parallel to the Z axis and apply a 7-unit fillet to these edges. Next, select the bottom face of the box (the face with the lowest Z coordinate), draw a 9-unit radius circle centered on this face, then extrude the circle 10 units in the negative Z direction to form a downward protruding cylindrical feature on the bottom of the main body.",
+  "geometry": "This model is a vertically oriented rounded rectangular prism, with all four vertical edges smoothly rounded. A cylindrical protrusion extends downward from the center of the flat bottom face of the prism, aligned with the central vertical axis of the main rectangular body. The top face is a flat rounded rectangle, and all surfaces are smooth and continuous.",
+  "function": "This is a robust standoff or mounting adapter component, designed to be fixed into a matching hole via its lower cylindrical peg, while its wide rectangular upper body provides a large stable contact surface for supporting or attaching other assembled parts."
+}

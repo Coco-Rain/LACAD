@@ -1,0 +1,5 @@
+{
+  "operation": "First, initialize a CadQuery workplane on the XY reference plane, and create a centered 20mm × 20mm × 5mm rectangular prism as the base. Next, select the topmost Z-direction face of the base prism, create a new workplane on this face, and add a centered 10mm × 10mm × 5mm rectangular prism attached to the base's top face. Exit the face-bound workplane context, offset the active workplane 10mm along the positive Z axis, then add a final centered 15mm × 15mm × 5mm rectangular prism at this elevated position.",
+  "geometry": "The model is formed of three vertically aligned, concentric square prisms stacked along a shared central axis. All three prisms have identical height, with the lowest prism having the largest square cross-section, the middle prism the smallest cross-section, and the top prism an intermediate cross-section size, with no gaps between adjacent prisms.",
+  "function": "This concentric stepped block is intended for use as a 3D printing calibration test piece, a simple spacing component, or a validation geometry for testing CAD workflow operations and additive manufacturing accuracy."
+}

@@ -1,0 +1,5 @@
+{
+  "operation": "Begin by initializing a workplane on the XY plane, then offset the workplane origin 15 units along both the X and Y axes. Sketch an 8-unit by 8-unit rectangle at this offset origin, then extrude the sketch 5 units in the positive Z direction to form a rectangular prism. Select the top (highest Z) face of the prism, create a new workplane aligned to this face, then sketch a regular 6-sided hexagon with a circumradius of 4 units centered on the face. Finally, perform a blind cut 3 units deep into the prism along the negative Z axis using the hexagon sketch as the cutting profile.",
+  "geometry": "The model is a right square prism block with a regular hexagonal blind recess centered on its flat top surface. The recess extends partially through the thickness of the block without piercing the bottom face, and all exterior faces of the base prism are mutually perpendicular.",
+  "function": "This is a socketed mounting or positioning fixture designed to accept hexagonal head fasteners, hexagonal drive tools, or align hexagonal workpieces during assembly or manufacturing processes."
+}

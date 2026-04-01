@@ -1,0 +1,5 @@
+{
+  "operation": "First, a rectangular sweep path with dimensions of 100 units in width and 50 units in height is sketched on the XZ workplane. Next, a circular profile with a 10 unit radius is drawn on the XY workplane set at the origin point (-50, 0, 0). Finally, the circular profile is swept along the full closed rectangular path to generate the final 3D solid.",
+  "geometry": "This is a closed rectangular frame with a consistent circular cross-section along its entire perimeter. It has a hollow rectangular opening at its center, with all inner and outer corners smoothly rounded, and no sharp edges present anywhere on the structure.",
+  "function": "This smooth rounded rectangular frame is designed for use as a handle, rectangular opening sealing gasket, or structural loop, with uniform rounded surfaces that support safe handling, a snug fit, or even load distribution."
+}

@@ -1,0 +1,5 @@
+{
+  "operation": "First, a sphere with radius 5 is created on the XY workplane centered at the origin. Next, a second identical sphere of radius 5 is generated on the XY workplane, with its center offset 7 units along the positive X axis. The two spheres are merged using a boolean union operation with cleaning enabled to form a single contiguous solid, which is then exported as an STL file.",
+  "geometry": "The model is a single continuous solid made of two identical partially overlapping spheres. The centers of the two spheres are aligned along a straight horizontal axis, with a smooth, seamless intersection region where the two spherical surfaces connect, with no sharp edges or extra features present.",
+  "function": "This model serves as a simplified diatomic molecule representation for educational demonstration, a test object to validate CAD boolean union operations, or a small sample part for 3D printing process testing."
+}

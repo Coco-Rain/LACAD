@@ -1,0 +1,5 @@
+{
+  "operation": "Starting on the XY workplane, a 6-sided polygon with a diameter of 25 units is created and extruded 8 units to form a hexagonal base. The top face is selected to define a new workplane, where a cylinder with a radius of 10 and a height of 12 is added (centered on the plane). Finally, the second-highest face (the shoulder of the hexagon) is targeted to drill a hole with a diameter of 6 and a depth of 16 units, passing through the base.",
+  "geometry": "The model features a short, regular hexagonal prism acting as a base, with a taller cylindrical boss protruding from its center. Because the cylinder's diameter is smaller than the hexagonal span, a flat ledge or shoulder is formed. A vertical cylindrical hole is positioned on this shoulder, extending deep into the hexagonal section.",
+  "function": "This part is designed as a specialized mounting base or adapter. The hexagonal shape provides a grip surface for tools, the central cylinder serves as a locating boss, and the offset hole allows for a pin or fastener to secure the component to a mating assembly."
+}

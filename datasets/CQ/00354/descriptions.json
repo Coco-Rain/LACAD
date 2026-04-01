@@ -1,0 +1,5 @@
+{
+  "operation": "Begin on the YZ workplane and create a rectangular box with dimensions 10x20x30. Select the face at the positive Y extreme, define a new workplane on it, and sketch a centered 5x5 rectangle. Finally, extrude this square sketch 10 units outward to form a square-profiled protrusion.",
+  "geometry": "A vertically oriented rectangular prism serving as a base, with a smaller square-profiled block extending horizontally from the center of one of its side faces. the protrusion is roughly half the width of the base face it originates from.",
+  "function": "This part is designed as a vertical mounting block with an integrated square peg, likely used for locating, indexing, or acting as a connector in a larger mechanical assembly."
+}

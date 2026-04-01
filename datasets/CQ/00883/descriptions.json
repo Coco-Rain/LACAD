@@ -1,0 +1,5 @@
+{
+  "operation": "Step 1: Initialize an XY-axis workplane and create a base rectangular prism with dimensions 3 units along the X-axis, 7 units along the Y-axis, and 7 units along the Z-axis. Step 2: Select the positive Y-facing face of the base prism, calculate its bounding box to get the face's center coordinates. Step 3: Set up a new workplane on the selected positive Y face, move the sketch origin to the calculated center point, then add a 1×1×1 cubic protrusion at this position that fuses with the base prism.",
+  "geometry": "The model consists of two axis-aligned rectangular prisms. A large cuboid forms the main body, while a smaller cube is attached perpendicularly to the exact center of one of the main cuboid's larger vertical faces, extending outward from that face. All edges are orthogonal and all surfaces are flat, right-angle planes.",
+  "function": "This solid part is designed as a basic alignment fixture, calibration test piece, or simple mounting block, where the central protruding feature supports part registration, positioning, or connection to matching mating components."
+}

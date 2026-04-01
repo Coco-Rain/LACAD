@@ -1,0 +1,5 @@
+{
+  "operation": "First, a workplane is initialized on the XY reference plane. A 2D sketch is drawn starting at the (0,0) origin: a straight line is created to point (8, 0), followed by a three-point arc passing through (8, 4) that ends at (4, 8), next a straight line is drawn to (0, 4), then a second three-point arc passing through (4, 0) returns to the starting origin point. The closed sketch profile is then extruded 6 units along the Z-axis to form the final 3D solid.",
+  "geometry": "This is a uniform-height extruded solid with no internal cutouts or secondary features. Its cross-section is an irregular closed shape made of two straight linear edges connected by two smooth convex curved edges, resulting in a part with a combination of flat and curved vertical side faces, plus identical flat parallel top and bottom faces.",
+  "function": "This custom profiled solid is designed to serve as a mechanical spacer, fixture insert, or decorative trim component, with its unique curved outer profile engineered to mate precisely with matching adjacent parts in an assembly."
+}

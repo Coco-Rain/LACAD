@@ -1,0 +1,5 @@
+{
+  "operation": "Begin by selecting the YZ workplane and centering the sketch at (1, 1). Draw an ellipse with a semi-major axis of 10 and a semi-minor axis of 2, then extrude this profile by a distance of 5 units along the X-axis to create a solid elliptical prism.",
+  "geometry": "The model is an elliptical cylinder, or prism, featuring a cross-section that is significantly wider than it is tall. It consists of two parallel, flat elliptical faces joined by a continuous, smooth curved surface, oriented horizontally.",
+  "function": "This part is designed as a streamlined structural component or a specialized spacer, likely used in applications requiring an aerodynamic profile or as a cam-like element in a mechanical assembly."
+}

@@ -1,0 +1,5 @@
+{
+  "operation": "First, initialize a workplane on the XY plane, draw an 8x8 unit rectangular sketch, then extrude it 2 units upward to form the base tier. Next, create a new workplane on the top face of the base tier, draw a centered 4x4 unit rectangular sketch, extrude it 1 unit upward to form the middle tier. Finally, create a workplane on the top face of the middle tier, draw a centered 2x2 unit rectangular sketch, extrude it 1 unit upward to form the smallest top tier, completing the solid model.",
+  "geometry": "This is a symmetric three-level stepped square solid, with each tier co-axially centered on the larger tier below it. All tiers are right square prisms with flat, orthogonal faces, and the cross-sectional size of each tier decreases progressively as height increases along the vertical central axis of the part.",
+  "function": "This stepped square test block is designed for dimensional calibration of 3D printers, 3D scanning systems, or CAD-to-manufacturing workflows, providing distinct easily measurable tier sizes to validate process accuracy quickly."
+}

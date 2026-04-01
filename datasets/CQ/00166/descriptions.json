@@ -1,0 +1,5 @@
+{
+  "operation": "First, a right circular cylinder with height 12 units and radius 6 units is created on the XY workplane. Next, a sphere of radius 8 units is generated on the YZ workplane offset 6 units along the Z axis, and this sphere is united with the previously created cylinder. Finally, the most negative X-facing face of the combined solid is selected, a workplane is established on this face, a 2D horizontal slot with length 10 units, width 3 units and 0 rotation is drawn, and this slot is extruded completely through the entire solid to form a through cutout.",
+  "geometry": "The model is a single integrated solid formed by merging a vertical right cylinder with a sphere that protrudes from the front midpoint of the cylinder. A straight through slot with rounded ends is cut fully through the left face of the combined solid, running perpendicular to the X axis.",
+  "function": "This is an articulating mechanical joint component for assembly use. The spherical end fits into a matching socket to enable swiveling movement, the cylindrical section acts as a stable mounting base, and the through slot accommodates fasteners or alignment pins."
+}

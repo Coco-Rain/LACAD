@@ -1,0 +1,5 @@
+{
+  "operation": "First, a 10 x 10 x 2 unit rectangular box is created on the XY workplane. Next, a new workplane is established on the top (positive Z direction) face of the box. The origin of this workplane is offset 3 units along the X axis and 0 units along the Y axis. A circular sketch with a radius of 1 unit is placed at this offset origin, then extruded 2 units in the positive Z direction to produce the final model.",
+  "geometry": "The model is composed of a low-profile square prism base, with a single small right circular cylinder protruding perpendicularly upward from the base's top surface. The cylinder is positioned off-center, offset along one horizontal axis relative to the center of the base's top face.",
+  "function": "This is a simple alignment and mounting component, designed to serve as a spacer, small fixture base, or assembly adapter with an integrated positioning boss to locate adjacent parts."
+}

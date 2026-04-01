@@ -1,0 +1,5 @@
+{
+  "operation": "First, create a 10-unit by 5-unit rectangular sketch on the XY workplane, then extrude this sketch 3 units along the Z-axis to form a rectangular prism base. Next, establish a workplane on the top (+Z) face of the prism, then cut a 2-unit diameter through hole centered on this face. Finally, create a workplane on the bottom (-Z) face of the prism, sketch a centered 4-unit by 2-unit rectangle, and perform a 1-unit deep blind cut into the base from the bottom face.",
+  "geometry": "The model consists of a primary rectangular cuboid body, with a centered circular through hole running perpendicularly through its full height connecting the top and bottom faces. The bottom face of the cuboid also features a smaller centered rectangular indentation that extends a partial depth into the thickness of the main body.",
+  "function": "This is a compact mounting spacer or alignment pad intended for fastened assembly, with a central through hole for fastener insertion and a bottom recess to align with mating features or seat fastener hardware."
+}

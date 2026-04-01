@@ -1,0 +1,5 @@
+{
+  "operation": "First, a CadQuery workplane is created on the YZ reference plane. Next, the text string 'CadQuery' is drawn on this workplane with a font size of 10 units, then extruded along the X-axis to a depth of 2 units to form a solid 3D model.",
+  "geometry": "This model is a solid extruded 3D text spelling 'CadQuery', with all characters arranged in a single continuous line parallel to the YZ plane. It has a uniform consistent thickness extending along the X axis, matching the profile of a standard sans-serif font for the input text.",
+  "function": "This is a 3D CadQuery brand logo model, intended for use as a decorative display piece, promotional item, signage, or embedded branding element for other CadQuery-related 3D designs."
+}

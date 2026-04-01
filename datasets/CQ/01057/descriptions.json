@@ -1,0 +1,5 @@
+{
+  "operation": "On the XY workplane, a 2D sketch is created containing an 8x6 rectangle. All four vertices of this rectangle are selected and modified with a 1.5-unit chamfer. After finalizing the sketch, the resulting octagonal profile is extruded 3 units to create a solid 3D body.",
+  "geometry": "The model is an octagonal prism with a uniform cross-section. It takes the form of a thick rectangular block where the vertical corners have been replaced by flat diagonal faces, resulting in a symmetrical eight-sided footprint.",
+  "function": "This component is designed as a simple structural block or spacer. The chamfered corners make it safer to handle and easier to fit into enclosures where corner clearance might be required."
+}

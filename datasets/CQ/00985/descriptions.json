@@ -1,0 +1,5 @@
+{
+  "operation": "First, a 20 x 20 x 5 rectangular solid is created on the XY workplane. Next, a new workplane is set 2 units offset above the top (positive Z direction) face of the base solid. A 15 x 15 rectangle is sketched on this offset workplane, followed by a through-all cut operation that removes all material along the rectangular sketch profile through the full thickness of the base solid.",
+  "geometry": "This is a symmetric square prismatic frame, with a square outer boundary and a centered square through-hole running fully through the entire vertical thickness of the part. All four walls of the frame have uniform width, forming a hollow square structure with equal side dimensions.",
+  "function": "This rigid square hollow frame is designed for use as a spacer, shim, gasket, or mounting fixture, to provide consistent spacing between surfaces, support square components, or act as a border for aligned square cutout applications."
+}

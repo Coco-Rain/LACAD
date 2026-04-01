@@ -1,0 +1,5 @@
+{
+  "operation": "First, a base cylinder is created by sketching a circle with 10 unit radius on the XY workplane, then extruding the sketch 5 units along the positive Z axis. Next, a new workplane is created on the top (positive Z facing) face of the base cylinder, centered at the face's geometric center. A circle with 5 unit radius is sketched on this new workplane, then a blind cut operation is performed to remove material 2 units deep into the base cylinder, forming a centered recess.",
+  "geometry": "The model is a solid right circular cylinder with a concentric shallow circular recess cut into the center of its upper flat end face. The recess is smaller in diameter than the main cylinder, leaving a flat annular rim surrounding the recess on the top surface, and does not extend through the full height of the base cylinder. All features share a common central vertical axis.",
+  "function": "This recessed cylindrical component is designed for use as a spacer, mounting pad, bumper, or fixture seat, with its central recess intended to accept and align a mating round part or fastener for secure, aligned assembly."
+}

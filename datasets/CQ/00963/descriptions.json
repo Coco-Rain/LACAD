@@ -1,0 +1,5 @@
+{
+  "operation": "First, a CadQuery workplane is created on the XY reference plane. A 10-unit by 10-unit rectangular sketch is drawn centered on this workplane, then the 2D sketch is extruded perpendicular to the XY plane by a height of 1 unit to produce the final 3D solid model.",
+  "geometry": "This model is a thin right regular square prism, with two parallel identical square faces connected by four equal smaller rectangular side faces that are perpendicular to both square end faces. The height of the prism is far smaller than the side length of the square faces.",
+  "function": "This is a generic flat square thin part, designed to be used as a shim, spacer, small mounting pad, or foundational base for constructing more complex CAD assemblies."
+}

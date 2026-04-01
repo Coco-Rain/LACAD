@@ -1,0 +1,5 @@
+{
+  "operation": "First, initialize an XY-plane workplane and generate a 10 unit x 10 unit x 10 unit axis-aligned cube centered at the global origin. Next, initialize a second XY-plane workplane to create a 20 unit x 20 unit x 20 unit axis-aligned cube also centered at the same global origin. Finally, run a boolean intersection operation on the two cubes to retain only their shared overlapping volume as the final model.",
+  "geometry": "The model is a convex, axis-aligned regular cube (six-faced hexahedron), with all faces as equal-sized orthogonal squares, all adjacent faces meet at 90-degree angles, and the shape is symmetric across the three primary coordinate planes.",
+  "function": "This standard uniform cube works as a basic 3D modeling building block, 3D printer calibration test part, unit volume reference, or validation object for testing CAD boolean operation functionality."
+}

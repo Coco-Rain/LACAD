@@ -1,0 +1,5 @@
+{
+  "operation": "First, initialize a CadQuery workplane aligned with the XY coordinate plane. Then, create a wedge primitive with the following specified parameters: x-axis length 20 units, y-axis width 10 units, z-axis height 10 units, minimum x offset for the top face 0, minimum y offset for the top face 0, maximum x offset for the top face 0, maximum z offset for the top face 5, to produce the final solid part.",
+  "geometry": "This is a six-faced polyhedral wedge with a flat rectangular base, one fully vertical rectangular end face, a sloped top surface that tapers along its length, and a trapezoidal opposite end face, with all edges straight and adjacent faces meeting at sharp angles.",
+  "function": "This is a standard tapered wedge component intended for use as a shim, spacer, gap filler, or structural support, designed to provide a sloped interface to adjust fit, fill uneven gaps, or transfer directional loads in mechanical assemblies."
+}

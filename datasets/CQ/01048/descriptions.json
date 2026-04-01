@@ -1,0 +1,5 @@
+{
+  "operation": "Starting on the XY workplane, a sketch is created featuring an ellipse with a semi-major axis of 5 units and a semi-minor axis of 3 units. This sketch is then finalized and extruded vertically along the Z-axis by a distance of 2 units to form a solid body.",
+  "geometry": "The model is an elliptical prism or an oval-shaped plate. It consists of two parallel, identical elliptical faces connected by a smooth, vertical curved surface, resulting in a uniform thickness across its entire footprint.",
+  "function": "This simple geometric component serves as a low-profile elliptical base or spacer, suitable for use as a mounting pad, a decorative plate, or a basic building block in a larger mechanical assembly."
+}

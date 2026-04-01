@@ -1,0 +1,5 @@
+{
+  "operation": "Initially, a 30×30×10 unit rectangular box is created on the XY plane. The top face (positive Z) is selected to create a secondary workplane, where the center is shifted to (5, -5). A 10×6 rectangle is then sketched and extruded 5 units to form a protrusion. Finally, the entire combined solid is rotated 30 degrees around the X-axis (1, 0, 0) relative to its center.",
+  "geometry": "The model features a large, thick square base with a smaller rectangular block protruding from one of its larger faces. The smaller block is positioned off-center in one quadrant of the base. The complete geometry is tilted at a 30-degree angle, giving the overall structure an inclined orientation.",
+  "function": "This part functions as an angled mounting base or specialized bracket. The offset protrusion serves as a locating or mating feature, while the specific 30-degree tilt is designed to orient an attached component at a precise angle within a larger mechanical assembly."
+}

@@ -1,0 +1,5 @@
+{
+  "operation": "First, initialize a CadQuery workplane on the XY coordinate plane, then generate a base solid box with X dimension 15, Y dimension 15, and Z height 3. Next, select the top positive Z-facing face of the base box, create a new workplane aligned to this face, sketch a centered 10 x 5 rectangle on this workplane, then extrude the rectangular sketch 2 units in the positive Z direction to produce the upper raised feature.",
+  "geometry": "The model is an assembly of two vertically stacked orthogonal right rectangular prisms. The lower base prism has a square cross-section, while the smaller upper rectangular prism sits centered on the top flat surface of the lower base, with all of its edges aligned parallel to the edges of the base block.",
+  "function": "This is a simple stepped locating base or spacer, designed with a raised alignment feature to mate with corresponding components, suitable for use as a small fixture part, mount pad, or alignment shim in general mechanical assemblies."
+}

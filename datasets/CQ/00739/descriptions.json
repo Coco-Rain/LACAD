@@ -1,0 +1,5 @@
+{
+  "operation": "Create a 10×10×5 rectangular box on the XY workplane. Select the face at the positive Z extremity to create a new workplane. Draw a 4×4 centered square and use the cutThruAll method to remove material through the entire thickness of the box.",
+  "geometry": "The model is a square-based block with a height equal to half its side length. It features a centered, through-hole with a square cross-section, resulting in a thick-walled frame or a hollowed rectangular prism with uniform vertical thickness.",
+  "function": "This part functions as a basic structural component with a square central aperture, suitable for use as a guide for square rods, a spacer, or a simple mounting bracket in mechanical assemblies."
+}

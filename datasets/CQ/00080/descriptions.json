@@ -1,0 +1,5 @@
+{
+  "operation": "First, create a 30 x 25 x 8 rectangular box on the XY workplane as the base. Next, unite this base with a 12mm tall, 6mm radius cylinder whose center is positioned at offset (10, -5, 4) relative to the XY workplane origin. Finally, select the topmost Z face of the combined solid, create a workplane on this face, draw an 18mm long, 4mm wide 2D slot profile, and cut this slot completely through the entire part.",
+  "geometry": "The model is a combined solid consisting of a rectangular prism and a vertical cylinder that intersects the left section of the prism, with the cylinder extending both above the top face and below the bottom face of the rectangular prism. A narrow rounded-end through slot runs fully through the thickness of the rectangular section of the part.",
+  "function": "This is a light-duty mechanical mounting component, with an integrated cylindrical locating feature for position registration, and a slotted through hole that supports adjustable fastening during assembly, suitable for use as a small bracket or alignment fixture."
+}

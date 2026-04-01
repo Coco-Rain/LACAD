@@ -1,0 +1,5 @@
+{
+  "operation": "First, create a CadQuery workplane aligned to the XY reference plane. Next, sketch a 5-unit by 5-unit rectangular profile centered on the workplane origin. Finally, execute a twist extrusion operation on the profile: extrude it to a total height of 30 units along the Z-axis, with a uniform 360-degree full rotation twist applied across the entire extrusion length.",
+  "geometry": "This is an elongated twisted prismatic solid with identical square cross sections at both its top and bottom ends. Its four side surfaces are continuous smooth helical curved surfaces, formed by the gradual full rotation of the square profile from the bottom end to the top end along the central vertical axis, with no additional holes, cutouts or attached secondary features.",
+  "function": "This twisted square profile part is designed for use as a decorative baluster, specialized fastener shank, drill bit blank, or torsion-resistant structural component, with its continuous helical surface providing both aesthetic appeal and improved torsional load performance."
+}

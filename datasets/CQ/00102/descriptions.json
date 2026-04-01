@@ -1,0 +1,5 @@
+{
+  "operation": "Start with an XY base workplane. Generate a polar array of 12 sketch origin points arranged in a full 360° circle with a radius of 25 units. Draw a 1 unit by 2 unit rectangle at each array point. Extrude all 12 rectangles 9 units perpendicular to the workplane to create solid prisms, then combine all separate extruded solids into a single unified part.",
+  "geometry": "The model is made up of 12 identical rectangular prisms arranged in an evenly spaced concentric circular ring around an empty central axis. All prisms extend vertically upward from the same flat base plane, with consistent gaps between adjacent segments and no connecting material between individual prisms, forming a hollow open circular structure.",
+  "function": "This segmented circular component is designed for use as a rotational indexing marker, optical encoder reference ring, or prototype pulley tooth set, with evenly spaced segments to support position detection, mechanical engagement, or spacing requirements for rotary systems."
+}

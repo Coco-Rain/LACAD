@@ -1,0 +1,5 @@
+{
+  "operation": "First, create a 2D sketch of a 20-unit by 50-unit rectangle, then apply a 5-unit radius fillet to all four vertices of the rectangle. Next, place this sketch on the XY workplane, extrude the sketch 55 units along the positive Z-axis to form a 3D solid. Finally, translate the entire resulting solid 22.5 units along the negative Z-axis to adjust its vertical position.",
+  "geometry": "This model is a straight right prism with a uniform rounded rectangular cross-section along its full length. Its two opposite end faces are identical rounded rectangles with equal-radius smooth curved corners, connected by four flat, perpendicular rectangular side faces.",
+  "function": "This is a general-purpose rounded rectangular block intended for use as a spacer, structural support, mounting insert, or fixture component. Its rounded corners eliminate sharp edges, and its consistent profile allows reliable fitting into matching rectangular recesses for assembly applications."
+}

@@ -1,0 +1,5 @@
+{
+  "operation": "First initialize a new 2D CadQuery Sketch object, draw a base circle with radius of 2 units, select the perimeter edge of this base circle, distribute 20 equally spaced points along this edge, then draw a circle of radius 1 unit at each of the 20 distributed points, with all overlapping shapes automatically merged to form a single closed 2D profile.",
+  "geometry": "This is a planar closed 2D shape with a smooth scalloped outer edge. Equal-sized small circular protrusions are arranged evenly around the boundary of a larger central rounded region, overlapping with each other and the central area to form a continuous wavy, cloud-like outline with no sharp corners.",
+  "function": "This scalloped 2D profile is designed for use as a base sketch for decorative components, gaskets, stylized cloud graphics, patterned cutouts, or as a starting shape to extrude into 3D parts with a soft rounded wavy perimeter."
+}

@@ -1,0 +1,5 @@
+{
+  "operation": "First, initialize a YZ-aligned workplane and create a base rectangular box with dimensions of 3 units along the X-axis, 10 units along the Y-axis, and 6 units along the Z-axis. Next, select the positive X-facing face of the base box, create a sketch workplane on this face, offset the sketch origin 2.5 units left and 4 units up relative to the face origin, then draw a rectangle that is 1.5 units wide and 3 units tall. Finally, extrude the rectangular sketch 2 units outward in the positive X direction to form a protruding boss feature.",
+  "geometry": "The model is composed of two connected rectangular prisms: a larger main rectangular prism as the primary body, and a smaller rectangular prism boss that extends perpendicularly from one side face of the main body. The smaller boss is located in the upper left area of the side face it attaches to, and is fully joined to the main body surface.",
+  "function": "This is a basic mechanical structural component, suitable for use as a mounting bracket, spacer, or alignment part, with a main load-bearing body and a dedicated protruding tab for attachment or positioning requirements."
+}

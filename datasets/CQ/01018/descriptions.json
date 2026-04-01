@@ -1,0 +1,5 @@
+{
+  "operation": "First, a workplane is initialized on the YZ plane. A 10 x 10 rectangle is created as the base sketch feature. The sketch origin is then shifted to the (5, 5) coordinate position, where a second 10 x 10 rectangle is drawn in subtract mode to remove overlapping area from the base rectangle. The sketch is finalized, and the resulting L-shaped 2D profile is extruded 1 unit along the X-axis to form the final 3D model.",
+  "geometry": "The model is a thin, uniform-thickness L-shaped flat plate. It is composed of two perpendicular equal-width legs joined at a 90-degree internal corner, with consistent thickness across the entire structure, and all edges form sharp right angles.",
+  "function": "This is a standard L-shaped angle bracket designed for use as a right-angle joint fastener, corner reinforcement piece, or alignment spacer in assemblies that require support between two perpendicular surfaces."
+}

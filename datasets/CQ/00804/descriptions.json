@@ -1,0 +1,5 @@
+{
+  "operation": "First, a workplane is initialized on the XY plane, then a rectangular prism box with dimensions 8 units (X-axis), 6 units (Y-axis), and 4 units (Z-axis) is created. Next, the topmost face along the positive Z direction is selected, and a new workplane is created on this face. A 2D sketch of a circle with a 1.5 unit radius is drawn centered on this workplane, the sketch is finalized, and the 2D circular profile is extruded 3 units in the positive Z direction to form a solid cylinder attached to the top of the base box.",
+  "geometry": "The solid model is composed of two connected simple geometric primitives: a rectangular cuboid base, and a right circular cylinder attached to the exact center of the cuboid's top surface. The cylinder is aligned perpendicularly to the top face of the base, sharing the same central vertical axis as the top face of the cuboid.",
+  "function": "This is a basic mounting, spacing, or alignment component, with a stable rectangular base for secure placement and a centered protruding cylindrical boss to provide a standard connection, positioning, or fastening interface for mating parts."
+}

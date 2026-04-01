@@ -1,0 +1,5 @@
+{
+  "operation": "First, initialize a 2D CadQuery Sketch. Next, push four center points at coordinates (2, 2), (5, 5), (8, 8), and (10, 10) to the sketch workplane. Finally, draw an identical circle with radius 1 centered at each of the four placed points to form the final 2D sketch.",
+  "geometry": "This 2D planar model consists of four identical equal-diameter circles arranged sequentially along a 45-degree diagonal line, with consistent equal spacing between consecutive circle centers, and no overlap between any circles.",
+  "function": "This is a reusable diagonal pattern of identical circles, designed for use as a hole alignment guide, positioning marker template, or base sketch for extruding aligned pins or matching cutouts."
+}

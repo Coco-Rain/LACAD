@@ -1,0 +1,5 @@
+{
+  "operation": "First, a CadQuery workplane is initialized using the XY reference plane. The string 'Hello' is then extruded from this workplane, with a set font size of 5 units and an extrusion depth (distance) of 1 unit, with no further modification operations performed on the resulting solid text geometry.",
+  "geometry": "The model consists of five solid prismatic characters spelling 'Hello' arranged in a linear horizontal sequence. All characters have identical uniform thickness, share a coplanar base face, and follow consistent letterform proportions and height matching a standard font.",
+  "function": "This raised 3D text model is intended for use as a 3D printing test piece, decorative signage component, custom display element, or small craft embellishment."
+}

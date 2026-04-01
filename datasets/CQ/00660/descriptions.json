@@ -1,0 +1,5 @@
+{
+  "operation": "First, initialize a workplane aligned to the XY coordinate plane. Sketch an 8-unit by 8-unit axis-aligned rectangle on this workplane, then extrude the rectangle 2 units in the positive Z direction to form a square prism. Next, select the top face of the prism (the face furthest along the positive Z axis), draw a 3-unit radius circle centered on this face, then execute a blind cut 1 unit deep in the negative Z direction to create a shallow circular recess in the top of the prism.",
+  "geometry": "This model is a square prism block with equal side lengths and uniform overall height, featuring a shallow cylindrical recess that is perfectly concentric with the top surface of the block. The recess does not penetrate the full thickness of the block, leaving the bottom face entirely flat and unbroken, with all outer edges of the square base sharp and orthogonal.",
+  "function": "This component serves as a simple base, spacer, or locating fixture, with the central recess designed to seat, align, or retain matching cylindrical parts such as inserts, pins, or fastener heads for small assembly applications."
+}

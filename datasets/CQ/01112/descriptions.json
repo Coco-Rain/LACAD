@@ -1,0 +1,5 @@
+{
+  "operation": "Begin by sketching a regular hexagon with a diameter of 20 units on the XY plane and extruding it 5 units thick. Select the top face (positive Z) and create a new workplane. On this plane, sketch a sector by moving to (8, 0), drawing a radius arc with a radius of 10 units to the point (0, 8), and drawing lines to the origin (0, 0) to close the shape. Finally, perform a blind cut with a depth of 3 units into the hexagonal base.",
+  "geometry": "The model is a hexagonal prism with a shallow, wedge-shaped cutout on its top surface. The cutout occupies one quadrant of the center and features a curved outer edge, resembling a circular sector with a radius slightly larger than the distance to the starting point, creating a partial recessed pocket.",
+  "function": "This part represents a specialized hexagonal base or fitting that includes a precision-machined recess. The curved cutout is designed to provide clearance or a mounting interface for a mating cylindrical or pivoting component within a larger mechanical assembly."
+}

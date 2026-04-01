@@ -1,0 +1,5 @@
+{
+  "operation": "First, initialize a CadQuery workplane on the XY axis, then generate a solid rectangular box with X dimension 20, Y dimension 10, and Z dimension 5. Next, select the positive Y-facing face of the box, create a new workplane offset 2.5 units from this face. Draw an 18 x 8 rectangle centered on this offset workplane, then execute a blind cut 2 units deep into the solid box from the workplane to form the recessed feature.",
+  "geometry": "The model consists of a base rectangular prism, with a smaller rectangular recess cut partially into one of its shorter vertical end faces. The recess is aligned centrally on the target face, extending inward into the prism without penetrating the opposite side, forming a solid structure with one partial cutout.",
+  "function": "This is a simple assembly component that can serve as a spacer, mounting block, or alignment fixture, with a recessed cutout designed to mate with a corresponding part for positioning or connection purposes."
+}

@@ -1,0 +1,5 @@
+{
+  "operation": "First, a CadQuery workplane is initialized aligned to the YZ reference plane. A new sketch is created on this workplane, then a circle with radius 5 units is drawn centered at the workplane origin, followed by a second concentric circle with radius 3 units at the same origin. A clean operation is executed to resolve sketch geometry conflicts, after which the sketch is finalized to generate a 2D hollow annular profile that is then exported as an STL file.",
+  "geometry": "This is a flat, planar 2D hollow ring (annulus) profile lying on the YZ plane. It is composed of two concentric closed circular boundaries, with a uniform radial width between the outer perimeter and inner cutout, forming a closed hollow 2D shape with no volumetric thickness.",
+  "function": "This standard annular 2D profile is designed as a base cross-section for 3D modeling workflows, intended for producing parts like washers, gaskets, spacers, or tubular segments when paired with subsequent operations such as extrusion or revolution to create volumetric components."
+}

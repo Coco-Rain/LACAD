@@ -1,0 +1,5 @@
+{
+  "operation": "Start by initializing a workplane on the XY plane, shift the sketch origin to coordinate (2.5, 2.5), draw a 5x5 unit rectangle, then extrude this rectangle 1 unit along the positive Z axis to form a solid square prism. Next, select the top Z-facing face of the prism to create a new workplane, shift this workplane's origin by (-1.25, -1.25) relative to the face center, draw a 2.5x2.5 unit rectangle on this workplane, then perform a through cut operation to remove all material bounded by this smaller rectangle from the full height of the prism to produce the final part.",
+  "geometry": "This is a constant-thickness L-shaped prismatic solid with two equal-width rectangular legs joined at a 90-degree internal right angle. It has flat, parallel top and bottom faces, sharp straight edges, and the outer corner of the L also forms a 90-degree angle matching the internal cut corner.",
+  "function": "This is a universal L-shaped bracket, shim, or spacer intended for use at right-angle joints, designed to provide spacing, alignment, or light structural support between two perpendicularly mounted components."
+}

@@ -1,0 +1,5 @@
+{
+  "operation": "Start by initializing a workplane on the XY reference plane. Next, create a 2D sketch of a regular 6-sided hexagon with a circumradius of 3 units, rotated 45 degrees from its default orientation. Finalize the 2D sketch, then extrude the closed hexagon profile along the positive Z-axis to a height of 10 units to generate the final 3D solid part.",
+  "geometry": "The model is a straight uniform hexagonal prism, with two identical parallel regular hexagonal end faces connected by six congruent rectangular side faces that are perpendicular to the end faces. The hexagonal cross section remains consistent along the full length of the prism's central longitudinal axis, and the hexagon is rotated at a 45-degree offset around this axis.",
+  "function": "This standard uniform hexagonal prism can be used as a basic structural component, fastener head feature, 3D printing calibration test piece, or generic modular building block for mechanical assemblies and fabrication projects."
+}

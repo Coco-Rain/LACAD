@@ -1,0 +1,5 @@
+{
+  "operation": "Initially, a rectangular base is created with dimensions 50×40×25 centered on the XY plane. A second workplane is then established at an offset of 12.5 units in the Z-axis (on the top surface of the base), where an ellipse with semi-axes of 30 and 20 units is sketched and extruded upward by 15 units. Finally, a counterbore hole is added to the top center of the elliptical extrusion, featuring a through-hole diameter of 10, a counterbore diameter of 15, and a counterbore depth of 8 units.",
+  "geometry": "The model features a two-tiered structure consisting of a rectangular prismatic base topped with a larger elliptical cylinder. The elliptical section extends slightly beyond the length of the rectangular base. A centered, vertical counterbore hole passes through the top face of the elliptical component into the body.",
+  "function": "This part functions as a specialized mounting block or adapter designed to secure a component via a counterbored bolt. The elliptical top provides a wider surface area for seating or alignment, while the rectangular base provides a stable platform for attachment to a flat surface."
+}

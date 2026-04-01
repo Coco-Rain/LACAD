@@ -1,0 +1,5 @@
+{
+  "operation": "First, a 30 x 20 x 12 rectangular base block is created on the XY workplane. Next, a 25-length, 5-radius cylinder is created on the XZ workplane offset by (0, 6, 6) and subtracted from the base to form the first cutout. Finally, another 25-length, 5-radius cylinder is created on the YZ workplane offset by (15, 0, 6) and subtracted from the base block to form the second perpendicular cutout.",
+  "geometry": "The model consists of a rectangular prism base with two mutually perpendicular, equal-radius cylindrical grooves cut all the way through the block at its mid-height. The two grooves intersect at one top edge of the prism, forming a smoothly curved concave right-angle recess at the intersection point.",
+  "function": "This component acts as a right-angle guide for two crossing cylindrical elements such as pipes, cables, or rods, with a smooth internal curved corner to reduce wear on routed elements, and a solid block body for stable mounting and structural support."
+}

@@ -1,0 +1,5 @@
+{
+  "operation": "First, initialize a workplane on the XY axis, then create a rectangular box with dimensions 20 length x 20 width x 5 height. Select the top positive-Z facing face of the box, and create a new workplane aligned to this face. Draw a 5x5 construction-only rectangle, select all 4 vertices of this rectangle, then cut 2-diameter through holes at each of the 4 vertex positions that extend fully through the thickness of the box.",
+  "geometry": "The model is a flat square prismatic plate, with four identical cylindrical through holes arranged in a evenly spaced centered square pattern on its top surface, where each hole runs completely through the full thickness of the plate.",
+  "function": "This is a low-profile square mounting bracket, designed to be secured with standard fasteners through its four pre-drilled holes, for use as a stable base or connecting part in mechanical assemblies."
+}

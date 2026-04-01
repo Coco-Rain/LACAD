@@ -1,0 +1,15 @@
+import cadquery as cq
+
+s = ( cq.Sketch()
+.circle(15.175)
+.circle(11.175, mode='s')
+.push([(17.5,0), (-17.5,0)])
+.circle(4)
+.circle(2, mode='s')
+.clean()
+.reset()
+.vertices('>Y or <Y')
+.fillet(1)
+)
+result = cq.Workplane().placeSketch(s).extrude(7).faces('|Z').chamfer(0.5)
+cq.exporters.export(result, 'GT.stl')

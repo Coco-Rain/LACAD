@@ -1,0 +1,5 @@
+{
+  "operation": "First, a circle with radius 5 is sketched on the XY workplane, which is extruded 10 units along the Z-axis to create a base cylinder. A new workplane is created on the top Z-facing face of the cylinder, and a 2x2 unit construction rectangle is drawn to define hole positions. 0.5 radius circles are placed at each of the four vertices of the construction rectangle, and these profiles are cut all the way through the full height of the cylinder to form through holes.",
+  "geometry": "The model is a solid right cylinder with four identical straight through holes aligned parallel to the cylinder's central axis. The holes are arranged symmetrically in a square pattern centered on the cylinder's top face, extending fully from the top to the bottom face of the part.",
+  "function": "This robust cylindrical component is designed for use as a small granular material dispensing cap, multi-passage stopper, or mounting spacer, with four through holes to support material flow or small fastener placement."
+}

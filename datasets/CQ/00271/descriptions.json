@@ -1,0 +1,5 @@
+{
+  "operation": "First, a workplane is initialized on the XY plane. A regular 6-sided hexagon with a circumscribed diameter of 10 units is sketched on this workplane. The 2D hexagon profile is extruded 5 units along the Z axis to form a solid hexagonal prism. All vertical edges of the prism that are parallel to the Z axis are selected, and a 1 unit chamfer is applied to each of these edges.",
+  "geometry": "This is a short, axially symmetric regular hexagonal prism with all longitudinal vertical edges chamfered. It has parallel, matching regular hexagonal top and bottom faces, and its six rectangular side faces are separated by small angled flat cutaways from the chamfer operation, with no sharp vertical corners.",
+  "function": "This chamfered hexagonal component is designed for use as a mechanical spacer, standoff, or standard hex fastener head, with softened edges to eliminate sharp corners for safer handling and easier assembly."
+}

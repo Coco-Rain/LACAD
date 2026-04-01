@@ -1,0 +1,5 @@
+{
+  "operation": "Begin on the XY workplane by extruding a 30×20 rectangle to a height of 5 units to form a base. On the top surface of this base, extrude a centered ellipse with a major radius of 12 and a minor radius of 8 to a height of 3 units. Then, on the top surface of the ellipse, create a centered 2D slot with a length of 15 and a width of 4 and cut it through the entire model. Finally, apply a 1.5-unit fillet to all edges parallel to the Z-axis.",
+  "geometry": "The model is a tiered solid consisting of a rectangular bottom plate and an elliptical top platform, both centered on the vertical axis. A central pill-shaped slot passes vertically through the entire structure. All vertical corners, including those of the rectangular base and the elliptical protrusion, are smoothed with fillets.",
+  "function": "This part functions as a mounting or alignment base with a raised guide boss. The central slot provides a clearance or track for fasteners or sliding pins, while the rounded vertical edges improve safety and aesthetics in a mechanical assembly."
+}

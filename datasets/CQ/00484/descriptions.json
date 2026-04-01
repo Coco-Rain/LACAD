@@ -1,0 +1,5 @@
+{
+  "operation": "First, a workplane is initialized on the XY reference plane. A polyline is drawn connecting the points (0, 0), (5, 0), and (0, 5), then closed to form a right isosceles triangular 2D profile with 5 unit long perpendicular sides. This closed 2D profile is then extruded 3 units along the Z-axis to produce the final 3D solid.",
+  "geometry": "This model is a uniform right triangular prism with a right isosceles triangular cross-section. It features two identical parallel triangular end faces connected by three flat rectangular side faces, with the prism extending perpendicular to the triangular base at a constant height.",
+  "function": "This standard right triangular prism serves as a basic structural component, calibration test geometry, or support spacer, suitable for assembly applications that require a right-angle triangular profile for angled or corner interface fits."
+}

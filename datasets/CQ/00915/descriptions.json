@@ -1,0 +1,5 @@
+{
+  "operation": "First, initialize a workplane aligned to the XY coordinate plane. Next, create a sketch of a 0° horizontally oriented slot feature with a length of 10 units and a width of 2 units. Finalize the 2D sketch, then extrude the closed slot profile by 4 units in the direction perpendicular to the XY workplane to generate the final 3D solid.",
+  "geometry": "This is a constant cross-section extruded solid with an obround (slot-shaped) cross-section made up of two parallel straight long sides connected by matching semicircular end caps. It has flat, parallel top and bottom faces matching the cross-section profile, and perpendicular side faces that follow the obround perimeter, with no additional cutouts or protruding features.",
+  "function": "This is a simple slotted oblong bar intended for use as a mechanical key, alignment spacer, sliding guide component, or mounting insert that fits into matching slotted recesses for assembly or motion guidance applications."
+}

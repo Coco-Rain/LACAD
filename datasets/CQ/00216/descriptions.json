@@ -1,0 +1,5 @@
+{
+  "operation": "First, initialize a CadQuery workplane on the XY reference plane. Offset the active sketch center to the coordinate (2, 3) on the XY plane. Draw a 2D rectangular profile with a width of 4 units and height of 6 units centered at this offset origin. Extrude the 2D rectangle 2 units along the positive Z axis to form the final 3D solid.",
+  "geometry": "This is a simple unfeatured right rectangular cuboid with all adjacent faces intersecting at 90-degree right angles. Its bottom rectangular face sits on the XY plane, the solid extends vertically upward along the Z axis, and the center of its base is offset from the global origin of the XY plane.",
+  "function": "This is a generic rectangular solid block, designed to be used as a basic structural component, spacer, mounting pad, fixture block, or foundational element in mechanical assemblies that require a uniform prismatic shape."
+}

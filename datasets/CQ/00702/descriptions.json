@@ -1,0 +1,5 @@
+{
+  "operation": "Start on the XY workplane and create a single rectangular box with a width of 10 units along the X-axis, a length of 20 units along the Y-axis, and a height of 5 units along the Z-axis.",
+  "geometry": "The model is a simple rectangular cuboid (prism) with an elongated form. It consists of six flat rectangular faces and twelve straight edges meeting at 90-degree angles, with the length being exactly twice the width.",
+  "function": "This part serves as a basic geometric primitive, suitable for use as a structural base, a spacer, or a simple mounting block in mechanical assemblies."
+}

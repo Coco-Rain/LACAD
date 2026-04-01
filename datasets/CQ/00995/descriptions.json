@@ -1,0 +1,5 @@
+{
+  "operation": "First, create a workplane aligned to the XY coordinate plane, then generate a rectangular base box with dimensions of 20 units (X-axis length), 20 units (Y-axis width), and 5 units (Z-axis height). Next, select the top face of the box (the face with the maximum Z coordinate) and create a new workplane on this face. Draw a closed 6-point polyline with vertices at [(0,0), (5,0), (7,3), (5,6), (0,6), (-2,3)], then perform a cut-thru-all operation to extrude this polyline profile completely through the full 5-unit thickness of the base box to form a through hole.",
+  "geometry": "The model is a flat, uniform-thickness square plate with straight, perpendicular side walls and flat parallel top and bottom faces. A symmetric six-sided (hexagonal) through hole is located at the center of the plate, extending fully through both the top and bottom faces of the plate.",
+  "function": "This is an alignment or mounting plate designed to mate with a matching hexagonal profile component, suitable for use as a spacer, fixture insert, or registration plate in mechanical assembly applications."
+}

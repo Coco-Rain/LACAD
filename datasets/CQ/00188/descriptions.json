@@ -1,0 +1,5 @@
+{
+  "operation": "First, an XY-plane workplane is initialized. A sketch is created on this workplane, defining an irregular pentagon using the 5 specified vertex coordinates, with the full polygon profile rotated by 15 degrees. The completed sketch is finalized, then extruded 12 units along the Z-axis perpendicular to the XY workplane to generate the final 3D solid model.",
+  "geometry": "This model is a right irregular pentagonal prism, with two identical parallel irregular convex pentagonal faces as its top and bottom ends, connected by 5 flat rectangular side faces that are perpendicular to both end faces. It is a simple uniform extruded solid with no additional cutouts, rounded edges, or secondary features.",
+  "function": "This custom pentagonal prismatic solid is designed for use as a spacer, mounting base, mating fitting, or decorative component in assemblies that require a specific irregular pentagonal cross-section, and is suitable for 3D printing or CNC fabrication."
+}

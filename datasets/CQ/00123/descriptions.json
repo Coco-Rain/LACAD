@@ -1,0 +1,5 @@
+{
+  "operation": "First, a cylinder with a height of 12 units and radius of 6 units is created on the XY workplane. A new workplane is then established on the top (positive Z direction) face of this cylinder, where a regular 5-sided polygon with a circumradius of 8 units is sketched. This polygon sketch is extruded upward by 7 units to form the upper feature of the model. Finally, all edges of the complete solid that are oriented parallel to the Z axis are filleted with a radius of 1.5 units.",
+  "geometry": "The model is a coaxial two-tiered solid structure. Its lower section is a right circular cylinder, and its upper section is a regular pentagonal prism mounted concentrically on the top face of the lower cylinder. All vertical edges on both the cylindrical base and the pentagonal upper section are rounded with a small constant-radius fillet.",
+  "function": "This is a specialized mechanical component suitable for use as a custom fastener, locating pin, or adapter. The pentagonal upper feature supports unique anti-rotation engagement or specialized tool interfacing, while the larger cylindrical base provides stable, secure seating or mounting."
+}

@@ -1,0 +1,5 @@
+{
+  "operation": "First, a 2D sketch is created on the XZ workplane: starting at the origin (0,0), draw a 20 unit long vertical line up to coordinate (0,20), then draw a 3-point spline passing through points (0,20), (5,25), (10,20), then draw a 20 unit long vertical line down to coordinate (10,0), then close the sketch to form a closed profile. This closed 2D profile is then revolved 360 degrees around the Z-axis (the profile's left vertical edge at X=0) to produce the final 3D solid.",
+  "geometry": "This is a fully rotationally symmetric solid around its central vertical axis. The lower section is a right circular cylinder of uniform radius, while the upper top surface is a smooth curved dome that peaks at its outer circumference and features a shallow concave indentation at the central axis intersection point, with no sharp edges across the entire part.",
+  "function": "This part is designed to serve as an ergonomic control knob, small container sealing stopper, or decorative rounded finial, with smooth, snag-free surfaces suitable for comfortable manual handling."
+}

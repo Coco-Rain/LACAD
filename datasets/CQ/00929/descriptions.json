@@ -1,0 +1,5 @@
+{
+  "operation": "First, a 2D sketch is initiated on the XZ workplane: start at coordinate (-4, 0), draw a 3-unit long horizontal line to the right, followed by a 6-unit long vertical line pointing upwards, then a 5-unit long horizontal line to the right. Next, move the sketch cursor to (-1, 6) and draw a circle with a 1.5 unit radius to form a closed 2D profile. Finally, this entire closed profile is extruded 10 units along the Y-axis to generate the final 3D solid model.",
+  "geometry": "This is an elongated right prism solid with a uniform constant cross-section along its full length. The cross-section has flat straight lower and left edges, paired with a smooth convex curved upper segment that forms a rounded top running the entire length of the part, with identical matching flat end faces at both ends of the extrusion.",
+  "function": "This is a prismatic structural component designed for use as a guide rail, spacer, grip element, or alignment insert, with a rounded top to enable smooth contact and flat edges for stable, secure mounting or positioning."
+}

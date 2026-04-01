@@ -1,0 +1,5 @@
+{
+  "operation": "Start by creating a workplane on the XY coordinate plane, sketch a circle with a radius of 10 units, then extrude this sketch 1 unit along the positive Z axis to form a solid cylindrical disk. Next, select the top Z-axis face of the disk, create a new workplane aligned to this face, sketch a concentric circle with a 5 unit radius, then execute a cut-thru-all operation to remove all material inside the 5 unit radius circle through the entire thickness of the disk to produce the final hollow part.",
+  "geometry": "This model is a thin, flat annular ring with uniform thickness. It has two concentric circular boundaries: a larger outer circumference and a smaller inner circumference that forms a fully through coaxial hole running along the central axis perpendicular to the flat top and bottom faces, with sharp, unfilleted edges on all surfaces.",
+  "function": "This is a standard flat washer, intended to distribute clamping load from threaded fasteners such as bolts or screws, act as a spacing shim, protect mounting surfaces from damage, or serve as a simple sealing element in mechanical assemblies."
+}

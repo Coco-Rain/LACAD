@@ -1,0 +1,5 @@
+{
+  "operation": "First, initialize a CadQuery workplane aligned to the YZ reference plane. Next, sketch a 2D circle with a radius of 5 units centered at the workplane origin. Finally, extrude this circular sketch a distance of 10 units perpendicular to the YZ plane along the X axis to form the final solid model.",
+  "geometry": "This is a uniform right circular cylinder, with two identical parallel flat circular end faces connected by a smooth continuous curved lateral surface. Its central longitudinal axis is perpendicular to both end faces, and the cross-section perpendicular to this axis is identical across the full length of the part.",
+  "function": "This is a standard cylindrical blank that can be used as a spacer, short shaft segment, raw machining stock, or basic structural building block for mechanical assembly and prototyping work."
+}

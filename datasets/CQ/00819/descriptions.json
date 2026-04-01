@@ -1,0 +1,5 @@
+{
+  "operation": "First, initialize a 2D sketch workspace. Draw a base circle with a radius of 2 units, select all edges of this circle, then distribute 20 identical 1-unit wide by 2-unit tall rectangles evenly along the selected circular edge, merging them with the base circle to form the final closed 2D profile.",
+  "geometry": "This is a planar, symmetric closed 2D shape consisting of a circular core with 20 identical rectangular protrusions spaced at equal angular intervals around its entire outer perimeter, forming a serrated, sprocket-like overall outline.",
+  "function": "This evenly notched circular profile is designed for use as a sprocket, gear blank, notched gasket, decorative seal, or cutting die template, with consistent perimeter protrusions suitable for mechanical engagement, sealing, or decorative applications."
+}

@@ -1,0 +1,5 @@
+{
+  "operation": "First, a rectangular box with dimensions 30 x 25 x 15 is created on the XY workplane. Next, an XZ workplane offset 12.5 units along the Y axis is used to draw an ellipse with radii 10 and 6, which is extruded 5 units, then this extruded elliptical feature is unioned to the base box. Finally, the face at the maximum Y coordinate is selected, and a shell operation with 3 unit wall thickness is performed to hollow the solid, leaving the selected face open.",
+  "geometry": "The model is a uniform-thickness hollow structure composed of a rectangular prism base with an elliptical cross-section protrusion centered on one of its shorter vertical side faces. The part is open on the face opposite the elliptical protrusion, with consistent wall thickness across all closed surfaces.",
+  "function": "This is a lightweight hollow enclosure housing designed for small electronic or sensor components, where the elliptical protrusion acts as a dedicated interface for cable pass-through, mounting, or port integration."
+}

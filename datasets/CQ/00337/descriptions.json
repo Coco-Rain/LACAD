@@ -1,0 +1,5 @@
+{
+  "operation": "Start by creating a rectangular box with dimensions 12x12x8 units on the XY plane. Select the top face (positive Z) to create a new workplane and cut an 8x8 unit square cavity to a depth of 6 units. Finally, on the top workplane, sketch a circle with a radius of 1.5 units and perform a through-all cut to create a central hole that passes through the bottom of the cavity.",
+  "geometry": "The model is a thick-walled square container with a large square recess in the center. At the base of this internal pocket, there is a circular through-hole that penetrates the remaining bottom thickness of the part.",
+  "function": "This part functions as a small housing or socket designed to hold a square component. The central hole at the base allows for the passage of a wire, fastener, or secondary shaft through the bottom of the enclosure."
+}

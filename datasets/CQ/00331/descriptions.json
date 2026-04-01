@@ -1,0 +1,5 @@
+{
+  "operation": "First, a workplane is initialized on the XY plane, where a 20-unit by 10-unit rectangular sketch is created. This sketch is extruded 5 units along the positive Z axis to form a rectangular prism. Next, the top face (the face with the maximum Z coordinate) of the prism is selected, and a new workplane is created on this face. The workplane origin is offset 3 units in the negative X direction and 3 units in the negative Y direction, after which a 2-unit diameter through hole is cut all the way through the prism at this offset position.",
+  "geometry": "The model is a solid rectangular cuboid with a single cylindrical through hole that runs through the full height of the block. The hole is positioned off-center on the top surface of the cuboid, closer to one of its short-edge corners, with no other protrusions or cut features present.",
+  "function": "This is a compact mounting or spacer block intended for use in mechanical assemblies, with a pre-drilled through hole to accept fasteners for securing the block, mounting attached components, or providing consistent spacing between joined parts."
+}

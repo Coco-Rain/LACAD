@@ -1,0 +1,5 @@
+{
+  "operation": "First, create a workplane aligned to the XY coordinate plane. Sketch a circle with a radius of 5 units on this workplane, then extrude the 2D circle 10 units along the positive Z axis to form a solid cylinder. Select the top face of the cylinder (the face facing the positive Z direction), then run a shell operation with a thickness parameter of -2 to hollow out the cylinder inward, leaving the bottom face of the cylinder solid and the top open with a uniform 2-unit thick wall.",
+  "geometry": "This is a concentric hollow straight circular cylinder, open at the top and closed with a flat solid base at the bottom. It has uniform wall thickness between its outer cylindrical surface and inner cylindrical cavity, with a flat circular rim running around the entire open top edge.",
+  "function": "This is a basic rigid hollow container intended to hold small solid parts or small liquid volumes, with an open top for easy content access and a sealed solid base to prevent leakage, suitable for use as a small cup, storage insert, or protective cylindrical sleeve."
+}

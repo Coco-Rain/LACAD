@@ -1,0 +1,5 @@
+{
+  "operation": "First, a base rectangular prism with dimensions 20mm length, 20mm width, and 10mm height is constructed on the XY workplane. Next, a new workplane offset 5mm above the XY plane is defined, a 5mm radius circle is sketched on this workplane, then extruded 20mm along the Z-axis to create a long cylindrical cutting body. Finally, the cylindrical body is subtracted from the base prism to form the final part, leaving a full through hole centered in the block.",
+  "geometry": "The model is a right square prism with equal side lengths for its top and bottom square faces and a smaller vertical height. A uniform cylindrical through-hole runs entirely along the central vertical axis of the prism, fully penetrating both the top and bottom square faces, with the hole centered perfectly relative to the square cross-section of the prism.",
+  "function": "This part acts as a square mounting block, spacer, or alignment fixture, designed to allow a cylindrical fastener, shaft, or component to pass through its central hole, while providing a stable flat square surface for mounting or positional support."
+}

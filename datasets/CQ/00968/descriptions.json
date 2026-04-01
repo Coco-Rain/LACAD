@@ -1,0 +1,5 @@
+{
+  "operation": "First, a workplane aligned to the XY reference plane is initialized. A 10-unit by 10-unit axis-aligned rectangle is sketched on this workplane. A 2-unit outward 2D offset with rounded corners is applied to the rectangle sketch. Finally, the resulting offset 2D profile is extruded perpendicular to the XY workplane to a height of 5 units to form the finished solid model.",
+  "geometry": "This is a straight prismatic solid with a constant cross-section along its vertical axis. Its cross-section is a rectangle with uniformly rounded corners, featuring flat parallel horizontal top and bottom faces, perpendicular vertical side walls, and smooth rounded vertical edges. The model is symmetric across both of its central vertical planes.",
+  "function": "This is a general-purpose rounded rectangular block suitable for use as a spacer, small mounting pad, base component, or protective bumper. Its rounded edges eliminate sharp corners for safer handling and easier assembly, while its simple prismatic form supports low-cost, easy manufacturing."
+}

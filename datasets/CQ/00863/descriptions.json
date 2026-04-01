@@ -1,0 +1,5 @@
+{
+  "operation": "First, a workplane is initialized on the XY coordinate plane. A 20mm by 20mm rectangular sketch is drawn on this workplane, which is then extruded 5mm along the positive Z axis to form a square prism. All edges of the prism that run parallel to the Z axis are selected, and a 2mm chamfer is applied to each of these vertical edges to complete the model.",
+  "geometry": "This is a low-height symmetrical prism with identical regular octagonal top and bottom faces. It has eight congruent vertical rectangular side faces, replacing the sharp 90-degree corners of a standard square prism with evenly sized angled flat facets, and the entire structure is symmetric around its central vertical axis.",
+  "function": "This is a compact chamfered spacer component, intended for use as a mechanical shim, small mounting pad, or general-purpose fixture part, with smooth corner chamfers to eliminate sharp edges for safer handling and to prevent surface damage during use."
+}

@@ -1,0 +1,5 @@
+{
+  "operation": "First, create a sketch on the XY workplane with a 20mm x 10mm rectangular profile. Next, extrude this 2D profile 5mm along the Z axis to form a rectangular prism. Then select all edges oriented parallel to the Z axis (the four vertical corners of the prism), and apply a 1mm chamfer to each of these selected edges.",
+  "geometry": "This is a modified rectangular cuboid with parallel, flat top and bottom rectangular faces. All four vertical edges running perpendicular to the top and bottom faces are truncated with flat angled chamfer cuts, adding four small additional flat faces at the vertical corners of the block.",
+  "function": "This chamfered rectangular block is designed for use as a basic mechanical spacer, mounting insert, or fitment component, with softened corners to simplify assembly, prevent sharp edge injuries, and reduce wear on mating parts."
+}

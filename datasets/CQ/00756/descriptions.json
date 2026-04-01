@@ -1,0 +1,5 @@
+{
+  "operation": "On the XY plane, a circle with a radius of 245 is created and extruded 50 units to form a cylindrical base. On the top face of this cylinder, a sketch is initialized where a regular pentagon with a circumradius of 250 is defined as a reference. A rectangle measuring 20 units by 100 units is placed at each of the pentagon's five vertices. These rectangles are then extruded upward by 50 units, creating five rectangular features along the perimeter of the base.",
+  "geometry": "The model consists of a large, low-profile cylindrical disc with five rectangular blocks distributed symmetrically around its circumference. Because the centers of these blocks are located slightly outside the radius of the cylinder, they appear as wide, shallow tabs that overlap and extend from the edge of the circular base.",
+  "function": "This part is designed as a heavy-duty mounting flange or indexing base. The five perimeter tabs serve as alignment keys or mechanical stops for positioning the base within a housing or mating it with a corresponding keyed component."
+}

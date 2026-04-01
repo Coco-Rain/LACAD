@@ -1,0 +1,5 @@
+{
+  "operation": "First, initialize a 2D CadQuery sketch. Next, draw a base trapezoid with 4 units of width, 3 units of height, and 90° side angles, which forms a rectangular base shape. Then define a rectangular pattern with 0.6 unit horizontal spacing, 1 unit vertical spacing, 5 instances along the horizontal axis, and 1 instance along the vertical axis. Finally, subtract 90° rotated rounded slots with 1.5 units length and 0.4 units width at each pattern position from the base shape.",
+  "geometry": "This is a flat rectangular 2D profile that features five identical parallel rounded slots arranged in a single evenly spaced row across the central area of the base rectangle, with equal gaps between adjacent slots and consistent offset from the outer edges of the base.",
+  "function": "This slotted flat component is designed for use as a ventilation grille, alignment fixture, or marking stencil, with evenly spaced uniform slots to support consistent airflow, precise positioning, or standard pattern transfer applications."
+}

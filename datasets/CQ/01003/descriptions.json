@@ -1,0 +1,5 @@
+{
+  "operation": "Start by initializing a workplane on the XY coordinate plane, then create a solid rectangular box with length 8, width 8, and height 0.5. Next, select the topmost face of the box along the Z-axis, create a new workplane aligned to this face, sketch a centered 6 by 6 rectangle on this workplane, then perform a blind cut extruding 0.25 units downward into the base box to form a shallow recess.",
+  "geometry": "This model is a thin square prismatic plate with a smaller square shallow recess centered on its top surface. The recess is concentric with the outer plate, aligned parallel to the outer plate's edges, and only extends partway through the total thickness of the plate.",
+  "function": "This low-profile square plate with a centered shallow square pocket is designed to act as a mounting base, spacer, or fixture that seats and aligns smaller square components, preventing lateral movement of placed parts while maintaining a compact thin form factor."
+}

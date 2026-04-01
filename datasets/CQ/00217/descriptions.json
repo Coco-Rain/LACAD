@@ -1,0 +1,5 @@
+{
+  "operation": "First, initialize a workplane on the XY coordinate plane, then create a solid rectangular box with dimensions 20 mm x 20 mm x 1 mm. Next, select the top (maximum Z) face of the box and establish a new workplane aligned to this face. Generate a 3-row, 3-column rectangular array of sketch points with 5 mm horizontal spacing and 5 mm vertical spacing between adjacent points. Draw 1 mm radius circles at each array point, then execute a cut-thru-all operation to extrude these circles fully through the entire thickness of the box to form through holes.",
+  "geometry": "This model is a thin, flat square plate of uniform thickness. A symmetric 3-by-3 grid of identical cylindrical through holes runs perpendicular to the plate's top and bottom flat faces, with equal spacing between every pair of adjacent holes across the plate surface.",
+  "function": "This is a perforated square mounting plate, designed for use as a base, spacer, or attachment interface. Its evenly spaced grid of holes provides standardized, versatile mounting points for securing small components in prototyping and light assembly applications."
+}

@@ -1,0 +1,5 @@
+{
+  "operation": "Start by initializing a workplane on the XY coordinate plane, move the sketch origin to the coordinate (2, 2), then draw a 4-unit wide by 3-unit tall rectangle centered at this origin. Extrude the 2D rectangle 5 units along the positive Z axis to form a solid rectangular prism. Next, select the top face of the prism (the face located farthest in the positive Z direction), create a new workplane aligned to this selected face, then cut a 1.5-unit diameter through hole centered on this workplane that extends completely through the full height of the prism.",
+  "geometry": "The model is a right rectangular prism block with a single cylindrical through hole. The hole is aligned perpendicular to the prism's top and bottom rectangular faces, is centered at the midpoint of the top face, and runs fully through the block from the top face to the bottom face.",
+  "function": "This is a basic structural spacer or mounting block, designed with a centered through hole to accommodate a fastener such as a pin or screw for securing the component in position or attaching other parts to it."
+}

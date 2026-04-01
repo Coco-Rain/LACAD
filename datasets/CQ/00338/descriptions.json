@@ -1,0 +1,5 @@
+{
+  "operation": "Starting on the XY workplane, a circle with a radius of 50 units is extruded 5 units to form a thin cylindrical disc. A new workplane is created on the top face, where a sketch defines a polar array of six circles, each with a radius of 5 units. The array is centered at the origin with a radius of 50 units, spanning a 60-degree arc starting from 0 degrees. These circular profiles are then subtracted from the base using a through-all cut operation.",
+  "geometry": "The model is a flat, circular disc characterized by a series of six semi-circular notches along a specific segment of its outer edge. These notches are evenly spaced along a 60-degree arc, while the remaining 300 degrees of the perimeter remain a smooth circular curve. The thickness of the disc is uniform throughout.",
+  "function": "This component acts as a specialized indexing plate or notched disc. The scalloped edge segment can be used for mechanical detents, cable routing, or as a partial gear-like interface in a larger assembly where only a limited range of motion requires a textured or notched surface."
+}

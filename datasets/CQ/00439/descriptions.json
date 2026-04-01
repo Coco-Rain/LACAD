@@ -1,0 +1,5 @@
+{
+  "operation": "First, create a workplane on the XY reference plane, then generate a right circular cylinder with a height of 12 units and a radius of 8 units. Next, select the top Z-facing face of the cylinder, create a new workplane aligned to this face, sketch a regular 5-sided pentagon with a circumradius of 6 units centered at the workplane origin, then execute a blind cut extrusion of this pentagon profile 5 units downward into the cylinder to form a recessed pocket.",
+  "geometry": "The model uses a vertical right circular cylinder as its main body, with a coaxial regular pentagonal blind pocket recessed into the center of its top circular surface. The pentagonal pocket only extends partway down the height of the cylinder and does not penetrate through the cylinder's bottom face.",
+  "function": "This component is a pentagonal interface socket designed to mate with 5-sided fasteners or drive tools. Its cylindrical outer shape supports easy gripping, mounting or insertion into mating assemblies, while the centered pentagonal pocket provides secure, slip-resistant engagement with compatible pentagonal parts."
+}

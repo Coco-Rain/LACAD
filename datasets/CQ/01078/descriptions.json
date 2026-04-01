@@ -1,0 +1,5 @@
+{
+  "operation": "Start modeling on the XY workplane, draw a circle with radius 6 units, then extrude this profile 4 units along the positive Z direction to form the base cylinder. Next, select the top Z-facing face of the base cylinder to create a new aligned workplane. Sketch on this new workplane: first add an additive circle with radius 5 units, then subtract a circle of radius 3 units to form an annular cross-section. Finalize the sketch, then extrude the annular profile 2 units along the positive Z direction to complete the model.",
+  "geometry": "The model is a two-part coaxial cylindrical assembly. The lower section is a solid full-diameter cylinder, and the upper section is a hollow annular cylindrical ring mounted concentrically to the top of the lower cylinder. A flat circular recessed area is left in the center of the assembly's top face, with no through holes present in the structure.",
+  "function": "This is a shouldered locating bushing or support spacer, designed to position and retain mating cylindrical components, with the raised upper lip acting as a registration feature and the solid lower section providing stable structural support."
+}

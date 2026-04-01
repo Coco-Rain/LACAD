@@ -1,0 +1,5 @@
+{
+  "operation": "First, a workplane is initialized on the XZ plane, and a 10 x 10 x 10 cubic solid is generated. Next, the face on the positive Y side of the cube is selected, and a new workplane is created on this face. A 2x2 rectangular point array with 2 units of spacing in both horizontal and vertical directions is defined on this workplane, 1 unit radius circles are sketched at each array position, and these circle profiles are used to cut through-holes completely through the full depth of the cube.",
+  "geometry": "This model is a uniform solid cube, with four identical circular through-holes arranged in a symmetric 2x2 grid on one of its square faces. The holes run fully through the cube perpendicular to the face they are cut into, passing all the way to the opposite parallel face, and are evenly spaced relative to the edges of the face.",
+  "function": "This is a general-purpose mounting, spacing, or alignment block for small mechanical assemblies. The 2x2 grid of through holes is designed to accept standard fasteners, alignment pins, or small fluid/air passageways, making it suitable for use as a fixture component or modular assembly base."
+}

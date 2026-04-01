@@ -1,0 +1,5 @@
+{
+  "operation": "On the XY workplane, a sketch is created containing two concentric circles with radii of 10 and 5 units. The sketch is then cleaned and finalized, resulting in a single circular profile. This profile is extruded by 3 units to create a solid cylindrical body.",
+  "geometry": "The model is a simple, low-profile solid cylinder (disk) with a flat top and bottom. It features a uniform thickness and is centered along the vertical axis, with its outer diameter determined by the larger sketch circle.",
+  "function": "This part functions as a basic cylindrical component, such as a spacer, flat cap, or mounting disk, intended for use in mechanical assemblies to provide a fixed-thickness circular base."
+}

@@ -1,0 +1,5 @@
+{
+  "operation": "Begin by creating a rectangular box with dimensions 30x20x15 units on the XY plane. Next, establish a new workplane offset by 7.5 units along the Z-axis to align with the top face of the box. On this plane, sketch an ellipse with a major radius of 10 and a minor radius of 6, centered at the origin. Finally, extrude this elliptical profile upward by 12 units and union it with the base box.",
+  "geometry": "The model consists of a solid rectangular base supporting a centered elliptical column. The elliptical extrusion is oriented so that its major axis is parallel to the length of the rectangular block, creating a stepped, two-part vertical structure with an elliptical top profile.",
+  "function": "This part functions as a mounting pedestal or a locating base. The elliptical protrusion can serve as a keyed alignment post or a support interface for a mating component with a matching elliptical cavity in a mechanical assembly."
+}

@@ -1,0 +1,5 @@
+{
+  "operation": "Start on the XY workplane and draw a 20x10 rectangle, then extrude it by 5 units to create a rectangular prism. Select the top face (positive Z) and initialize a sketch; use the vertices selection within the sketch to place a circle with a radius of 1 unit. Finally, apply a 'cutThruAll' operation to create a hole that passes entirely through the block's thickness.",
+  "geometry": "The model is a solid rectangular prism with a 2:1 length-to-width ratio (20x10) and a thickness of 5 units. It features a single cylindrical hole with a radius of 1 located at the geometric center of the block, oriented vertically along the Z-axis.",
+  "function": "This part is designed as a basic mounting block or spacer. Its flat rectangular surfaces provide a stable base, while the central through-hole allows for the passage of a fastener or pin to secure or align the component within a larger assembly."
+}

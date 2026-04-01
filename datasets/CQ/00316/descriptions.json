@@ -1,0 +1,5 @@
+{
+  "operation": "First, initialize a CadQuery workplane on the XY reference plane, then extrude a rectangular box with dimensions 30 (X-axis) × 25 (Y-axis) × 8 (Z-axis). Next, select the topmost face of the box in the positive Z direction, create a new workplane aligned to this top face, sketch an ellipse with a 10 unit major radius and 6 unit minor radius, then cut this elliptical profile 6 units deep into the box in the negative Z direction via a blind cut operation, leaving a 2 unit thick solid layer at the base of the recess.",
+  "geometry": "The model is a solid rectangular prism block, with a shallow blind elliptical cavity recessed into its flat upper face. The cavity is centered on the top face of the block, and does not penetrate all the way through the prism, leaving a continuous solid base layer between the bottom of the recess and the bottom face of the main block.",
+  "function": "This part acts as a holder, fixture, or mounting base designed to seat, locate, or store a matching elliptical or ovular component, with the solid block providing structural support and the elliptical recess acting as a custom fitted alignment or retention feature."
+}

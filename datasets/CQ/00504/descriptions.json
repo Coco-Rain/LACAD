@@ -1,0 +1,5 @@
+{
+  "operation": "First, create a workplane on the XY plane, sketch a 20mm × 20mm rectangle, and extrude the rectangle 5mm vertically to form a square base block. Next, select the top Z-facing face of the block to establish a new workplane, then draw four 2mm-radius circles positioned at (0,8), (8,0), (0,-8), and (-8,0) relative to the workplane origin. Finally, cut these four circles all the way through the full thickness of the base block to form through holes.",
+  "geometry": "The model is a flat square cuboid block, with four identical circular through holes arranged symmetrically in a cross pattern around the center of the block's square faces. All holes run perpendicular to the top and bottom faces of the cuboid, pass completely through the block, and are equidistant from the block center along the two orthogonal center axes of the square face.",
+  "function": "This is a symmetric square mounting plate with four evenly distributed fastener holes, suitable for use as a spacer, small mounting bracket, or alignment base in mechanical assemblies."
+}

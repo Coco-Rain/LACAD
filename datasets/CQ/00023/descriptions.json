@@ -1,0 +1,5 @@
+{
+  "operation": "Begin by sketching a 30x20 rectangle on the XY workplane and extruding it to a height of 8 units to form a rectangular block. Select the top face (positive Z) to create a new workplane and sketch a centered ellipse with a major radius of 12 and a minor radius of 6. Finally, apply a through-all cut operation to remove the elliptical shape from the entire thickness of the block.",
+  "geometry": "The model is a rectangular prism containing a central, vertically oriented elliptical hole. The outer boundaries are straight and perpendicular, while the internal void is a smooth, curved elliptical cylinder that passes completely through the center of the block.",
+  "function": "This part serves as a mounting plate or spacer featuring an elliptical aperture, designed to provide clearance for elliptical components or to serve as a decorative bezel in a mechanical assembly."
+}

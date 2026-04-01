@@ -1,0 +1,5 @@
+{
+  "operation": "On the XY workplane, a sketch is initialized at (0, 0). A radius arc of 5 units is drawn to the point (10, 0), followed by a vertical line segment to (10, 5). Another radius arc of 5 units is then drawn back to (0, 5), and the profile is closed with a final line segment returning to the origin. This closed stadium-like profile is then extruded by a distance of 3 units along the Z-axis.",
+  "geometry": "The model is a 3D extruded solid with a stadium-shaped (or pill-shaped) cross-section. It features two parallel straight sides and two semi-circular ends. The object has a uniform thickness and flat top and bottom faces parallel to the XY plane.",
+  "function": "This component is a simple plate or link with rounded edges, commonly used as a spacer, a base plate for mechanical components, or a mounting bracket where rounded profiles are preferred to avoid sharp corners."
+}

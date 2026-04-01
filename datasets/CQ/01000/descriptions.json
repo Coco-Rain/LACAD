@@ -1,0 +1,5 @@
+{
+  "operation": "First, a 2D workplane is initialized on the XY coordinate plane. Next, a circular sketch with a radius of 5 units is drawn on this workplane centered at the origin. Finally, the 2D circular sketch is extruded 10 units along the positive Z-axis direction to form the finished 3D solid.",
+  "geometry": "This model is a uniform right circular cylinder, with two identical parallel circular top and bottom end faces, and a single continuous curved lateral surface connecting the two end faces, with its central axis aligned perpendicular to the XY plane.",
+  "function": "This is a basic solid cylindrical component designed for use as a generic spacer, standoff, raw stock for secondary machining, or test part for 3D printing validation."
+}

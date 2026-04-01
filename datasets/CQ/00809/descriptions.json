@@ -1,0 +1,5 @@
+{
+  "operation": "First, a workplane is initialized on the XY plane. A 20mm x 10mm rectangle is sketched on this plane, then extruded 5mm along the Z axis to form a rectangular base block. Next, the topmost Z face of the block is selected to create a new workplane. A 2D slot with 8mm length and 2mm width is sketched centered on this workplane, then a cut through all operation is performed to create a through slotted hole across the full thickness of the block.",
+  "geometry": "The model is a solid rectangular cuboid with an elongated rounded-end slotted through hole running fully through its height. The slot is centered on the large rectangular top face of the cuboid, with its long axis aligned parallel to the longer edge of the base cuboid.",
+  "function": "This is a slotted mounting or spacer component designed to support adjustable fastening, where fasteners can slide along the through slot to allow for position alignment adjustments during assembly."
+}

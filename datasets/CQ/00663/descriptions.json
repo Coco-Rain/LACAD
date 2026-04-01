@@ -1,0 +1,5 @@
+{
+  "operation": "First, a rectangular box measuring 12 units along the X axis, 8 units along the Y axis, and 2 units along the Z axis is created on the XY workplane. Next, the top Z-facing face of the box is selected to define a new workplane on the upper surface of the box. A closed spline profile defined by three control points (-4, -2), (0, 3), and (4, -2) is drawn on this upper workplane. Finally, a 1.5 unit deep blind cut extrusion is performed using the spline profile to remove material downward into the box.",
+  "geometry": "The model is a flat rectangular prism base block with a single concave, curved triangular recess centered on its top face. The recess extends down most of the height of the block without penetrating the bottom face of the base, leaving a thin solid layer below the recessed feature.",
+  "function": "This contoured base plate is designed to seat, align, or hold a mating curved component, suitable for use as a fixture insert, spacer, or positioning feature in small mechanical assemblies."
+}

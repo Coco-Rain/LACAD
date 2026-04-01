@@ -1,0 +1,5 @@
+{
+  "operation": "Select the YZ workplane and initiate a sketch. Create a rectangle with dimensions 3.0 by 2.0 units centered at the origin. Within the same sketch, add a circle with a radius of 1.0 unit. Because both shapes are centered and the circle's diameter matches the rectangle's height, the two geometries merge into a single 3x2 rectangular profile.",
+  "geometry": "The model is a flat, 2D rectangular profile oriented in the YZ plane. It features a horizontal-to-vertical aspect ratio of 1.5:1, appearing as a thin, planar surface with four right-angled corners.",
+  "function": "This geometry serves as a 2D sketch profile or template. It is designed to be a fundamental building block that can be extruded into a 3D solid or used as a cutting boundary in a mechanical design."
+}

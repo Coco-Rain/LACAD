@@ -1,0 +1,5 @@
+{
+  "operation": "First, two 2D sketches are created: the first sketch is a circle with radius 1, the second sketch is a circle with radius 0.5. Next, an XY-aligned workplane is initialized, the first circle sketch is placed on this workplane, and the second circle sketch is placed 5 units offset along the positive Z axis. Finally, a loft operation with combine set to True is performed between the two placed sketches to generate the single continuous solid part.",
+  "geometry": "The model is a right conical frustum with a vertical central axis. It has two parallel flat circular end faces, with the lower end face having a larger diameter than the upper end face, connected by a smooth, uniformly sloped lateral surface.",
+  "function": "This tapered conical component is designed to be used as a plug, spacer, alignment fitting, or small adapter, with its consistent taper enabling secure, wedged seating between two differently sized circular openings."
+}

@@ -1,0 +1,5 @@
+{
+  "operation": "First, initialize a new 2D CadQuery Sketch. Draw a line segment from coordinate (0, 0) to (0, 2), then draw a second line segment from (0, 2) to (2, 0), and close the path to form a right triangle with legs of length 2 aligned along the X and Y axes. Add a full 360-degree circular arc (complete circle) with center at (0.6, 0.6) and radius 0.4 to the sketch, then assemble the sketch and tag it as 'face'. Finally, select the top Z-facing face of the assembled sketch and draw a 0.5-radius circle on that face.",
+  "geometry": "The model is an assembly of closed 2D planar shapes aligned along the Z axis: a right triangular base profile, a small circle positioned within the boundary of the triangle, and a larger circle placed on the same top plane as the rest of the sketch, separate from the triangular shape.",
+  "function": "This set of 2D sketch profiles is designed to serve as base templates for 3D modeling operations such as extrusion and cutout generation, or as patterns for 2D fabrication processes like laser cutting."
+}

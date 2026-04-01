@@ -1,0 +1,5 @@
+{
+  "operation": "First, a workplane is initialized on the YZ plane. A 2D sketch is started on this workplane, where a closed 5-sided polygon is drawn using the vertex coordinates (0, 0), (3, 0), (3, 8), (8, 11), and (0, 8). The sketch is finalized, then extruded 7 units along the axis perpendicular to the YZ workplane (the X-axis) to form the final 3D solid.",
+  "geometry": "This model is a straight uniform irregular pentagonal prism, with two congruent parallel irregular pentagonal end faces connected by five rectangular lateral faces that are perpendicular to the end faces. The cross-section pentagon has an asymmetric shape with varying edge lengths and internal angles.",
+  "function": "This custom prismatic component is designed as a specialized fitment part, suitable for use as a spacer, mounting insert, or structural segment that conforms to a specific required spatial envelope in a mechanical assembly."
+}
