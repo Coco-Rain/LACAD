@@ -1,5 +1,0 @@
-{
-  "operation": "On the XY workplane, the sketch origin is moved to (2, 2) where a 6x4 rectangle is drawn and then extruded 2 units upward. The top face (the face at the highest Z-coordinate) is selected to establish a new workplane. A hole with a diameter of 1 unit is then drilled; because the hole is placed at the global origin (0,0) while the block is offset, the operation creates a semi-circular notch on the edge of the block.",
-  "geometry": "The model is a rectangular prism with overall dimensions of 6x4x2 units. It features a vertical cylindrical cutout with a diameter of 1 unit located on one of the longer edges. This cutout is positioned asymmetrically along the edge, appearing as a semi-circular notch approximately one-sixth of the way along the side.",
-  "function": "This component serves as a base plate or mounting block with an integrated edge notch. The notch is likely intended to provide clearance for a shaft, act as a guide for cable management, or serve as a locating feature for alignment with other parts in an assembly."
-}

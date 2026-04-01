@@ -1,5 +1,0 @@
-{
-  "operation": "First, create a workplane aligned to the XY coordinate plane, positioned at the origin (0,0). Sketch an ellipse on this workplane with a horizontal semi-radius of 3 units and a vertical semi-radius of 5 units. Extrude the 2D ellipse sketch along the positive Z-axis to a total height of 2 units to produce the final solid model.",
-  "geometry": "The model is a uniform right elliptical prism, featuring two identical parallel elliptical top and bottom faces connected by a continuous, perpendicular lateral side wall. The part has a consistent thickness across its entire oblong footprint, with no additional cutouts or protruding features.",
-  "function": "This is a basic elliptical puck component designed for use as a spacer, shim, gasket blank, or small mounting base for assemblies that require an oblong non-circular footprint to fit specific space or alignment constraints."
-}

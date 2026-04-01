@@ -1,5 +1,0 @@
-{
-  "operation": "First, initialize a workplane on the XZ axis, then create a rectangular box with X dimension 8, Y dimension 15, and Z dimension 25. Select the maximum Y facing face of the box, establish a new workplane aligned to this face, then sketch a trapezoid with a 10 unit top width, 4 unit height, 75 degree left side angle, and 30 degree right side angle. Finalize the 2D sketch, then perform a blind cut extending 5 units in the negative Y direction into the box to create the trapezoidal recess.",
-  "geometry": "The model is a solid rectangular cuboid base with a trapezoidal prism-shaped notch cut into one of its larger vertical side faces. The notch extends perpendicularly inward from the face it is cut into, only partially penetrating through the thickness of the main block, and sits on the lower section of its host face.",
-  "function": "This is a rigid structural slotted block designed for alignment or mounting applications, with a custom trapezoidal recess engineered to mate with a matching male component to deliver secure, precisely aligned positioning in mechanical assemblies."
-}

@@ -1,5 +1,0 @@
-{
-  "operation": "First, a 30 mm x 25 mm x 8 mm rectangular base box is created on the XY workplane. Next, a new workplane is set up on the top (positive Z direction) face of the base, an ellipse with 10 mm major radius and 5 mm minor radius is sketched on this plane, then extruded 6 mm upward to form a raised boss. Finally, a workplane is created on the top face of the elliptical boss, and a 4 mm diameter through hole is cut through the center of the boss.",
-  "geometry": "The model is composed of a solid rectangular prism base, with an upright elliptical prismatic boss centered on the upper surface of the base. A straight circular through bore runs vertically through the center of the elliptical boss, extending down into the base block, with all raised features aligned concentrically to the center of the base's top face.",
-  "function": "This is a compact flat-mounting fixture component, designed to sit stably on flat surfaces, while its central through hole supports fastening, alignment, or pass-through for small fasteners or shafts."
-}

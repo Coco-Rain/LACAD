@@ -1,5 +1,0 @@
-{
-  "operation": "First, a workplane is initialized on the XY coordinate plane. A closed 2D polyline profile is drawn using 8 vertex coordinates: [(0, 0), (8, 0), (8, 8), (6, 8), (6, 2), (2, 2), (2, 8), (0, 8)] to form a U-shaped outline. This 2D profile is extruded 1 unit along the Z axis to create a 3D solid. Next, the second highest face in the Y direction is selected, all edges of this face that run parallel to the Z axis are identified, and a 0.5 unit radius fillet is applied to these edges.",
-  "geometry": "This is a uniform-thickness prismatic U-shaped (C-shaped) solid with a square outer footprint. It has a rectangular internal recess that opens fully on one side of the square outer boundary. The two inner vertical edges at the closed end of the recess are rounded, while all other edges of the part are sharp right angles.",
-  "function": "This is a general-purpose U-shaped bracket, spacer, or guide component designed to fit around mating parts. The rounded inner edges simplify assembly and reduce contact wear during installation, making it suitable for alignment, spacing, or light mounting use cases."
-}

@@ -1,5 +1,0 @@
-{
-  "operation": "Start by creating a rectangular box with dimensions 20×20×5 on the XY workplane. Select the top face (positive Z) and create a new workplane. On this plane, move the cursor to (-6, 0) and sketch a rectangle by drawing a horizontal line to (6, 0), a vertical line down to -2, and a horizontal line back to -6 before closing the profile. Finally, apply a blind cut to a depth of 3 units into the block.",
-  "geometry": "The model is a thick square base plate with a shallow rectangular pocket recessed into the top surface. The pocket is centered horizontally but offset slightly from the vertical center of the face, resulting in an elongated rectangular void that does not penetrate through the bottom of the base.",
-  "function": "This part functions as a base plate or fixture designed to hold or align a specific component. The recessed slot can act as a mounting pocket, a keyway, or a guide track for a mating rectangular part in a mechanical assembly."
-}

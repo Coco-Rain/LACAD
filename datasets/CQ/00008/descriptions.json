@@ -1,5 +1,0 @@
-{
-  "operation": "Start with a front-facing workplane, first create a rectangular box with dimensions 3 units in length, 4 units in width, and 0.25 units in thickness. Next, define two working points at coordinates (0, 0.75) and (0, -0.75) on the top face of the box. Draw a regular 6-sided hexagon with a circumradius of 1 unit at each of these points, then cut these hexagonal profiles completely through the full thickness of the box to form through holes.",
-  "geometry": "The model is a thin flat rectangular plate with two identical regular hexagonal through holes. The two holes are symmetrically arranged along the central vertical axis of the plate, equally offset from the plate's horizontal midpoint, and extend entirely through the thickness of the plate.",
-  "function": "This is a thin mounting shim or plate with hexagonal cutouts designed to seat standard hexagonal fasteners like nuts or bolt heads, enabling anti-rotation, aligned secure attachment for mechanical assembly use cases."
-}

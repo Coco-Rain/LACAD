@@ -1,5 +1,0 @@
-{
-  "operation": "First, initialize a workplane on the XY plane, draw a circle with a radius of 5 units, then extrude the sketch 10 units along the Z axis to create a solid cylinder. Next, select the top Z-facing face of the cylinder and create a new workplane aligned to this face. Draw a 6x6 unit construction-only rectangle centered on this workplane, select the four vertices of the rectangle, draw 1 unit radius circles at each vertex, then perform a through-all cut to create four full-length through holes running through the entire cylinder.",
-  "geometry": "The model is a vertical right circular cylinder with four identical parallel cylindrical through holes running along its full height. The through holes are centered at the four corners of an imaginary square aligned with the cylinder's central axis, evenly spaced symmetrically around the center of the main cylinder.",
-  "function": "This is a symmetric cylindrical mounting spacer, designed to space assembled components apart and provide four mounting points for fasteners via its axial through holes, suitable for applications requiring a compact, rotationally symmetric mounting interface."
-}

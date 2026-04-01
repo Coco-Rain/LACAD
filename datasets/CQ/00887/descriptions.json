@@ -1,5 +1,0 @@
-{
-  "operation": "First, a rectangular base box of 30 (X dimension) × 20 (Y dimension) × 12 (Z dimension) is created on the XY workplane. Next, a new workplane is defined on the top (maximum Z) face of the base box, an ellipse with 16-unit major radius and 8-unit minor radius is sketched, then extruded 6 units upward to form a raised boss. Finally, a workplane is set up on the maximum X face of the assembly, a 2D slot with 18-unit length and 4-unit width is drawn, and this slot profile is cut fully through the entire model to form a through-hole.",
-  "geometry": "The model is composed of a rectangular prism base, with a solid elliptical cylindrical boss centered on the top flat surface of the base. A single straight slotted through-hole runs horizontally through the full depth of the structure, penetrating both the lower rectangular base and the upper elliptical boss.",
-  "function": "This is an adjustable mechanical mounting component, where the through-slot enables variable positional alignment during installation, and the raised upper elliptical feature provides a specialized mating surface to interface with compatible connected hardware."
-}

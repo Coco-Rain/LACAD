@@ -1,5 +1,0 @@
-{
-  "operation": "Start by creating an XY-plane workplane, then generate a rectangular box with dimensions 20 units (X) × 20 units (Y) × 3 units (Z). Select the lowest Z face of the box, create an inverted workplane on this face, shift the workplane origin 10 units in the X direction and 10 units in the Y direction to align with one corner of the box, then cut a fully penetrating countersunk hole at this position with a 6 unit through-hole diameter, 10 unit countersink diameter, and 90 degree countersink angle.",
-  "geometry": "This is a thin square plate with equal side lengths and uniform thickness, featuring a single countersunk through hole positioned at one of its four corners. The conical countersink feature is recessed into the bottom face of the plate, and the hole passes completely through the plate to the opposite top face.",
-  "function": "This is a thin square mounting plate with a corner countersunk fastener hole, designed to support flush installation of a bolt or screw for surface mounting, assembly spacing, or component alignment applications."
-}

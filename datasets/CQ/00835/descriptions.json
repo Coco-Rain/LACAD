@@ -1,5 +1,0 @@
-{
-  "operation": "First, a workplane is initialized on the XY coordinate plane. An ellipse with a semi-major axis length of 6 units and semi-minor axis length of 4 units is sketched on this workplane. This 2D elliptical profile is then extruded perpendicular to the workplane to a total height of 2 units to form the final 3D solid.",
-  "geometry": "The model is a uniform straight elliptical prism, with two identical parallel elliptical faces as the top and bottom surfaces, connected by a continuous vertical curved lateral face. The entire part has consistent thickness, with no cutouts or protruding features present.",
-  "function": "This low-profile oval slab is designed to be used as a spacer, gasket, mounting pad, or base component for assemblies that require an elliptical footprint."
-}

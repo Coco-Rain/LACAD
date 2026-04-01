@@ -1,5 +1,0 @@
-{
-  "operation": "First, create a workplane aligned to the XY coordinate plane. Next, draw a 2D trapezoid sketch with a long base length of 10 units, trapezoid height of 5 units, and 60-degree internal side angles, then finalize the 2D sketch. Finally, extrude the trapezoidal profile linearly 2 units along the Z axis to produce the final 3D solid.",
-  "geometry": "This model is a right trapezoidal prism with a uniform constant cross-section along its extrusion direction. It has two identical parallel isosceles trapezoid faces as the top and bottom surfaces, connected by four flat rectangular side faces that are oriented perpendicular to the top and bottom planes.",
-  "function": "This low-profile trapezoidal solid is designed for use as a spacer, alignment insert, or small structural wedge in mechanical assemblies, ideal for applications that require a sloped edge profile and uniform thickness."
-}

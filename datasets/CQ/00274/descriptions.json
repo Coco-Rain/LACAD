@@ -1,5 +1,0 @@
-{
-  "operation": "First, create a workplane on the XY plane, sketch a 20mm by 10mm rectangle, then extrude this 2D profile 5mm along the Z-axis to form a solid rectangular base. Next, select the top face of the base (the face with the maximum Z coordinate), establish a new workplane on this face. Generate a rectangular point array with 4mm horizontal spacing, 4mm vertical spacing, 3 columns, and 2 rows. Draw 1mm radius circles at each array point, then cut these circles completely through the full thickness of the base to form through holes.",
-  "geometry": "The model is a rectangular cuboid solid with 6 identical circular through holes. The holes are arranged in a regular 3-by-2 grid pattern on the largest flat face of the cuboid, run perpendicular to the top and bottom faces of the cuboid, and are evenly spaced from each other.",
-  "function": "This is a general-purpose perforated mounting plate or small spacer, designed for use as a fixture base, alignment component, or mounting bracket with pre-drilled through holes to accommodate fasteners or positioning pins for assembly."
-}

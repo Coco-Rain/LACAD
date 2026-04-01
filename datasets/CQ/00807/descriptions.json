@@ -1,5 +1,0 @@
-{
-  "operation": "First, create a 2D sketch: draw a 10x10 base rectangle, then place a second 10x10 rectangle at the offset position (5,5) and use subtraction mode to cut the overlapping area from the first rectangle to get an L-shaped 2D profile. Next, place this L-shaped sketch on the YZ workplane, then extrude the sketch 1 unit along the X-axis perpendicular to the workplane to generate the final 3D model.",
-  "geometry": "The model is a uniform-thickness L-shaped right-angle part, composed of two equal-length rectangular legs joined at a 90-degree corner. The cross-section of the part is constant across its entire thickness direction, and all edges and corners are standard right angles.",
-  "function": "This is a thin L-shaped right-angle bracket, intended for use as a structural support, connection fitting between two perpendicular surfaces, or positioning spacer in assembly scenarios."
-}

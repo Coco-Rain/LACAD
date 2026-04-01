@@ -1,5 +1,0 @@
-{
-  "operation": "The construction begins by creating a rectangular box of 30×20×4 units on the XY workplane. The top face (positive Z) is selected as the base for a new workplane. On this plane, a trapezoid is sketched with a base width of 12 units, a height of 6 units, and side angles of 60 degrees. This trapezoidal sketch is then extruded upward by 2 units to create a raised profile centered on the base.",
-  "geometry": "The model consists of a primary thin rectangular slab serving as a base. A smaller trapezoidal prism is centered on the top surface of the slab, with its parallel faces oriented along the length of the base. The sides of the upper feature are tapered inward, resulting in a distinct geometric protrusion from the flat base.",
-  "function": "This model functions as a base plate with a raised trapezoidal alignment key, suitable for use in mechanical assemblies to provide a specific orientation or locating feature for a mating component."
-}

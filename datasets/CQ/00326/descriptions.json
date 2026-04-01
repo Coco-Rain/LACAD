@@ -1,5 +1,0 @@
-{
-  "operation": "First, initialize a workplane on the YZ reference plane, then create a rectangular box with X-axis length 10, Y-axis length 20, and Z-axis length 8. Next, select the positive-X direction face of the box, create a new workplane aligned to this face, offset the workplane origin 2 units horizontally and 6 units vertically on the face, then cut a blind hole with diameter 3 and depth 4 at the offset position.",
-  "geometry": "The model is a solid rectangular cuboid base structure, with a single partial-depth cylindrical hole positioned at an offset from the center of one of its flat rectangular side faces, where the hole does not pass fully through the cuboid.",
-  "function": "This is a simple mounting spacer or fixture block, designed to provide structural spacing and support fastener installation through its pre-drilled hole to connect or align with adjacent assembly components."
-}

@@ -1,5 +1,0 @@
-{
-  "operation": "First, a workplane is set up on the XY reference plane. A 2D circle with a radius of 5 units is drawn on this workplane, then the sketch is twist-extruded along the Z-axis to a total height of 20 units, with a uniform total twist angle of 180 degrees applied over the full extrusion length.",
-  "geometry": "This is a vertical twisted solid with identical circular cross-sections at its two parallel flat ends. The top end face is rotated 180 degrees around the central vertical axis relative to the bottom end face, and its side surface is a smooth continuous helical curved surface connecting the two circular ends.",
-  "function": "This twisted cylindrical component is intended for applications requiring a rotational offset between two parallel circular mounting interfaces, such as torsion transmission parts, custom fasteners, or decorative structural elements."
-}

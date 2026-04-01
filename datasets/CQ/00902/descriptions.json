@@ -1,5 +1,0 @@
-{
-  "operation": "First, create a workplane aligned to the XY reference plane, then generate a 10x10x10 solid cube on this workplane. Next, select the positive X-direction face of the cube, set up a new workplane positioned on this selected face, draw a circle with a radius of 2 units centered on this workplane, and extrude the circular sketch 5 units outward away from the cube to form a solid cylindrical protrusion attached to the cube.",
-  "geometry": "The model is composed of a cubic base and a straight solid cylinder. The cylinder is mounted perpendicularly at the center of one square face of the cube, extending outward from the cube body. The diameter of the cylinder is smaller than the edge length of the cube's face, so the connection end of the cylinder is fully contained within the boundary of the cube face it is attached to.",
-  "function": "This is a basic mechanical connector component, where the cubic part acts as a stable fixed mounting base, and the protruding cylindrical part serves as an alignment feature, mating pin, or connection interface to fit with a corresponding socket of an adjacent assembly part."
-}

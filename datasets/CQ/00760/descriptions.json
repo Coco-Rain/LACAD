@@ -1,5 +1,0 @@
-{
-  "operation": "First, a rectangular base box with dimensions 20 x 20 x 2 is created on the XY workplane. Next, the topmost face aligned to the positive Z direction of the base box is selected, and a new workplane is established on this face. Two 2D sketches are generated: a 2 x 2 square, and a circle with radius 1, both placed centered on the top workplane of the base.",
-  "geometry": "The model features a thin, flat square base plate, with two simple 2D geometric profiles, a small square and a small circle, positioned centrally on the upper flat surface of the base plate, parallel to the base face.",
-  "function": "This is a customizable template base plate with pre-made sketch profiles, designed for quickly adding raised or recessed features, suitable for use as a small mounting pad, fixture base, or decorative plate."
-}

@@ -1,5 +1,0 @@
-{
-  "operation": "Create a 770 by 460 unit rectangle on the default XY workplane and extrude it 5 units to form a thin base plate. Define a set of coordinates consisting of nine points along the horizontal centerline (from -382.5 to 382.5) and two points along the vertical centerline (at +/- 227.5). At each of these points, sketch a 5 by 5 unit rectangle and use the cutThruAll operation to create square through-holes.",
-  "geometry": "A large, thin rectangular plate. The plate features a series of eleven small square holes arranged in a cross-hair pattern: nine holes are spaced evenly along the horizontal axis, while two additional holes are placed on the vertical axis near the top and bottom edges.",
-  "function": "This part functions as a large mounting panel or template. The specific arrangement of square holes provides precise alignment points for secondary components or fasteners in a horizontal and vertical layout."
-}

@@ -1,5 +1,0 @@
-{
-  "operation": "First, a right circular cylinder of height 12 units and radius 6 units is created on the XY workplane. A sphere of radius 5 units, positioned coaxially with the cylinder at a Z-offset of 6 units from the XY plane, is then unioned to the base cylinder. Finally, a coaxial counterbore hole is cut from the topmost Z face of the combined solid, with the following parameters: 3.0 unit diameter through bore, 6.0 unit diameter counterbore, 2.0 unit counterbore depth, and 8.0 unit total hole depth.",
-  "geometry": "This is a rotationally symmetric solid sharing a single central vertical axis, consisting of a cylindrical lower body fused with a smooth domed upper section. A concentric counterbore hole runs from the apex of the domed top down into the main body, with a wider shallow recess at the top opening and a narrower deeper cylindrical bore under the recess.",
-  "function": "This component is a mounting standoff, spacer, or bumper designed to accommodate a socket head fastener via its integrated counterbore hole, suitable for use as a positioning, connecting, or vibration-damping element in mechanical assemblies."
-}

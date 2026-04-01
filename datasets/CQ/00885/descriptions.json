@@ -1,5 +1,0 @@
-{
-  "operation": "First, create a workplane aligned to the XY plane, then generate a rectangular base box with dimensions 20 (X axis) × 10 (Y axis) × 3 (Z axis). Next, select the top positive-Z face of the box, create a new workplane on this face, shift the workplane origin 5 units in the negative X direction, draw a 2D slot profile with 12 unit length and 4 unit width, then cut this slot completely through the entire thickness of the base box.",
-  "geometry": "The model consists of a thin rectangular prismatic base, with a single elongated through-slot with semicircular rounded ends that penetrates the full height of the base. The slot runs parallel to the long axis of the rectangular base, and is positioned offset from the center of the base along this long axis.",
-  "function": "This is a low-profile slotted mounting plate, designed for adjustable fastening applications to allow positional adjustment of mated components along the slot's length, or to serve as a simple sliding guide for matching hardware."
-}

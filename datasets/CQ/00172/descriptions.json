@@ -1,5 +1,0 @@
-{
-  "operation": "First, an XZ plane workplane is initialized. A sketch is started with a 20×20 unit centered base rectangle, then a 10×10 unit centered rectangle is subtracted from the sketch profile. Next, a 3 unit radius centered circle is added to the sketch. After cleaning and finalizing the 2D profile, the sketch is extruded 10 units along the Y-axis to produce the final 3D model.",
-  "geometry": "This is a uniform depth prismatic part consisting of two disconnected co-depth extruded features: an outer hollow square frame, and a solid cylinder positioned concentrically at the center of the frame's inner square opening, with both features sharing the same extrusion length.",
-  "function": "This is a mechanical alignment or spacer component, designed to provide a square outer fit interface and a centered cylindrical mounting point for shafts, fasteners, or isolation elements in assembly applications."
-}

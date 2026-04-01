@@ -1,5 +1,0 @@
-{
-  "operation": "First, create a workplane aligned to the XY reference plane. Next, draw a 2D sketch on this workplane with a single circle feature that has a radius of 5 units, then finalize the sketch. Finally, extrude the closed 2D sketch to a height of 2 units along the direction perpendicular to the XY workplane to produce the final solid model.",
-  "geometry": "The model is a short right circular cylinder (disc) with two identical parallel flat circular top and bottom faces, connected by a continuous smooth curved lateral surface. The height of the cylinder along its central axis is notably smaller than the diameter of its circular faces.",
-  "function": "This basic solid disc serves as a versatile general-purpose component, suitable for use as a spacer, small assembly base, blank for secondary machining, or standard puck for low-profile applications."
-}

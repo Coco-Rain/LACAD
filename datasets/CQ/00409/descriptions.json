@@ -1,5 +1,0 @@
-{
-  "operation": "First, initialize a workplane aligned to the XY plane, sketch a circle with a 5 unit radius, then extrude the sketch 10 units along the positive Z axis to form a solid cylinder. Next, select the top face of the cylinder (the face at the maximum Z position) and create a new workplane on this surface, sketch a centered 4 unit by 4 unit rectangle, then run a cutThruAll operation to remove material along the full height of the cylinder, creating a square through hole aligned to the cylinder's central axis.",
-  "geometry": "The model is a straight right circular cylinder with a centrally located square cross-section through hole that runs the entire height of the cylinder. The square hole shares the same central longitudinal axis as the cylinder, with the sides of the square aligned parallel to the base X and Y coordinate axes.",
-  "function": "This is a simple adapter, spacer, or alignment insert designed to interface between square and round mating components, suitable for fitting over a square shaft while seated in a round recess for positioning or mounting in mechanical assemblies."
-}

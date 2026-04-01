@@ -1,5 +1,0 @@
-{
-  "operation": "A 2D sketch is first created on the XY workplane, starting with a 12 x 8 unit rectangle. All four corners of the rectangle sketch are filleted with a 1.5 unit radius. The finalized 2D sketch is then extruded 6 units in the direction perpendicular to the XY workplane to produce the final 3D solid model.",
-  "geometry": "This is a uniform extruded prism with matching rounded rectangular top and bottom faces. All vertical corner edges running along the height of the prism are smoothly rounded, all faces of the solid are flat, and the cross-section shape is consistent across the entire height of the model.",
-  "function": "This is a general-purpose rounded rectangular structural block, suitable for use as a spacer, mounting base, assembly insert, or small enclosure component, with rounded corners to eliminate sharp edges and improve fit in general mechanical use cases."
-}

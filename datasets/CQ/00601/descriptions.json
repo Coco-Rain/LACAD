@@ -1,5 +1,0 @@
-{
-  "operation": "First, create a CadQuery workplane aligned to the XY reference plane. Then define a parametric hyperbolic paraboloid function that maps u and v (each ranging from 0 to 1) to 3D coordinates: x = 8*(u-0.5) (range -4 to 4), y = 8*(v-0.5) (range -4 to 4), z = 0.5*(x² - y²). Finally, generate the continuous surface using the parametricSurface tool with a mesh sampling resolution parameter N=25 to complete the model.",
-  "geometry": "This is a single open, thin doubly-curved saddle-shaped hyperbolic paraboloid surface. Its footprint projected onto the XY plane is a square, with a saddle point at the origin of the coordinate system. Two opposite corners of the surface curve upward along the Z axis, while the remaining two opposite corners curve downward along the Z axis, forming symmetric saddle curvature.",
-  "function": "This is a standard mathematical hyperbolic paraboloid test surface, intended for parametric surface generation validation, quadric geometry education, or as a base design for architectural saddle structures, special-shaped reflectors, and aerodynamic components."
-}

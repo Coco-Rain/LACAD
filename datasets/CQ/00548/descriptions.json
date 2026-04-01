@@ -1,5 +1,0 @@
-{
-  "operation": "First, a 5-unit length, 5-unit width, 2-unit height rectangular box is constructed on the XY workplane. Next, a new workplane is created on the top (positive Z direction) face of the box, and the workplane origin is offset 1 unit along the X axis and 1 unit along the Y axis. A circle with 0.5 unit radius is drawn at this offset origin, then extruded 0.5 units upwards in the Z direction to form a raised cylindrical feature.",
-  "geometry": "The model consists of a square cuboid base, with a single small cylindrical protrusion attached to its upper surface. The cylinder is located off-center on the top face, positioned closer to one corner of the square base.",
-  "function": "This is a simple mechanical mounting or alignment component, featuring a flat stable base with a raised positioning boss to enable accurate locating and fitting in larger assemblies."
-}

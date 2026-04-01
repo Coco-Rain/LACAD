@@ -1,5 +1,0 @@
-{
-  "operation": "First, initialize a workplane on the XY reference plane, then create a solid box with X dimension 15 units, Y dimension 15 units, and Z dimension 5 units. Next, select the top face (maximum Z face) of the box to establish a new workplane on this surface, offset the workplane origin 3 units in the X axis and 3 units in the Y axis from the center of the top face, then cut a 4-unit diameter through hole that extends fully through the height of the box at this offset position.",
-  "geometry": "The model is a square cuboid base with equal-length square top and bottom faces and a consistent short height. A straight cylindrical through hole penetrates the entire height of the cuboid, located offset from the center of the top face, closer to one corner of the square top surface.",
-  "function": "This is a general-purpose mounting spacer or fixture block, designed to enable positioning and fastening of adjacent components via its off-center through hole, suitable for use in simple mechanical assemblies, jigs, or spacing applications."
-}

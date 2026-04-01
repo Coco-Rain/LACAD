@@ -1,5 +1,0 @@
-{
-  "operation": "Start with a workplane on the XY plane, create a solid rectangular box with X length 20 units, Y width 15 units, and Z height 8 units. Select the top positive Z face of the box, then generate an inward shell with a uniform wall thickness of 2 units to hollow out the box interior. Select the top positive Z face again, create a new workplane on this face, draw a circle of radius 5 units centered on the face, then perform a cut-through-all operation to extrude the circular profile entirely through the part, forming a vertical through hole.",
-  "geometry": "The model is a hollow right rectangular cuboid with uniform wall thickness, with a vertical circular through hole centered on its upper flat rectangular face that opens into the cuboid's internal cavity. All external edges are sharp 90-degree angles, and the circular hole is oriented perpendicular to the top and bottom faces of the cuboid.",
-  "function": "This is a compact hollow rectangular enclosure with a top pass-through hole, suitable for use as a small housing, fastener mounting base, or pass-through component for wiring, cylindrical shafts, or other small fittings."
-}

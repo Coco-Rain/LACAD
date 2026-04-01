@@ -1,5 +1,0 @@
-{
-  "operation": "Start with an XY-plane workplane, sketch a circle of 5 unit radius, then extrude the sketch 10 units along the Z-axis to form a cylinder. Next, select the top Z-facing face of the cylinder to establish a new aligned workplane, draw a centered rectangle with dimensions 6 units by 3 units, then perform a through-all cut to remove material along the full height of the cylinder using the rectangle profile.",
-  "geometry": "The model is a solid right circular cylinder with a rectangular through-slot cut through its full height, aligned with the cylinder's central vertical axis. The outer structure is fully rounded, while the internal void has flat rectangular faces running between the cylinder's top and bottom circular end faces.",
-  "function": "This is a cylindrical mechanical adapter designed to mount onto a matching rectangular shaft to prevent rotational slippage, suitable for use as a spacer, stop, or locating component in mechanical assemblies."
-}

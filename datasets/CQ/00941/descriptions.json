@@ -1,5 +1,0 @@
-{
-  "operation": "First, a 20 x 10 x 4 rectangular prism is generated from an initial XZ workplane. Next, the face oriented in the positive Y direction of the prism is selected, and a new workplane is created on this face. The origin of this new workplane is shifted 5 units in the negative X direction, with 0 offset along the Z axis. A 3 x 6 rectangle is sketched on this workplane, configured to not be centered along the X axis and centered along the Z axis. Finally, this rectangular profile is used to perform a 2 unit deep blind cut in the negative Y direction into the prism.",
-  "geometry": "The model is a solid rectangular base block with a single shallow rectangular recess cut into one of its larger flat side faces. The recess is horizontally offset to the left of the face center, vertically centered on the face, and only penetrates partially through the thickness of the base block, not extending through to the opposite face.",
-  "function": "This is a simple fixture or mounting plate with a locating cutout, designed to support alignment, positioning, or attachment of mating components in small assembly or positioning applications."
-}

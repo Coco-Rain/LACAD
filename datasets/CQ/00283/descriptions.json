@@ -1,5 +1,0 @@
-{
-  "operation": "First, create a workplane on the XY reference plane, then generate a right circular cylinder with a height of 20 units and a radius of 10 units. Next, select the top face of the cylinder at the positive Z end to set up a new workplane, sketch a centered regular 6-sided hexagon with a diameter of 15 units on this workplane, then run a cutThruAll operation to remove the hexagonal profile material all the way through the entire length of the cylinder.",
-  "geometry": "The model is a right circular cylinder with a coaxial regular hexagonal through cavity that runs the full length of the cylinder. The outer surface is smooth and curved, while the inner through hole has six equal flat faces, with the central axis of the hexagonal cavity perfectly aligned with the central axis of the outer cylinder.",
-  "function": "This is a hexagonal socket component designed to mate with hexagonal fasteners or drive shafts, suitable for use as a torque transfer adapter, spacing insert, or fastening interface part in mechanical assembly applications."
-}

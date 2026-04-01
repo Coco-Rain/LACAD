@@ -1,5 +1,0 @@
-{
-  "operation": "First, create a 20 mm × 20 mm × 2 mm rectangular box on the XY workplane. Next, select the top positive-Z face of the box, set up a new workplane aligned to this face, then draw two concentric circles with 8 mm and 5 mm radii respectively on this workplane. Isolate the outer, first-generated wire of the two circles, then extrude this annular profile 10 mm upward perpendicular to the workplane to produce the final model.",
-  "geometry": "The model is composed of a thin square flat base at the bottom, with a hollow cylindrical structure centered vertically on the top surface of the square base. A concentric circular through-hole runs the full height of the cylinder down to the top face of the base, and the central axis of the cylinder is collinear with the vertical centroid axis of the square base.",
-  "function": "This is a mounting standoff designed to support and elevate a cylindrical mating part at a fixed height above a flat mounting surface. The square base provides stable, secure surface attachment, while the hollow cylindrical section acts as a receptacle or guide for the mating circular component."
-}

@@ -1,5 +1,0 @@
-{
-  "operation": "First, a workplane aligned to the XY coordinate plane is initialized. A 2D sketch is started on this workplane: a circle with a radius of 5 units is drawn, followed by a centered 3 unit by 3 unit rectangle. The sketch is finalized, producing a closed profile that is the union of the two shapes, which equals the 10-unit diameter circle as the smaller rectangle is fully enclosed within the circle. This 2D profile is then extruded 2 units along the Z-axis perpendicular to the workplane to create the final 3D solid.",
-  "geometry": "The model is a symmetric, low-profile right circular cylinder. Its top and bottom faces are identical parallel horizontal circles, connected by a smooth continuous curved lateral surface. The cylinder has a uniform circular cross-section along its entire vertical height, with a diameter significantly larger than its height to form a flat puck shape.",
-  "function": "This compact, symmetric flat cylindrical component is designed for general use as a spacer, small washer, lightweight puck, or mounting base in a variety of mechanical, craft, or assembly applications."
-}

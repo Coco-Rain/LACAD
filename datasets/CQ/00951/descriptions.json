@@ -1,5 +1,0 @@
-{
-  "operation": "Start by creating a workplane aligned to the XY plane, then sketch a 3 unit by 3 unit centered rectangle. Extrude this sketch 10 units along the positive Z axis with a 60 degree inward taper angle, forming a tapered solid. Next, select the bottom face of the solid (the face at the lowest Z coordinate), create a new workplane aligned to this face, sketch a 2.5 unit by 2.5 unit centered rectangle, then perform a 1 unit deep blind cut into the solid from this face with a 60 degree inward taper angle for the cut feature.",
-  "geometry": "The model is a regular square pyramid with a sharp apex at its top and a flat square base at its bottom, with four identical sloped triangular side faces converging to the apex. A small, inward tapering square recess is centered on the flat bottom base face, partially inset into the pyramid's base structure.",
-  "function": "This tapered pyramid part is designed for use as a self-centering alignment locator, positional reference tip, or fixturing engagement feature for assembly and manufacturing operations, leveraging its angled faces to provide precise centering when mated with matching parts."
-}

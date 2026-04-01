@@ -1,5 +1,0 @@
-{
-  "operation": "First, create a CadQuery workplane aligned to the XY coordinate plane. Move the sketch starting point to coordinate (0, 10). Sketch a 10 unit long line at a 45 degree polar angle relative to the positive X axis, then sketch an 8 unit long line at a -30 degree polar angle, then close the sketch path to form a closed triangular 2D profile. Finally extrude this profile 4 units perpendicular to the XY workplane to generate the final solid 3D model.",
-  "geometry": "This model is a straight irregular triangular prism with uniform thickness. Its top and bottom faces are identical, parallel scalene triangles, connected by three rectangular lateral faces that are perpendicular to the triangular base plane.",
-  "function": "This is a simple solid triangular prism part, suitable for use as a spacer, shim, wedge insert, or small structural support in general mechanical assemblies, with a simple uniform cross-section for low complexity fitting or load bearing use cases."
-}

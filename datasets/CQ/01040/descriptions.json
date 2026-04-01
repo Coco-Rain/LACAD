@@ -1,5 +1,0 @@
-{
-  "operation": "First, initialize a CadQuery workplane on the XY coordinate plane. Move the sketch start point to (1, 1) coordinate, draw a horizontal line to x=4, next draw a vertical line up to y=3, then draw a horizontal line left back to x=1, then draw a vertical line down back to the starting (1, 1) point and close the 2D profile to form a 3-unit wide by 2-unit tall rectangle. Finally, extrude this closed 2D sketch by a distance of 2 units along the positive Z axis to generate the final 3D solid.",
-  "geometry": "This model is a right rectangular cuboid (hexahedron) with all adjacent faces meeting at 90 degree angles. Its top and bottom rectangular faces are parallel to the XY plane, while its four side faces are perpendicular to the base plane, with a uniform rectangular cross-section across its entire extrusion height.",
-  "function": "This is a basic rectangular solid block, suitable for use as a structural spacer, assembly base component, 3D printing calibration test piece, or foundational element for more complex CAD model modifications."
-}

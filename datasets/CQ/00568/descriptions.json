@@ -1,5 +1,0 @@
-{
-  "operation": "First, initialize a CadQuery workplane set to the XY reference plane. Next, create a wedge primitive with the following explicit parameters: 10 units of length along the X-axis, 5 units of width along the Y-axis, 5 units of maximum height along the Z-axis, xmin=0, ymin=0, xmax=0, and zmax=2.5, resulting in a wedge that tapers along its X-axis length, with the top edge of the end of the wedge opposite the full height face sitting at 2.5 units of Z height.",
-  "geometry": "This is a single solid hexahedral wedge structure. Its bottom face is a flat rectangle resting on the XY plane, one end is a full-height vertical rectangular face, and the opposite end is a shorter vertical rectangular face, so the top surface and the two lengthwise side faces are sloped trapezoidal shapes.",
-  "function": "This is a standard tapered wedge component designed for use as a shim, gap spacer, sloped ramp, or structural support, ideal for applications requiring a tapered interface between offset or angled mating surfaces."
-}

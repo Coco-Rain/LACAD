@@ -1,5 +1,0 @@
-{
-  "operation": "First, a 3D linear path is defined by a line segment between the coordinates (50, 15, 50) and (35, 25, 10). On the XY workplane, an elliptical profile is sketched with a semi-axis of 1 unit in the X direction and 2 units in the Y direction. This elliptical profile is then swept along the pre-defined linear path to generate the final 3D solid.",
-  "geometry": "The model is an elongated, straight rod with an elliptical cross-section. It is oriented diagonally in 3D space, forming a slanted pillar where the ends are flat ellipses cut at an angle relative to the rod's length.",
-  "function": "This part functions as a structural strut or connector, where the elliptical profile might be used to provide specific bending stiffness in one direction or to improve aerodynamic performance compared to a standard circular rod."
-}

@@ -1,5 +1,0 @@
-{
-  "operation": "First, create an XY-aligned CadQuery workplane. Start a sketch on this workplane by drawing a 20x20 unit rectangular profile. Next, generate a 3x3 rectangular array of 1 unit radius circles with 5 unit horizontal and 5 unit vertical spacing that form cutouts in the rectangle. Finalize the 2D sketch; the sketch can optionally be extruded to a height of 5 units to form a 3D plate, while the 2D sketch profile is exported as an STL file.",
-  "geometry": "This model is a square planar profile, or a thin rectangular prism when extruded, featuring 9 equal-sized circular through holes arranged in a uniform 3-by-3 grid across its entire face, with consistent spacing between adjacent holes in both horizontal and vertical directions.",
-  "function": "This perforated square plate is designed for use as a mounting base, alignment jig, ventilation grate, or spacer, with its regular grid of holes supporting fastener placement, airflow, or precise positioning of attached components."
-}

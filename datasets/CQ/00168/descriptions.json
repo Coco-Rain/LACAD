@@ -1,5 +1,0 @@
-{
-  "operation": "First, initialize a workplane on the XY reference plane. Sketch a regular 5-sided pentagon with a circumscribed diameter of 8 units. Perform a 2D offset of this pentagon sketch by 1.5 units using the arc-style offset method to create smoothly rounded corners on the profile. Extrude the resulting rounded pentagonal 2D profile 3 units perpendicular to the XY workplane to generate the final 3D solid model.",
-  "geometry": "The model is a uniform-height right prism with a rounded regular pentagon cross-section. It has two identical, flat, parallel pentagonal top and bottom faces connected by straight vertical side faces, with all corners of the pentagonal profile rounded to the same consistent radius, giving the part a smooth symmetric shape.",
-  "function": "This is a symmetric rounded pentagonal blank component, suitable for use as a small spacer, fixture insert, standoff, or decorative base part, with smooth rounded edges to avoid sharp contact points and a regular symmetric profile for stable positioning in assemblies."
-}

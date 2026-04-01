@@ -1,5 +1,0 @@
-{
-  "operation": "First, initialize a 2D sketch on the XY workplane. Move the sketch starting point to coordinate (5, 0), then draw connected straight line segments sequentially to points (5, 5), (0, 5), (-5, 0), and (0, -5). Close the sketch path to form a closed 5-sided polygon profile, then extrude this profile perpendicular to the XY workplane to a height of 2 units to produce the final 3D model.",
-  "geometry": "This model is a straight, uniform-thickness prism with a symmetric convex pentagonal cross-section. The pentagonal cross-section has a horizontal top edge, two upper sloped edges leading to left and right side vertices, and two lower sloped edges that meet at a sharp bottom vertex. The two identical parallel pentagonal end faces are connected by flat rectangular side faces oriented perpendicular to the cross-section plane.",
-  "function": "This constant-thickness pentagonal prism is suitable for use as a custom spacer, small structural insert, decorative badge base, or prototype component for assemblies that require a pentagonal profile."
-}

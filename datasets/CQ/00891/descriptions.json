@@ -1,5 +1,0 @@
-{
-  "operation": "First, a rectangular box with dimensions 20 (X-axis) × 40 (Y-axis) × 5 (Z-axis) is created on the XY workplane. Next, a new workplane is positioned 5 units below the top Z face of the box, the workplane center is shifted 15 units along the X-axis, a 18-unit radius circle is drawn, and extruded 5 units upward to fuse with the initial box. Finally, a 32-unit diameter through hole is cut through the full thickness of the part, centered on the top face of the extruded circular feature.",
-  "geometry": "This is a flat, uniform-thickness part composed of a hollow circular ring joined to a rectangular tab that extends radially outward from the outer edge of the ring. All features share the same overall height, with a full through hole at the center of the circular section, and no additional raised or recessed features across the part surface.",
-  "function": "This low-profile tabbed ring is designed to fit around a cylindrical shaft or pipe, with its integrated flat tab serving as a point for fastening, alignment marking, or attachment of auxiliary components, suitable for simple mounting applications around round parts."
-}

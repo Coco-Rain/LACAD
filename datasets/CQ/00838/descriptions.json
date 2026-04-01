@@ -1,5 +1,0 @@
-{
-  "operation": "Start on the XY workplane to create a base rectangular box with dimensions 30×25×8. Then, switch to the YZ workplane and apply a transformation with an offset of (12, 0, 4) in local coordinates. On this transformed workplane, create a cylinder with a height of 12 and a radius of 6. Finally, perform a union operation to merge the cylinder with the base box.",
-  "geometry": "The model consists of a flat rectangular slab and a cylindrical volume. The cylinder is oriented such that its longitudinal axis is parallel to the length of the slab. It is positioned asymmetrically, protruding from one side edge and partially intersecting the top and bottom faces, creating a rounded protrusion on the side of the block.",
-  "function": "This part serves as a structural block with an integrated cylindrical mounting or pivot point. The flat base provides a stable mounting surface, while the side-mounted cylinder can act as a hinge, a locating boss, or a housing for a small shaft in a mechanical assembly."
-}

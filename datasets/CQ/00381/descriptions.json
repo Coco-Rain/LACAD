@@ -1,5 +1,0 @@
-{
-  "operation": "First, a 2D CadQuery sketch is initialized. A right triangular base profile is created by drawing a line segment from origin (0,0) to (0, 2), followed by a second line segment to (2, 0), then closing the path. A full 360-degree circular arc (full circle forming a hole) with radius 0.4 and center at (0.6, 0.6) is added inside the triangular profile. The combined profile is assembled and tagged 'face'. All linear edges of the tagged face are selected, their vertices are targeted, and a 0.2 unit chamfer is applied to each of the three sharp triangular corner vertices.",
-  "geometry": "This is a closed planar 2D shape consisting of a right triangle with all three of its sharp outer corners truncated by uniform equal chamfers, with a single small circular through hole positioned inside the triangular boundary, offset inward from the original triangle's right-angle vertex.",
-  "function": "This pre-designed 2D profile is intended for use as a mounting bracket, shim, spacer, or cutout template, featuring a triangular form factor, eased outer corners to avoid sharp edges, and a dedicated hole for fastener placement or material pass-through."
-}

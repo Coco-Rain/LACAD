@@ -1,5 +1,0 @@
-{
-  "operation": "First, a 6-sided regular polygon with a 20mm diameter is sketched on the XY workplane, then extruded 5mm to create the base hexagonal prism. A workplane is then created on the top Z face of this prism, offset by (0, 4, 3) from the face center. A closed 2D profile is drawn using a 6mm radius arc ending at coordinate (4, 0) connected back to the workplane origin, and this profile is extruded 2mm upwards to form a raised feature. Finally, a 3mm diameter through hole is added to the top face of the original hexagonal base prism.",
-  "geometry": "The model has a primary regular hexagonal prism base, with a small raised 3D feature with a curved outer edge positioned at an offset location on the top surface of the base. A circular through hole runs vertically through the main hexagonal base structure.",
-  "function": "This is a custom hexagonal mounting component designed for alignment and fastening use cases, featuring an integrated positioning protrusion and a through hole for fastener installation."
-}

@@ -1,5 +1,0 @@
-{
-  "operation": "First, a rectangular box with dimensions 25 mm (X-axis) × 18 mm (Y-axis) × 12 mm (Z-axis) is created on the XY workplane. Next, a cylinder with height 9 mm and radius 5 mm is generated on the XY workplane offset 6 mm along the positive Z-axis, then united with the box. Finally, the topmost Z face of the combined solid is selected, and a shell operation with a uniform wall thickness of 1.5 mm is performed, removing the selected top face to hollow out the interior of the part.",
-  "geometry": "The model is a hollow, open-top thin-walled structure composed of a rectangular prism base fused with a cylindrical protrusion centered on the prism's upper surface. The cylinder extends partially above the top edge of the rectangular prism, both the rectangular and cylindrical sections share a single continuous hollow interior open at the top, with consistent wall thickness across all surfaces.",
-  "function": "This is a small custom hollow enclosure, reservoir, or port adapter designed with an integrated upper cylindrical port to mate with tubing or other components, featuring a large open interior for holding contents or installing internal parts."
-}

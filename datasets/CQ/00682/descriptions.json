@@ -1,5 +1,0 @@
-{
-  "operation": "First create a workplane on the XY plane, sketch a 10 x 10 unit axis-aligned rectangle, rotate this rectangle 45 degrees around its center along the Z axis, then extrude the rotated 2D profile 5 units along the Z direction to produce the final solid model.",
-  "geometry": "This is a straight uniform-height prism, with congruent square top and bottom faces oriented so their corners align with the X and Y axis directions, connected by four identical rectangular vertical side faces.",
-  "function": "This simple prismatic part is suitable for use as a 3D printer calibration test piece, small assembly spacer, or a base primitive for constructing more complex CAD assemblies."
-}

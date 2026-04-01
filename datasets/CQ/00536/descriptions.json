@@ -1,5 +1,0 @@
-{
-  "operation": "Start modeling on the XY workplane, first draw a circle with a radius of 10 mm, then extrude this sketch 5 mm upward to form a cylindrical base. Next, select the top Z face of the cylinder as the new workplane, sketch a regular 6-sided hexagon with a circumradius of 8 mm, and extrude the hexagon 4 mm upward to create a raised hexagonal boss. Finally, apply a shell operation with a uniform 1 mm wall thickness to hollow out the interior of the combined solid.",
-  "geometry": "The model is a uniform thin-walled hollow structure, with a short cylindrical base as the lower section, and a smaller regular hexagonal prism centered and fixed to the top surface of the cylinder, the internal cavity of the structure matches the combined outer profile of the cylinder and hexagonal prism.",
-  "function": "This is a thin-walled closure cap with a hexagonal top grip, designed to be easily tightened or removed by hand or a matching tool, intended to fit over a compatible cylindrical opening for covering or sealing purposes."
-}

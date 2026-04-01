@@ -1,5 +1,0 @@
-{
-  "operation": "First, a 20 mm x 20 mm x 2 mm rectangular box is created on the XY workplane. Next, a new workplane is established on the top (positive Z direction) face of the box. The workplane origin is shifted 5 mm in the negative X direction and 5 mm in the negative Y direction, then a 4 mm x 4 mm rectangle is sketched at this shifted origin. Finally, a 2 mm deep blind cut is performed through the rectangle sketch to create a through hole in the base box.",
-  "geometry": "The model is a thin square flat plate of uniform thickness, with a smaller square through hole that is offset from the plate's center towards one of its corners, extending fully through the entire thickness of the plate.",
-  "function": "This is a small square mounting shim with an offset through-hole, intended for use as a spacer, alignment component, or simple mounting plate in assemblies requiring an offset fastener placement."
-}

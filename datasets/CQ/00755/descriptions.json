@@ -1,5 +1,0 @@
-{
-  "operation": "Begin by sketching a regular pentagon with a circumradius of 25 on the XY plane and extrude it to a height of 8 units. On the top face, create a workplane rotated 45 degrees, define a closed profile using a radius arc of 20 units connecting points (15, 0) and (0, 15), and perform a blind cut 4 units deep. Finally, on the bottom face, center a counterbore hole with a 6mm diameter through-hole, a 12mm diameter counterbore, and a 5mm counterbore depth.",
-  "geometry": "The model is a pentagonal prism featuring a central vertical hole. One corner region of the top surface contains a shallow, arc-shaped cutout that removes a portion of the edge. The central hole is a counterbore, meaning it has a wider cylindrical opening on one side transitioning into a narrower hole through the rest of the body.",
-  "function": "This part serves as a specialized pentagonal mounting plate or base. The counterbore hole allows for flush-mounted bolt attachment, while the curved peripheral notch provides clearance or acts as a mechanical stop for an adjacent interlocking component."
-}

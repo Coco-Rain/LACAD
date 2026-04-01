@@ -1,5 +1,0 @@
-{
-  "operation": "First, initialize a workplane on the XY plane, then sketch a circle with a radius of 10 units on this workplane. Next, create a new workplane offset 5 units along the positive Z-axis from the initial workplane, and sketch a concentric circle with a radius of 5 units on this offset workplane. Finally, perform a loft operation between the two circular sketches with the combine parameter enabled to form the final solid model.",
-  "geometry": "The model is a straight circular frustum (truncated cone) with two parallel, concentric circular faces of different diameters. A smooth, continuous sloped lateral surface connects the edges of the larger base circular face and the smaller top circular face, with the two faces aligned along the same central vertical axis.",
-  "function": "This conical transition component is suitable for use as a spacer, load-bearing bumper, furniture foot, piping diameter reducer, or any part that requires a smooth structural transition between two different-sized circular mounting surfaces."
-}

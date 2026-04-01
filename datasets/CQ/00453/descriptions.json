@@ -1,5 +1,0 @@
-{
-  "operation": "First, initialize a workplane on the XY axis and create a rectangular box with dimensions 50 (length) × 40 (width) × 5 (height). Next, select the top face on the positive Z side of the box, and create a new workplane aligned to this face. Generate a sketch containing a 3-column, 2-row rectangular array of 2mm radius circles, with 20 units of spacing between holes along the horizontal axis and 15 units of spacing along the vertical axis of the workplane. Finalize the sketch, then cut all the circular profiles completely through the full thickness of the box to form through holes.",
-  "geometry": "The model is a thin rectangular flat plate, with six identical circular through holes arranged in a neat 3-by-2 grid across its upper surface. The holes are evenly spaced horizontally and vertically, and extend fully through the entire thickness of the plate.",
-  "function": "This is a perforated mounting base plate designed to support, align, and fasten other components via its evenly spaced through holes, suitable for use as a fixture plate, mounting bracket, or assembly alignment plate in mechanical setups."
-}

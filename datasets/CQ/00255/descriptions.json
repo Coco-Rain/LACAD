@@ -1,5 +1,0 @@
-{
-  "operation": "First, create a workplane on the XY plane, sketch a 20mm × 10mm rectangle, and extrude this sketch 5mm along the Z-axis to form a base rectangular block. Next, select the top (positive Z direction) face of the block to create a new workplane, offset the workplane origin by -5mm along the X axis and -2mm along the Y axis, sketch a 2D rounded-end slot with length 15mm and width 3mm, then cut this slot completely through the full thickness of the base block.",
-  "geometry": "The model is a solid rectangular cuboid with a single through slot that penetrates the full height of the cuboid. The slot has semicircular rounded ends, is positioned off-center on the top face of the cuboid, and runs nearly parallel to the long edge of the base cuboid.",
-  "function": "This slotted rectangular block is designed to act as an adjustable mounting fixture, alignment guide, or spacer, where the through slot enables positional adjustment for fasteners or mating components during assembly."
-}

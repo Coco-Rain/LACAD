@@ -1,5 +1,0 @@
-{
-  "operation": "First, create a 2D sketch on the XY workplane. Starting at the origin (0,0), draw a three-point arc that passes through (2.5, 5) and terminates at (5, 0). Next, draw a straight line from (5, 0) to (5, -5). Close the sketch to form a sealed 2D profile, then extrude this profile 3 units along the axis perpendicular to the XY workplane to produce the final 3D solid.",
-  "geometry": "This is a uniform-thickness extruded prism with a custom cross-section. The cross-section is bounded by a convex curved upper edge, a vertical straight right edge running down from the right end of the curved edge, and a straight lower edge connecting the bottom of the vertical edge back to the left end of the curved edge. The part has parallel flat top and bottom faces, one curved lateral face, and two flat lateral faces.",
-  "function": "This is a custom mechanical component intended for use as a cam segment, spacer, or fixture insert. Its curved profile is designed to interface with rounded mating parts, while its consistent cross-section delivers stable performance for mounting or contact applications."
-}

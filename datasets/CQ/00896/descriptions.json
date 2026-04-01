@@ -1,5 +1,0 @@
-{
-  "operation": "First, a CadQuery workplane is initialized on the XY reference plane. Next, a solid box primitive is created on this workplane with an X-direction length of 10 units, Y-direction width of 10 units, and Z-direction height of 1 unit, with no additional modification operations applied to the base solid.",
-  "geometry": "This model is a thin, low-profile right square prism. Its top and bottom faces are identical equal-sided squares, its four side faces are identical rectangles, all adjacent faces meet at 90-degree right angles, and the height of the prism is far smaller than its length and width dimensions.",
-  "function": "This is a basic thin square flat component, suitable for use as a spacer, shim, small mounting base, or simple foundational structural element in general assembly and engineering applications."
-}

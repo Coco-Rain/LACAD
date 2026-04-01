@@ -1,5 +1,0 @@
-{
-  "operation": "First, initialize a 2D sketch workplane aligned to the XY coordinate plane. Next, draw a 2D circular sketch with a radius of 5 units centered at the workplane origin. Finally, extrude the 2D circular sketch linearly along the Z-axis (perpendicular to the XY workplane) to a total height of 10 units to produce the finished 3D solid.",
-  "geometry": "This model is a right circular cylinder, with two identical parallel flat circular faces forming its top and bottom ends, and a smooth continuous curved lateral surface connecting the perimeters of the two circular end faces. The cylinder's central longitudinal axis is perpendicular to the planes of both end faces.",
-  "function": "This standard solid cylinder is designed for use as a generic structural component, 3D printing calibration test piece, spacer, dowel pin, or foundational building block for more complex custom CAD assemblies."
-}

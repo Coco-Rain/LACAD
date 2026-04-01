@@ -1,5 +1,0 @@
-{
-  "operation": "First, initialize a workplane on the XY coordinate plane, then create a base rectangular box with dimensions 20 mm x 20 mm x 2 mm. Next, select the topmost Z face of the base box and establish a new workplane on this face. Offset the workplane origin 3 mm in the negative X direction and 3 mm in the negative Y direction, draw a 4 mm x 4 mm solid rectangle at this offset origin, then extrude the rectangle 2 mm in the positive Z direction to form a raised boss feature.",
-  "geometry": "The model is made up of two stacked right square prisms. A larger, thin square prism acts as the base, and a smaller square boss sits on the upper surface of the base, offset from the center of the base toward one of its corners. All edges of both prisms are aligned parallel to the global X, Y, and Z axes, with no curved or angled features present.",
-  "function": "This is a low-profile mounting or alignment base with an offset raised locating feature, designed to position mating components in a specific offset orientation relative to the square base footprint, suitable for use as a spacer or simple fixture."
-}

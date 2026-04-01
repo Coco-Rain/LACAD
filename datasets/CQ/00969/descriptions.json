@@ -1,5 +1,0 @@
-{
-  "operation": "Start by initializing a workplane on the XY coordinate plane, move the sketch origin to the coordinate (2, 2), then draw a rectangle with 6 units of width and 4 units of height. Extrude this 2D rectangle 3 units along the positive Z direction to form a solid rectangular block. Next, select the topmost Z-facing face of the block, sketch a 1-unit radius circle centered on this face, then perform a blind cut extending 2 units downwards into the block to create a partial depth hole that does not penetrate the block's bottom face.",
-  "geometry": "The model consists of a right rectangular cuboid base with a single blind cylindrical hole positioned at the center of its upper horizontal flat face. The cylindrical hole runs vertically downwards into the cuboid, and does not pass through the full height of the block, leaving the bottom face of the cuboid completely intact and closed.",
-  "function": "This is a simple rectangular spacer or mounting block designed to accept fasteners, alignment pins, or mate with other components via its partial depth hole, eliminating through-hole exposure on the bottom mounting surface."
-}

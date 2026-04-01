@@ -1,5 +1,0 @@
-{
-  "operation": "First, create a 1 unit × 1 unit × 1 unit cube primitive centered on the XY workplane at the origin. Next, create a cylinder primitive on the same XY workplane, with a height of 0.5 units and radius of 2 units, also centered at the origin. Finally, combine both primitives into a single compound model; the smaller cube is fully contained within the larger cylinder, so no portion of the cube is visible externally.",
-  "geometry": "Externally, the model appears as a flat, short circular puck-shaped cylinder aligned so its central axis runs parallel to the Z-axis, centered at the coordinate origin. A smaller cube is fully enclosed inside the cylinder, with no part of the cube extending beyond the cylinder's outer surfaces.",
-  "function": "This is a simple test model designed for validating CAD export workflows, 3D printing processes, or coordinate system alignment checks, using standard primitive shapes centered at the default origin."
-}

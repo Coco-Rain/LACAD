@@ -1,5 +1,0 @@
-{
-  "operation": "First, a 10 x 10 x 10 unit cube is created on the XY workplane. Next, a right circular cylinder is generated: the XY workplane is offset 5 units along the positive X axis, a 3-unit radius circle is sketched, and the circle is extruded 10 units along the Z axis. Finally, a boolean intersection operation is performed between the cube and the cylinder to retain only their overlapping volume as the final model.",
-  "geometry": "This is a uniform prismatic solid with a consistent D-shaped cross-section along its vertical axis. It has one smooth convex curved lateral face, three mutually orthogonal flat side faces, and two congruent flat D-shaped top and bottom end faces, with all side faces perpendicular to the end faces.",
-  "function": "This D-shaped prismatic component is designed for use as a spacer, guide block, fixture part that mates with both flat and curved surfaces, or a test geometry to validate CAD boolean modeling workflows."
-}

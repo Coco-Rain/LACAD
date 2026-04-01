@@ -1,5 +1,0 @@
-{
-  "operation": "First, a 5 x 5 x 1 rectangular box base is created on the default XY workplane. The top (positive Z-facing) face of this base is selected to draw a sketch: first, a 3-sided regular equilateral polygon with circumradius 2 is drawn and tagged 'outer', then a smaller 3-sided regular polygon with circumradius 1.5 is drawn in subtract mode to form a hollow triangular frame profile. The vertices of the tagged outer polygon are chamfered with a 0.2 unit chamfer distance, then the finalized sketch is extruded 0.5 units upward along the Z axis to produce the raised top feature.",
-  "geometry": "The model is composed of a thin square cuboid base, with a hollow equilateral triangular raised frame centered on its top surface. Each outer corner of the triangular frame has a flat angled chamfer cut, forming a thin-walled protruding ridge that sits flush on the base surface.",
-  "function": "This is a mounting and alignment fixture, where the square base provides a stable mounting surface, and the raised chamfered triangular rim is designed to locate, guide, or secure complementary triangular components during use or assembly."
-}

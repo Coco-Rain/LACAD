@@ -1,5 +1,0 @@
-{
-  "operation": "First, a new 2D CadQuery Sketch object is initialized. A centered rectangle with a width of 12 units and height of 6 units is drawn on the sketch plane first. Next, a centered ellipse with a horizontal semi-major axis length of 6 units and vertical semi-minor axis length of 4 units is added to the sketch, automatically unioning with the existing rectangle to form a single closed 2D shape. A copy of the final combined sketch is created, and the original sketch is exported as an STL file.",
-  "geometry": "This is a planar, bilaterally symmetric closed 2D shape formed as the union of a central rectangle and a concentric horizontally oriented ellipse. The four corners of the rectangle extend beyond the perimeter of the ellipse to form sharp angular corners, while the curved outer edges of the ellipse extend past the straight sides of the rectangle to form smooth curved edge segments between each pair of adjacent corners.",
-  "function": "This custom 2D profile is designed for use as a base for 3D extrusion, a laser cutting template, a gasket seal shape, or a decorative design element for small fabrication projects."
-}

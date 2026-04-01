@@ -1,5 +1,0 @@
-{
-  "operation": "On the XZ workplane, move to (10, 0) and create a rectangular box with a width of 60, height of 13, and thickness of 24, centered on the X and Z axes but extending from the plane in the Y direction. Select the face at the minimum Y coordinate and establish a workplane centered at the projected origin (0,0,0). Push three points at coordinates (-10, 0), (10, 0), and (30, 0), and generate counterbore holes at these locations with a 6mm diameter through-hole, a 10mm diameter counterbore, and a 4mm counterbore depth.",
-  "geometry": "The model is a long, narrow rectangular prism. One of its vertical side faces features three identical counterbore holes aligned horizontally along the longitudinal centerline. The holes are spaced evenly, with the entire pattern offset toward one side of the block's length.",
-  "function": "This part serves as a mounting rail or bracket intended to be bolted to another surface. The counterbore holes allow for the use of flush-mounted fasteners, such as socket head cap screws, to secure the block without the screw heads protruding from the surface."
-}

@@ -1,5 +1,0 @@
-{
-  "operation": "First, a workplane is created on the YZ plane, and a rectangular box with X-dimension 2 units, Y-dimension 8 units, and Z-dimension 6 units is generated. Next, the face on the positive X side of the box is selected, and a new workplane is established on this face. A closed 2D profile is sketched on this workplane: starting at the coordinate (0, 3), a straight line is drawn to (0, -2), followed by a tangent arc ending at (-3, -4), then the profile is closed. Finally, a 1.5-unit deep blind cut is performed into the box face using this profile.",
-  "geometry": "The model is a rectangular cuboid with a shallow irregular pocket cut into one of its vertical side faces. The pocket profile is formed by a straight vertical edge, a short straight top edge, and a smoothly curved lower tangent arc edge, recessed partway through the thickness of the cuboid.",
-  "function": "This is a custom mechanical fixture or mounting component with a shaped recess designed to mate with a corresponding curved or angled part, enabling a secure, custom fit in targeted assemblies."
-}

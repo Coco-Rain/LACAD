@@ -1,5 +1,0 @@
-{
-  "operation": "First, a 2D rectangle with dimensions of 20 mm by 10 mm is sketched on the XY workplane. This 2D sketch is then extruded 5 mm along the Z-axis to create a rectangular prism. Finally, all vertical edges that run parallel to the Z-axis are filleted with a 1 mm radius to smooth the vertical corners of the part.",
-  "geometry": "The model is a compact rectangular cuboid with flat, parallel top and bottom faces. All four vertical edges running along the height direction are smoothly rounded with a constant small radius, resulting in rounded rectangular profiles for the top and bottom faces, while the horizontal edges at the top and bottom of the part remain sharp.",
-  "function": "This rounded rectangular solid is intended for use as a spacer, mounting pad, small enclosure base, or general structural component, with softened edges to eliminate sharp corners for safer handling and easier fitting into assemblies."
-}

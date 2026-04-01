@@ -1,5 +1,0 @@
-{
-  "operation": "The model is created by starting on the XY workplane and initiating a sketch. A rectangle with dimensions 20 units by 10 units is drawn, and after finalizing the sketch, it is extruded along the Z-axis to a height of 5 units.",
-  "geometry": "The resulting shape is a simple rectangular prism (cuboid) with three pairs of parallel, flat faces meeting at right angles. It has a length-to-width ratio of 2:1 and a height equal to half its width.",
-  "function": "This basic rectangular component serves as a fundamental building block, suitable for use as a mounting plate, spacer, or a simplified geometric primitive within a larger mechanical assembly."
-}

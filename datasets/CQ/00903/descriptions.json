@@ -1,5 +1,0 @@
-{
-  "operation": "First, a workplane aligned to the XY reference plane is initialized. A sketch is created on this workplane, featuring a regular 6-sided polygon with a circumradius of 5 units. After finalizing the sketch to produce a closed 2D profile, the profile is extruded perpendicular to the XY plane to a total height of 8 units to generate the final 3D solid.",
-  "geometry": "This model is a right regular hexagonal prism, with two identical parallel regular hexagons as its top and bottom end faces, connected by six equal rectangular lateral faces that are perpendicular to both end faces. The cross-section parallel to the end faces is uniform across the entire height of the prism, and all vertical side edges are equal in length.",
-  "function": "This standard regular hexagonal prism blank is suitable for use as a structural spacer, fastener head base, modular assembly component, or general-purpose geometric part for engineering prototyping applications."
-}

@@ -1,5 +1,0 @@
-{
-  "operation": "First, a 55 mm × 8 mm × 5.5 mm rectangular box is created on the XY workplane, then translated by (22.5 mm, 0 mm, 2.5 mm) in X/Y/Z space. All edges of the top (positive Z) face are filleted with a 3.99 mm radius, followed by filleting all non-linear edges with a 3 mm radius. A workplane is then established on the top Z face, a sketch point is placed at the (15, 0) coordinate on this plane, and a counterbore hole is cut at this point with a 3.3 mm diameter through hole, 5.8 mm diameter counterbore, and 4 mm counterbore depth.",
-  "geometry": "This is an elongated thin prismatic bar with fully rounded short end faces and smoothly rounded lengthwise edges, resulting in a completely smooth, curved external profile with no sharp corners. A single counterbored through hole is positioned on the upper flat face of the bar, offset along the bar's central longitudinal axis.",
-  "function": "This is a smooth, low-profile small mounting bar or pull handle designed for single-point fastening via its integrated counterbore hole, ideal for use as a fixture component, small equipment pull, or guide part where sharp contact hazards are to be avoided."
-}

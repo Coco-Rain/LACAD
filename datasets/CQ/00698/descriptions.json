@@ -1,5 +1,0 @@
-{
-  "operation": "Start by creating a rectangular base plate with dimensions 40×25×15 on the XY workplane. Perform a union operation with a cylinder of height 12 and radius 8, which is positioned on the top face by applying a transformation offset of (10, 0, 7.5). Finally, select the face facing the positive X-axis, establish a workplane centered on its bounding box, and create a counterbore hole with a 5-unit diameter, a 10-unit counterbore diameter, a counterbore depth of 4, and a total hole depth of 8 units.",
-  "geometry": "The model consists of a primary rectangular block with a cylindrical protrusion rising from its top surface, positioned closer to one end than the other. On one of the shorter side faces of the rectangular block, there is a centered counterbore hole consisting of a smaller internal diameter and a wider recessed entry.",
-  "function": "This part is designed as a mounting or alignment block. The cylindrical boss on top likely serves as a locating pin or pivot point, while the counterbore hole on the side is intended to house a screw or bolt, allowing the head to sit flush or recessed within the part for secure attachment."
-}

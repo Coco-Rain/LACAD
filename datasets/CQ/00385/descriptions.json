@@ -1,5 +1,0 @@
-{
-  "operation": "On the XZ workplane, a triangular profile is defined by starting at (0, 5), drawing a horizontal line to (3, 5), a diagonal line to (5, 0), and closing the sketch back to the starting point. This profile is then revolved 270 degrees around the Z-axis (defined by points (0, 0, 0) and (0, 0, 1)).",
-  "geometry": "The resulting shape is a three-quarter (270-degree) revolved solid with a triangular cross-section. It features a flat annular top surface, a tapered outer face that slopes outward toward the base, and an angled inner face that converges toward a point on the central axis at the top.",
-  "function": "This part represents a partial conical shroud or a specialized 270-degree ring component. It is designed for mechanical assemblies where a rotational guide or protective cover is needed with a 90-degree cutout for clearance or access."
-}

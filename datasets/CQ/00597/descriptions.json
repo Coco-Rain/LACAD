@@ -1,5 +1,0 @@
-{
-  "operation": "First, create an XY-plane workplane, then generate a 40mm long, 40mm wide, 5mm tall rectangular base box. Select the top (positive Z direction) face of the base box, and create a new workplane on this face. Generate a 4×4 rectangular point array with 10mm horizontal and 10mm vertical spacing between adjacent points. Draw a 3mm × 3mm rectangle at every array point, then extrude all these rectangles 2mm upward from the top face of the base to form raised bosses.",
-  "geometry": "The model is a flat square base plate topped with a regular 4-row, 4-column grid of identical small square protrusions. All raised features have the same height, and are evenly spaced both horizontally and vertically across the entire upper surface of the base plate.",
-  "function": "This is a standardized grid mounting base, designed to be used as a fixturing plate, spacer, or component mounting platform, with evenly spaced raised bosses to support aligned installation of small parts at regular intervals."
-}

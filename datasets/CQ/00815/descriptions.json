@@ -1,5 +1,0 @@
-{
-  "operation": "First, a circle of 5 unit radius is sketched on the XY workplane, then extruded 2 units along the positive Z axis to form a solid cylinder. Next, a new workplane is established on the top (maximum Z) face of the cylinder, where a 3 unit by 3 unit centered rectangle is sketched. This rectangular profile is used to cut a blind recess 1 unit deep into the top of the cylinder.",
-  "geometry": "The model is a short right circular cylinder with a centered, flat-bottomed square indentation on its upper circular face. The square recess is aligned with the principal X and Y axes, shares the same central vertical axis as the cylinder, and does not extend through the full height of the cylinder.",
-  "function": "This part is designed to serve as a small control knob, fastener cap, or locating spacer, with the top square recess intended to interface with a matching square male feature such as a drive tool or alignment pin."
-}

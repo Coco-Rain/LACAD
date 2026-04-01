@@ -1,5 +1,0 @@
-{
-  "operation": "First, initialize a workplane aligned to the YZ reference plane. Next, sketch a 5-unit by 5-unit rectangle on this workplane. Select the two vertices of the rectangle that sit lowest along the negative Z axis, then draw a 2-unit radius circle centered at each of these selected vertices. Finally, extrude the combined merged 2D sketch 1 unit in the negative X direction to form the final 3D solid.",
-  "geometry": "This is a constant-thickness prismatic solid. Its cross section features a square upper portion, with a continuous smooth convex curved lower section joined to the full length of the square's bottom edge, resulting in a fully rounded lower profile. All cross sections along the extrusion axis are identical.",
-  "function": "This compact rigid component is designed for use as a small bumper stop, sliding guide, or low-profile mounting bracket, with a smooth rounded lower edge to eliminate sharp contact points and enable gentle, non-abrasive interaction with adjacent parts."
-}

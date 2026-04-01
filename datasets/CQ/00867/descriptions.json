@@ -1,5 +1,0 @@
-{
-  "operation": "First, a spline path is generated on the XY workplane using 7 control points: (0, 10.0), (5.0, 10.0), (10.0, 12.5), (15.0, 10.0), (20.0, 15.0), (25.0, 17.5), (27.5, 15.0). A reference plane is then created at the start point of the spline path, with its normal aligned to the tangent of the path at the start position. A sketch of an ellipse with a semi-minor radius of 1, semi-major radius of 2, and 90-degree rotation is created on this reference plane. Finally, the elliptical sketch is swept along the entire length of the spline path to form the final solid model.",
-  "geometry": "This is a smooth, undulating tubular solid with a constant elliptical cross-section across its full length. It follows a planar wavy curved path with multiple gentle, rounded bends, has no sharp edges, and features open elliptical end faces at both termini of the structure.",
-  "function": "This custom contoured tubular component is designed for use as a routed duct, hose, or tubing for fluid or air transfer, with smooth bends to minimize flow restriction and a predefined curved profile to fit specific spatial routing or mounting constraints."
-}

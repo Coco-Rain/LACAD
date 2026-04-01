@@ -1,5 +1,0 @@
-{
-  "operation": "First, initialize a workplane aligned to the front reference plane. Draw two concentric circles on this workplane with radii of 100 units and 120 units respectively. Next, create a new workplane offset 50 units from the front workplane along its normal direction, then draw another set of identical concentric circles with 100 unit and 120 unit radii on this offset workplane. Finally, execute a loft operation to connect the two pairs of circular profiles to generate the final 3D solid.",
-  "geometry": "This is a short, straight hollow cylindrical annular structure with uniform wall thickness. It has identical concentric annular open faces at both its top and bottom ends, and its side wall is perpendicular to both end faces, so it maintains a constant circular cross-section along its central axis.",
-  "function": "This is a general-purpose hollow cylindrical sleeve component, suitable for use as a spacer, short pipe segment, bearing bushing, or mounting ring, with uniform wall thickness for consistent structural performance in cylindrical assembly applications."
-}

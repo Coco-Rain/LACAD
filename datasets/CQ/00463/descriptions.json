@@ -1,5 +1,0 @@
-{
-  "operation": "First, a 30 mm × 25 mm × 12 mm rectangular box is created on the XY workplane. Next, a second XY workplane offset 6 mm along the Z axis is used to sketch an ellipse with a 10 mm major radius and 7 mm minor radius, which is extruded 8 mm along the positive Z direction. This extruded elliptical prism is unioned with the base box. Finally, all edges aligned parallel to the Z axis are filleted with a 4 mm radius.",
-  "geometry": "The model is composed of a rectangular prism base with rounded vertical edges, and a centered elliptical cylinder that is partially embedded in the upper half of the base and partially extends above the top face of the base. All edges running along the height axis of the part have consistent smooth rounded corners.",
-  "function": "This is a compact mounting adapter component designed to provide a stable rectangular mounting footprint, with a raised elliptical feature for mating with oval or round complementary parts, and rounded edges to reduce stress concentration and improve handling safety."
-}

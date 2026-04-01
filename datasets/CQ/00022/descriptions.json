@@ -1,5 +1,0 @@
-{
-  "operation": "On the XY workplane, create a sketch starting at (0, 0). Draw a horizontal line to x=5 and a vertical line to y=4 (relative to the previous point). Then, create a separate closed loop by moving to (2, 0) and drawing a vertical line to y=3, a horizontal line to x=4, and a vertical line back to y=0, closing the rectangle. Finally, extrude the entire sketch by 1.5 units along the Z-axis.",
-  "geometry": "The model consists of two distinct but connected elements with a uniform thickness of 1.5 units: an L-shaped set of thin perpendicular walls (measuring 5 units by 4 units) and a solid rectangular block (measuring 2 units by 3 units) positioned within the inner corner of the L-shape. The resulting structure features varied local thicknesses where the block and walls overlap.",
-  "function": "This component acts as a specialized mounting bracket or alignment jig. The thin perimeter walls provide edge guides for positioning, while the solid rectangular block provides a reinforced mounting surface or a stop-feature for other parts in a mechanical assembly."
-}

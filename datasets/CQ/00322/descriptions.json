@@ -1,5 +1,0 @@
-{
-  "operation": "First, a 2D circle with a radius of 3 units is sketched on the XY workplane. Next, a new workplane is created offset 5 units along the Z-axis from the initial XY plane, and a centered 2 unit by 2 unit rectangle is sketched on this offset workplane. Finally, a loft operation is performed between the two separate 2D profiles to generate the continuous 3D solid.",
-  "geometry": "This is a tapered coaxial lofted solid with two parallel, non-congruent end faces: the lower, larger base is a circular face, while the upper, smaller top face is a square. Sloped, continuous side surfaces run between the two ends to form a smooth transition between the circular and square cross-sections along the solid's central vertical axis.",
-  "function": "This is a cross-section transition fitting designed to connect circular and square opening components, such as ducts, pipes, or mounting interfaces, with a smooth transitional shape to minimize flow resistance or provide a stable structural connection between mismatched ports."
-}

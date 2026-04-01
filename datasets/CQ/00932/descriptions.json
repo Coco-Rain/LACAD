@@ -1,5 +1,0 @@
-{
-  "operation": "First, initialize a workplane on the XY plane, sketch a 30mm by 20mm rectangle, and extrude this sketch 10mm upward to create the base block. Next, select the top Z-facing face of the base, create a new workplane on this face, sketch an ellipse with a 12mm major radius and 8mm minor radius, then extrude this ellipse 5mm upward to form the upper protrusion. Finally, select all edges parallel to the Z axis, and apply a 3mm fillet to each of these edges.",
-  "geometry": "The model is a two-tiered vertically stacked solid: the lower section is a rectangular prism with rounded vertical edges, and the upper section is an elliptical cylinder centered on the top surface of the lower prism. All vertical edges of both components are uniformly rounded, and the two sections share the same vertical central axis.",
-  "function": "This is an ergonomic control knob designed for use with electronics, appliances, or industrial machinery, with smooth rounded edges and a raised upper profile for comfortable and convenient manual operation."
-}

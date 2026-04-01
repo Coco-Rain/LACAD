@@ -1,5 +1,0 @@
-{
-  "operation": "First, initialize a 2D CadQuery sketch. Draw a straight segment from (0, 0) to (0, 2), followed by a second segment from (0, 2) to (2, 0), then close the profile to form a right triangle with 2-unit long legs and a right angle at the origin. Add a full 360° circular arc of 0.4 unit radius centered at (0.6, 0.6) as an interior cutout. Assemble the sketch into a single closed face, select the rightmost (maximum X coordinate) edge, and apply a 0.2 unit chamfer to this edge.",
-  "geometry": "This is a flat planar right-triangular shape, with a small circular through hole located near its 90-degree interior corner, and a chamfer applied to its rightmost outer edge to remove sharp material at that position.",
-  "function": "This is a lightweight structural gusset or mounting plate intended for reinforcement or fastener mounting applications, with a pre-drilled hole for fastener installation and a chamfered edge to ease assembly and eliminate sharp corners."
-}

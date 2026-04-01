@@ -1,5 +1,0 @@
-{
-  "operation": "Start by creating a rectangular box with dimensions of 50×20×15 units. Select the face on the negative Y side and isolate its top-left vertex (minimum X and maximum Z). From this vertex, generate a workplane offset -4.5 units into the interior of the box. Within this workplane, shift the sketch center by 2.0 units downward along the local Y-axis and draw a circle with a radius of 0.5 units. Finally, extrude this circle outward by 8 units using a subtractive operation to create a small cylindrical hole 4.5 units deep.",
-  "geometry": "The model is a large rectangular cuboid. It features a single, minute cylindrical hole on one of its long vertical faces. This hole is positioned near the top-left corner and penetrates only slightly into the solid, oriented perpendicular to the face.",
-  "function": "This part acts as a structural base or mounting block. It includes a precisely located small-diameter hole which can serve as a pilot hole for fasteners, a locator for a small alignment pin, or a passage for a fine wire in a mechanical assembly."
-}

@@ -1,5 +1,0 @@
-{
-  "operation": "First, a rectangular box with dimensions 30 units (X-axis) × 30 units (Y-axis) × 3 units (Z-axis) is created on the XY workplane. A new workplane is then initialized on the top (positive Z direction) face of the box. The workplane origin is offset 5 units in the negative X direction and 5 units in the negative Y direction. A 2-unit radius circle is sketched at this offset origin, and a cut operation is performed through the entire thickness of the box to create a through hole from the circle profile.",
-  "geometry": "The model is a thin, square flat plate with sharp right-angle edges at all four corners. A single cylindrical through hole runs fully perpendicular through the entire thickness of the plate, positioned at an offset from the geometric center of the plate's top square surface.",
-  "function": "This component serves as a simple mounting spacer, shim, or small base plate for mechanical assemblies, with the offset through hole allowing it to be securely fastened to mating parts at a specified alignment position."
-}

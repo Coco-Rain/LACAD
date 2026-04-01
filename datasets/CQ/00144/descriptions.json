@@ -1,5 +1,0 @@
-{
-  "operation": "First, a base cylinder is created by sketching an 8-unit radius circle on the front workplane and extruding it 5 units along the Z-axis. Next, a new workplane is established on the top (positive Z direction) face of the base cylinder, with its origin shifted 4 units along the Y axis. A 2D slot 10 units long, 3.5 units wide, and rotated 45 degrees is sketched on this workplane, then extruded 2 units upward with a 10-degree outward taper angle to form the raised upper feature.",
-  "geometry": "The model is composed of a short flat circular base cylinder, with a single tapered raised slot-shaped protrusion mounted to its top surface. The protrusion is offset from the center of the top face toward one edge, oriented at a 45-degree angle relative to the base's coordinate axes, and has gently sloped side walls from the extrusion taper.",
-  "function": "This is a rotary control knob designed for use on adjustable devices like electronics or appliances. The raised sloped tab serves both as a visible position indicator to show the current dial setting, and as a grip point to simplify manual rotation of the knob."
-}

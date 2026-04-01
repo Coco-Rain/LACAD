@@ -1,5 +1,0 @@
-{
-  "operation": "Initially, a sphere with a radius of 10.125 is created on the XY plane. Next, a box of dimensions 13.98 x 21.26 x 21.26 is constructed on the XZ workplane and centered at the origin. A Boolean intersection is performed between these two solids, which truncates the sphere along two parallel planes. Finally, the resulting circular edges at the intersection sites are rounded with a fillet of radius 2.44.",
-  "geometry": "The shape is a truncated sphere, resembling a thick, rounded disc or a flattened ball. It features two parallel circular flat faces on opposite sides. The edges where the spherical surface meets the flat planes have been blended into a smooth curve, removing all sharp transitions and creating a organic, pill-like silhouette.",
-  "function": "This model represents a smoothed spherical segment or a decorative knob. Its design, featuring flat sides and filleted edges, makes it suitable for use as a tactile interface component, a specialized spacer, or a mechanical roller that requires a specific width profile."
-}

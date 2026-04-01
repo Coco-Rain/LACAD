@@ -1,5 +1,0 @@
-{
-  "operation": "First, create a base cylinder by sketching a 5-unit radius circle on the XY workplane and extruding it 10 units along the positive Z axis. Next, select the lower (minimum Z) face of the cylinder, create an inward-facing workplane on this face, sketch a concentric regular 6-sided hexagon with a 6.35 unit size parameter, then perform a 3-unit deep blind cut into the cylinder to form the hexagonal recess.",
-  "geometry": "The model is a solid right circular cylinder with a concentric regular hexagonal blind recess cut into one of its flat circular end faces. The recess only extends partially through the thickness of the cylinder, and is fully contained within the bounds of the end face it is machined into, with all external cylindrical surfaces smooth and continuous.",
-  "function": "This part is designed as a hexagonal socket adapter, spacer, or mounting standoff, intended to mate with a standard hexagonal fastener or drive tool in its recessed end, while the cylindrical body provides structural spacing, support, or a mounting interface."
-}

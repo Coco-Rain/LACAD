@@ -1,5 +1,0 @@
-{
-  "operation": "First, initialize a CadQuery workplane aligned to the XY reference plane. Next, generate a solid cube with length, width, and height all set to 10 units. Finally, perform a shell operation that removes the face oriented in the negative Z direction, hollowing the cube into a thin uniform-walled structure open at the negative Z end.",
-  "geometry": "This model is a hollow cubic shell with a closed square top face connected to four identical perpendicular square side faces, leaving the entire bottom end open. All adjacent faces meet at right angles, with uniform wall thickness across all remaining faces, and the outer boundary matches the shape of a perfect cube.",
-  "function": "This open-bottom hollow cubic enclosure is designed to act as a small container, protective cover for square components, basic hardware housing, or a simple mold insert for square parts."
-}

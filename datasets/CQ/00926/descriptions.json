@@ -1,5 +1,0 @@
-{
-  "operation": "First, create a CadQuery workplane aligned to the YZ reference plane. Next, generate a rectangular box with dimensions 20 units along the Y-axis, 20 units along the Z-axis, and 2 units along the X-axis. Finally, rotate the entire box 45 degrees around its geometric center about the Y-axis to get the final model.",
-  "geometry": "The model is a uniformly thin flat rectangular plate with square outer faces, oriented at a 45-degree angle around the vertical Y-axis. It has no cutouts, protrusions or variable features, and sits diagonally in 3D space with consistent thickness across its full shape.",
-  "function": "This is a simple angled thin plate component designed to be used as a shim, spacer, or alignment insert for applications requiring a 45-degree oriented flat part for spacing, load distribution, or part positioning."
-}

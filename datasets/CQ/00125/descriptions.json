@@ -1,5 +1,0 @@
-{
-  "operation": "First, initialize an XY workplane, then create a right circular cylinder with a height of 12 units and a radius of 6 units. Next, switch to an XZ workplane, apply a coordinate offset of (0, 8, 0) to this workplane, generate a sphere with a radius of 6 units, then execute a boolean union operation to combine the cylinder and sphere into a single unified solid model.",
-  "geometry": "The model is a single seamless solid made up of a vertical right circular cylinder at the lower portion, with a sphere of the same radius attached to its top end. The sphere is aligned along the central vertical axis of the cylinder, with its lower section overlapping and merging smoothly with the top surface of the cylinder to form a rounded upper termination.",
-  "function": "This is an ergonomic rounded knob component, suitable for use as a control lever grip, rod end cap, or small push button, with a smooth rounded top for comfortable user contact and a cylindrical base designed for mounting to a matching shaft or fixture."
-}

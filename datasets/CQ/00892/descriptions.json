@@ -1,5 +1,0 @@
-{
-  "operation": "First, initialize a workplane aligned to the XZ coordinate plane. Create a rectangular box with an X dimension of 12 units, Z dimension of 8 units, and Y dimension of 4 units. Next, select the face positioned at the maximum Y coordinate of the box, then create a new workplane aligned to this selected face. Draw a circle with a 1.5 unit radius centered on this workplane, then perform a blind cut extrude of the circular sketch 2 units inward into the box to form a partial-depth hole.",
-  "geometry": "The model consists of a solid rectangular prism base, with a single cylindrical hole that only extends partially through the prism. The hole is centered on one of the larger rectangular faces of the prism, oriented perpendicular to the face it is cut into, and does not pierce the opposite face of the prism.",
-  "function": "This is a simple mounting or alignment block with a centered partial hole, designed to accept a short fastener or alignment pin that does not need to pass fully through the block for positioning or light attachment use cases."
-}

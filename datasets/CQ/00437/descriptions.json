@@ -1,5 +1,0 @@
-{
-  "operation": "Start by initializing a workplane on the XY coordinate plane, then generate a 10 unit × 10 unit × 5 unit rectangular solid box. Select the top Z-axis-perpendicular face of the box, create a new workplane aligned to this face, offset the sketch center by 0 units in the X direction and 2 units in the Y direction, draw a circle with 1 unit radius, then cut this circular profile completely through the full thickness of the box.",
-  "geometry": "The model is a right square prism with equal-length edges on its square top and bottom faces, paired with a consistent vertical height. A single straight cylindrical through-hole runs parallel to the prism's vertical central axis, positioned off-center along one axis of the top face, passing fully through the prism from the top to the bottom face.",
-  "function": "This is a simple square mounting block or standoff with an offset through hole, intended for use as a spacer, alignment fixture, or fastening component in mechanical assemblies that require an off-center fastener mounting position."
-}

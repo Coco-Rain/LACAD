@@ -1,5 +1,0 @@
-{
-  "operation": "Start working on the XY workplane, draw a circle with radius 5 units, extrude this 2D shape 3 units along the positive Z axis to create the base cylinder. Next, select the top face of the base cylinder (the face furthest along the positive Z direction), create a new workplane aligned to this top face, draw a circle of radius 3 units centered on the workplane origin, then extrude this second circle 2 units along the positive Z axis to form the smaller upper cylindrical feature.",
-  "geometry": "The model is a two-tiered concentric cylindrical solid, with a larger diameter lower cylinder and a smaller diameter upper cylinder stacked vertically on top of the lower one. Both cylinders share the same central vertical axis, with no holes, cutouts, or irregular features present on the part.",
-  "function": "This stepped cylindrical part is intended for use as a simple mechanical spacer, push button cap, locating pin head, or small standoff, featuring a wider base for stable mounting and a smaller upper section for alignment, actuation, or mating with another component."
-}

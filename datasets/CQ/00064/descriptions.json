@@ -1,5 +1,0 @@
-{
-  "operation": "First, create a 10-unit long, 10-unit wide, 1-unit tall centered cuboid on the default XY workplane. Next, initialize a second XY workplane offset 5 units along the X axis and 5 units along the Y axis from the origin, then create an identical 10x10x1 centered cuboid on this offset workplane. Finally, perform a boolean union operation to combine the two cuboids into a single solid, eliminating internal overlapping geometry.",
-  "geometry": "This is a flat, uniform-thickness solid formed by two identical square prisms that overlap diagonally at their adjacent corners, resulting in a symmetric planar profile with two opposing inward-facing notches, with all vertical faces perpendicular to the base plane.",
-  "function": "This low-profile symmetric component is designed to serve as a corner alignment shim, interlocking joint plate, or spacer for right-angle mating parts."
-}

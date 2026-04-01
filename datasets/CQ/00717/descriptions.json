@@ -1,5 +1,0 @@
-{
-  "operation": "First, initialize a CadQuery workplane on the global XY plane with a 0 offset from the plane origin. Next, shift the active center of the workplane to the (2, 2) coordinate on the XY plane. Finally, create a right circular cylinder centered at this active point, with a radius of 4 units, an axial length (height) of 10 units, and its central axis oriented along the positive X-axis direction.",
-  "geometry": "The model is a single solid right circular cylinder with a consistent circular cross-section along its full length. Its central axis runs parallel to the global X-axis, with flat circular end faces perpendicular to this axis, and the center of the cylinder is offset from the global origin in the XY plane.",
-  "function": "This is a basic straight cylindrical component suitable for use as a shaft, pin, spacer, or simple structural element in standard mechanical assemblies."
-}

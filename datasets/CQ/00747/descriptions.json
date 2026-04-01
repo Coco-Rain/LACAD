@@ -1,5 +1,0 @@
-{
-  "operation": "First, a 15 x 15 x 2 rectangular prism is created on the XY workplane. A new workplane is then established on the positive-Z top face of this prism. An 8x8 rectangle is sketched on this upper workplane, followed by an offset of the sketch center by 4 units in the negative X direction and 4 units in the negative Y direction to draw a 3-unit radius circle. The combined profile of the rectangle and circle is cut completely through the full thickness of the base prism.",
-  "geometry": "This is a thin square flat plate with a single custom through cutout spanning its full thickness. The cutout is formed by a square opening aligned with the plate's outer edges, with a rounded circular indentation extending outward from one corner of the square opening, leaving three sharp right-angle corners on the cutout while the fourth corner is curved. All outer edges of the base plate are sharp right angles.",
-  "function": "This is a custom mounting spacer or adapter plate designed to fit around a square mating component and an adjacent corner-mounted cylindrical fastener, providing a thin flat interface for alignment or spacing between assembled parts."
-}

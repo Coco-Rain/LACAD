@@ -1,5 +1,0 @@
-{
-  "operation": "First, create a workplane aligned to the XY coordinate plane, move the sketch origin to the (2, 2) coordinate point, draw a 6 unit by 4 unit rectangle, and extrude this sketch 2 units along the positive Z axis to form the base solid. Next, select the topmost Z-facing face of the base, create a new workplane on this face, draw a 4 unit by 2 unit centered rectangle, then perform a blind cut to remove material 1 unit deep into the base from the top face.",
-  "geometry": "The model is a solid rectangular prism base with a smaller rectangular recess cut into the center of its upper flat face. The recess is aligned parallel to the edges of the base block, extends less than halfway through the total height of the part, and does not reach any of the base's side edges, leaving a continuous raised rim around the recess on the top surface.",
-  "function": "This is a low-profile positioning or mounting base designed to accept a matching smaller rectangular component in its top recess, suitable for use as a jig insert, assembly spacer, or basic alignment fixture in light manufacturing or assembly workflows."
-}

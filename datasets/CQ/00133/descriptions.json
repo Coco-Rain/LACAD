@@ -1,5 +1,0 @@
-{
-  "operation": "First, a 2 unit × 2 unit × 2 unit solid cube is constructed on the XY workplane. Next, the top face oriented in the positive Z direction is selected, and an inward shell operation with a 0.2 unit wall thickness is performed to hollow the cube, leaving the top face open. After that, the inner edges of the top open face (edges that are not on the outer X and Y boundaries of the face) are selected, and a 0.125 unit chamfer is applied to these inner edges.",
-  "geometry": "This is a symmetric, hollow open-top square cuboid with a fully closed flat base and uniform wall thickness. All outer edges are sharp, while the inner perimeter edges of the top opening have a small angled chamfer. The model has square cross-sections at all heights along its vertical central axis.",
-  "function": "This is a small rigid square open-topped container designed for storing small components, holding small volume liquid or powder samples, or serving as a general purpose bin. The chamfered inner rim eliminates sharp edges, eases pouring of contents, and reduces wear damage to the opening during use."
-}

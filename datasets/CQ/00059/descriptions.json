@@ -1,5 +1,0 @@
-{
-  "operation": "First, a workplane is initialized on the XY coordinate plane. A rectangular sketch with length 20 units and width 10 units is drawn on this workplane. This 2D sketch is then extruded perpendicularly along the Z-axis by 5 units to produce the final 3D solid part.",
-  "geometry": "This model is a simple right rectangular cuboid (prism) with six flat rectangular faces, where all adjacent faces intersect at 90-degree right angles. It has a rectangular base footprint with uniform, consistent height across the entire base, with no additional features like cutouts or protrusions.",
-  "function": "This is a standard rectangular solid block designed to serve as a generic structural component, spacer, shim, base plate, or basic building block for more complex mechanical assemblies."
-}

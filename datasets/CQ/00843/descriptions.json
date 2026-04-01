@@ -1,5 +1,0 @@
-{
-  "operation": "First, a workplane is initialized on the XY plane. A 2D sketch is created on this workplane, with a rectangle drawn with length 30 units, width 15 units, and a rotation angle of 45 degrees. The sketch is finalized, then extruded 10 units along the axis perpendicular to the XY workplane to produce the final 3D solid.",
-  "geometry": "This model is a straight uniform prism with a rotated rectangular cross-section. It has parallel, congruent flat top and bottom faces, connected by four planar rectangular side faces, with all lateral edges oriented perpendicular to the top and bottom face planes.",
-  "function": "This is a simple compact prism component intended for use as a spacer, shim, fixture insert, or basic structural element in assemblies that require a non-axis-aligned rectangular footprint."
-}

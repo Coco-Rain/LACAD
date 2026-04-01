@@ -1,5 +1,0 @@
-{
-  "operation": "First, create a CadQuery workplane aligned to the XY reference plane. Then generate a partial spherical feature on this workplane with a radius of 10 units, constrained by three angular parameters: angle1 set to 45 degrees, angle2 set to 90 degrees, and angle3 set to 90 degrees, to produce the final spherical wedge geometry.",
-  "geometry": "The model is a wedge-shaped segment of a sphere, composed of a single convex curved spherical outer surface, two mutually perpendicular flat planar faces that meet at a sharp upper apex, and a curved base edge forming a quarter-circle arc that lies on the XY plane.",
-  "function": "This 90-degree partial spherical wedge is intended for use as a corner fitting, curved contact element, optical reflector segment, or test component for validating spherical surface manufacturing processes."
-}

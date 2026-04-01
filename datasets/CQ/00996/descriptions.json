@@ -1,5 +1,0 @@
-{
-  "operation": "First, a rectangular box with dimensions 10 units length, 10 units width, and 1 unit height is created on the XY workplane. Next, a new workplane is initialized on the top face (positive Z direction) of the box. The origin of this new workplane is offset 2 units along the X axis and 2 units along the Y axis, then a circle with 1 unit radius is sketched at the offset origin. Finally, the circular sketch is extruded 1 unit upwards perpendicular to the top face of the base box to produce the final solid model.",
-  "geometry": "The model is composed of a thin square flat base plate, with a small cylindrical protrusion extending vertically from the top surface of the base. The cylindrical feature is located off-center relative to the square base, positioned closer to one of the four corners of the base plate.",
-  "function": "This part is intended for use as a simple mounting or alignment component, where the flat square base provides a stable mounting surface, and the raised cylindrical boss acts as a locating feature to correctly position mating parts during assembly."
-}

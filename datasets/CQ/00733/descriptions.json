@@ -1,5 +1,0 @@
-{
-  "operation": "First, a 30mm by 20mm rectangle is sketched on the XY workplane, then extruded 5mm along the positive Z axis to create the base block. Next, a new workplane is established on the top (maximum Z) face of the base block, an ellipse with a 10mm major radius and 6mm minor radius is sketched centered on this workplane, and this ellipse is extruded 8mm along the positive Z axis to form the upper boss, resulting in a single unified solid part.",
-  "geometry": "The model is a single solid composed of two fused stacked prisms: a lower rectangular block base, and an upper extruded elliptical boss that is centered on the top flat surface of the rectangular base, with the major and minor axes of the ellipse aligned to the length and width axes of the base rectangle.",
-  "function": "This part serves as a positioning base with an anti-rotation alignment boss, suitable for use as a spacer, fixture insert, or non-rotating locating standoff in mechanical assemblies."
-}

@@ -1,5 +1,0 @@
-{
-  "operation": "Start by initializing an XY-axis workplane, then create a 1 unit × 1 unit × 1 unit cube. Select the topmost (maximum Z position) perimeter wire of the cube as the first pending loft profile. Duplicate this wire, translate the duplicated wire by the vector (1, 0.1, 1), then rotate the translated wire 45 degrees around the Z-axis with the origin as the rotation pivot to form the second pending loft profile. Finally, execute a loft operation between the two pending wires to generate the final solid.",
-  "geometry": "This is an asymmetric lofted solid composed of two square profiles connected by planar ruled side faces. The lower square base is aligned to the XY plane axes, while the upper square profile is elevated vertically, offset horizontally, and rotated 45 degrees relative to the base, creating a twisted, irregular prism-like overall shape.",
-  "function": "This is a square-to-square transition fitting, designed to connect two misaligned, rotated square connection interfaces that are offset horizontally and positioned at different heights, providing a smooth structural transition between the two ports."
-}

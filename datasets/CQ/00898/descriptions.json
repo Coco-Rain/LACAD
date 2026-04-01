@@ -1,5 +1,0 @@
-{
-  "operation": "First, initialize a CadQuery workplane on the YZ reference plane. Next, sketch an inscribed regular 6-sided hexagon with an inscribed diameter of 5.0 units. Extrude this 2D hexagon profile 6.0 units along the workplane's normal direction, applying a 10-degree inward taper during the extrusion operation. Finally, apply a 0.5 unit fillet radius to every edge of the resulting tapered solid to round all sharp corners.",
-  "geometry": "This model is a smoothly rounded tapered regular hexagonal prism. It has two parallel, coaxial regular hexagonal end faces, with the cross-sectional size of the hexagon decreasing uniformly along the central axis of the part. All side faces are flat, angled inward between the two end faces, and all sharp edges on the full structure are replaced with smooth rounded transitions.",
-  "function": "This tapered hexagonal component is designed for use as an alignment pin, spacing standoff, control knob base, or insert for matching hexagonal sockets. Its rounded edges prevent snags and injury during handling, while its tapered profile simplifies alignment and insertion into mating fixtures."
-}

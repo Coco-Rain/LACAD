@@ -1,5 +1,0 @@
-{
-  "operation": "Start by initializing a workplane aligned to the YZ plane. Sketch a 2D ellipse with a 10-unit minor radius and 20-unit major radius on this plane. Extrude the ellipse 5 units along the positive X-axis. Select the outer edge at the maximum X position and apply a 2-unit constant chamfer to it. Finally, mirror the entire partial solid across the YZ plane to generate the fully symmetric finished model.",
-  "geometry": "This is a centrally symmetric thick elliptical disk, with its central cross-section in the YZ plane shaped as an ellipse. The model is symmetric about the YZ plane, with the outer perimeter edges of both flat YZ-aligned end faces featuring a uniform beveled chamfer, creating a slightly tapered side profile between the two end faces.",
-  "function": "This is a symmetric elliptical spacer or gasket component designed for mechanical assemblies, with chamfered edges that simplify insertion into matching elliptical openings to provide consistent spacing or sealing performance."
-}

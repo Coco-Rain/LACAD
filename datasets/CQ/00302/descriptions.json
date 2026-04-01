@@ -1,5 +1,0 @@
-{
-  "operation": "First, create a 2 unit by 2 unit rectangular 2D sketch. Next, initialize a workplane aligned to the XY reference plane, then generate a rectangular prism base with dimensions 10 units long, 10 units wide, and 1 unit tall. Select the topmost face oriented along the positive Z axis of the base, create a new workplane on this selected face, then place the pre-made 2x2 rectangular sketch centered on this top face workplane.",
-  "geometry": "The model comprises a thin, flat square base slab, with a smaller square 2D sketch positioned concentrically on the upper flat surface of the base. Both the base slab and the sketch are square shaped and share the same central vertical axis that runs perpendicular to the base's top and bottom faces.",
-  "function": "This is a prepped base component for subsequent CAD modification, intended to have a square feature (either a raised extrusion or a recessed pocket cut) added to its top surface for custom part fabrication or mechanical assembly use."
-}

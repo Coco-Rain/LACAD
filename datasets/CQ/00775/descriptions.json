@@ -1,5 +1,0 @@
-{
-  "operation": "First, initialize a workplane on the XY coordinate plane, then create a rectangular box with X-length 8 units, Y-width 6 units, and Z-height 2 units. Select the top face of the box (positive Z direction) to establish a new workplane, shift the workplane origin 3 units along the X-axis and 0 units along the Y-axis. Draw an ellipse with a 1.5 unit major radius and 0.5 unit minor radius at this offset origin, then execute a through-all cut to remove material along the Z direction, forming an elliptical through hole in the box.",
-  "geometry": "The model is a solid rectangular cuboid base, with a single elliptical through hole cut completely through its entire height perpendicular to its top and bottom flat faces. The through hole is positioned off-center, closer to one short edge end of the cuboid's long axis.",
-  "function": "This is a small flat mounting spacer or fixture plate with an offset slotted elliptical adjustment hole, designed for use as a positioning or mounting component that allows minor positional adjustment during assembly."
-}

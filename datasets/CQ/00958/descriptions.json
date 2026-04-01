@@ -1,5 +1,0 @@
-{
-  "operation": "First, initialize a CadQuery workplane aligned to the XY reference coordinate plane. Next, perform a box creation operation to generate a rectangular prism with specified dimensions: 20 units along the X-axis, 15 units along the Y-axis, and 5 units along the Z-axis, using the default centered origin placement for the box feature. No additional editing or feature operations are applied to the resulting base geometry.",
-  "geometry": "This model is a solid right rectangular cuboid with six flat rectangular faces, where all adjacent faces intersect at 90-degree right angles. It has a significantly smaller dimension along its vertical axis than its horizontal length and width, giving it a thin, flat block form factor with sharp, straight edges at all face intersections.",
-  "function": "This generic thin rectangular block is designed to serve as a spacer, mounting base plate, fixture blank, or raw stock for further machining and custom feature addition to suit specific mechanical assembly requirements."
-}

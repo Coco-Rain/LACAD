@@ -1,5 +1,0 @@
-{
-  "operation": "First, a 10x10x1 rectangular box is created on the XY workplane as the base. Next, a new workplane is set up on the top Z-facing face of this base. The workplane origin is shifted 2 units along the X axis and 2 units along the Y axis. A circle with a radius of 1 is drawn at this offset origin, then extruded 5 units upward perpendicular to the base to form the protruding cylindrical feature.",
-  "geometry": "The model is a two-feature solid consisting of a thin, flat square base and a single vertical cylinder. The cylinder protrudes upward from the top surface of the square base, is positioned off-center towards one corner of the base, and is aligned perpendicularly to the base plane.",
-  "function": "This component acts as a simple mounting standoff or alignment pin, with a flat square base for secure surface installation and an offset protruding cylindrical peg for locating, positioning, or attaching other assembly parts."
-}

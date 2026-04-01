@@ -1,5 +1,0 @@
-{
-  "operation": "First, initialize a CadQuery workplane aligned to the XY coordinate plane. Sketch a closed rectangular 2D profile by sequentially drawing line segments starting at the origin (0,0) to (5,0), (5,3), (0,3), then back to the origin to form a 5 unit wide by 3 unit tall closed wire. Extrude this 2D wire 2 units in the direction perpendicular to the XY workplane to generate the final 3D solid model.",
-  "geometry": "This model is a right rectangular prism (cuboid) with six flat rectangular faces, where all adjacent faces meet at 90 degree angles, and each pair of opposite faces are identical in size and parallel to one another.",
-  "function": "This generic rectangular solid is intended for use as a basic structural building block, spacer, mounting pad, or foundational base to add additional custom features during mechanical CAD design and assembly work."
-}

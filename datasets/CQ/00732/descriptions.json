@@ -1,5 +1,0 @@
-{
-  "operation": "Start on the XY plane and create a rectangular box with dimensions 30x25x12. Create a new workplane offset by 6 units along the positive Z-axis and generate a cylinder with a radius of 5 and a height of 10 centered at the origin. Merge this cylinder with the box using a union operation. Finally, select all vertical edges parallel to the Z-axis and apply a fillet with a radius of 3 to round the corners of the rectangular base.",
-  "geometry": "The model consists of a rectangular base plate, 30 units wide and 25 units deep, with rounded vertical corners. Centered on the top surface is a cylindrical boss with a diameter of 10 units. Because the cylinder is centered at the top face of the 12-unit-thick block and has a height of 10 units, it protrudes 5 units above the surface while the other half is embedded within the base.",
-  "function": "This part functions as a mounting base or a locating fixture. The central cylindrical boss acts as a precision stud for alignment or as a pivot point for a mating component, while the filleted rectangular base provides a stable foundation with smoothed edges for better handling and stress distribution."
-}

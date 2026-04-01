@@ -1,5 +1,0 @@
-{
-  "operation": "First, initialize a workplane on the XY plane, move the sketch origin to coordinate (2, 2), draw a rectangle with width 6 units and height 4 units, then extrude this rectangle 3 units along the positive Z axis to form a solid cuboid. Next, select the top Z-facing face of the cuboid, create a new workplane aligned to this face, offset the workplane origin by -2 units in the X direction and -1 units in the Y direction, draw a circle with 1 unit radius, and execute a cut-thru-all operation to remove the cylindrical volume defined by the circle completely through the entire height of the cuboid.",
-  "geometry": "The model is a rectangular cuboid solid with a single cylindrical through hole. The through hole runs parallel to the height axis of the cuboid, passes entirely through its two largest opposite rectangular faces, and is positioned off-center relative to the geometric center of the cuboid's faces.",
-  "function": "This is a simple offset mounting spacer or bracket designed for mechanical assembly, with an off-center through hole to accommodate fasteners for applications requiring non-centered mounting alignment."
-}

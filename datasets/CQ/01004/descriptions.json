@@ -1,5 +1,0 @@
-{
-  "operation": "First, initialize a CadQuery workplane aligned to the XY coordinate plane. Next, define a polyline connecting the coordinate points (0, 0), (5, 0), (5, 5), and (0, 5), then close the polyline to form a 5 unit by 5 unit square 2D profile. Finally, extrude this closed profile 10 units perpendicular to the XY workplane to generate the final 3D solid model.",
-  "geometry": "The model is a right square prism, with two identical parallel square end faces connected by four matching rectangular side faces. All adjacent faces meet at 90-degree right angles, with the side faces oriented perpendicular to both square end faces, and all edges running between the two square ends are equal in length.",
-  "function": "This basic square prismatic block is designed to serve as a generic structural element, 3D printing calibration test part, or foundational base component for more complex CAD assembly designs."
-}

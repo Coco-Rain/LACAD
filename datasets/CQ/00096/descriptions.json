@@ -1,5 +1,0 @@
-{
-  "operation": "First, a workplane is initialized on the XY plane, with its center shifted to coordinates (2, 2). A 4-unit by 6-unit rectangle is sketched at this position, then extruded 1.5 units along the positive Z axis to form a rectangular base block. Next, the topmost Z face of the block is selected to create a new workplane, whose origin is offset by (-1, -1) relative to the face center. A circle with 1 unit radius is sketched on this workplane, and a blind cut 0.5 units deep is performed into the block using this circular profile.",
-  "geometry": "The model is a solid rectangular prism base block, with a shallow cylindrical blind hole cut into its upper flat surface. The hole is offset from the center of the top face, positioned closer to one corner of the block, and does not go through the full thickness of the base prism.",
-  "function": "This is a low-profile fixture pad or mounting plate, where the recessed cylindrical bore is designed to seat fastener heads, alignment pins, or locating components for assembly use."
-}

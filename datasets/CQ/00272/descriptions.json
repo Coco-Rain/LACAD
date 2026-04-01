@@ -1,5 +1,0 @@
-{
-  "operation": "First, create a workplane on the XY plane, sketch a 30mm by 20mm rectangular profile, then extrude this profile 8mm in the positive Z direction to form a solid rectangular base. Next, select the top (positive Z facing) face of the base to establish a new workplane, sketch a centered ellipse with a 10mm major radius and 6mm minor radius, then perform a 5mm deep blind cut into the base using the ellipse profile to create the recessed pocket.",
-  "geometry": "The model is a rectangular prism base with a shallow, centered elliptical pocket recessed into its top flat surface. The pocket does not fully penetrate through the base, leaving solid material below the recess, and the ellipse axes are aligned with the length and width axes of the rectangular base.",
-  "function": "This is a locating or mounting base designed to seat, align, and hold a matching elliptical/oval component, with the precision recessed pocket ensuring consistent, accurate positioning of the mated part."
-}

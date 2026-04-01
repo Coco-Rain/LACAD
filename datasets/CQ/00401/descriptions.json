@@ -1,5 +1,0 @@
-{
-  "operation": "Start by creating an XY workplane, draw a circle with radius 15 units, then extrude this 2D profile to a height of 2 units to form a base cylinder. Next, select the top positive Z face of the cylinder to create a new workplane. On this workplane, generate a sketch with a polar (radial) array of 8 identical 1-unit radius circles, spaced evenly along a 5-unit radius circular path spanning 360 degrees around the origin. Finalize the sketch and execute a cut-thru-all operation to drill all 8 small holes completely through the full height of the base cylinder.",
-  "geometry": "The model is a thin flat right circular disc, with 8 identical small cylindrical through-holes arranged in an evenly spaced concentric circular pattern centered on the disc's central axis, where every hole passes entirely through the full thickness of the disc.",
-  "function": "This is a circular mounting spacer or flange designed to fit standard 8-point circular fastener patterns, suitable for use as a shim, alignment plate, or fixture component to secure and position mating parts in mechanical assemblies."
-}

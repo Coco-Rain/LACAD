@@ -1,5 +1,0 @@
-{
-  "operation": "First, initialize a CadQuery workplane aligned to the XY coordinate plane. Next, generate a solid rectangular box with an X dimension of 8 units, Y dimension of 6 units, and Z dimension of 10 units. Select the box face located at the maximum Y coordinate, create a new workplane aligned to this selected face, sketch a 3-unit radius circle centered on the workplane, then extrude the circle 2 units in the negative Y direction to cut a cylindrical recess into the box. Finally, isolate the modified maximum Y face as the final output geometry.",
-  "geometry": "The model is a flat rectangular planar face with four perpendicular straight edges. A single circular recess is concentrically centered on the face, extending inward perpendicular to the face plane, with a diameter smaller than the shorter edge of the rectangular face.",
-  "function": "This is a mounting interface plate with a centered recess designed to accommodate a matching cylindrical component, suitable for use as a fixture face, alignment plate, or equipment mounting surface."
-}

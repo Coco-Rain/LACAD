@@ -1,5 +1,0 @@
-{
-  "operation": "First, initialize a workplane on the XY plane. Start a 2D sketch at the coordinate (2, 1), draw a horizontal line to x=8, then draw a vertical line to y=5, next draw a horizontal line back to x=2, close the sketch path to form a rectangular profile, then extrude this closed 2D profile 3 units along the positive Z direction to generate the final 3D model.",
-  "geometry": "This model is a right rectangular cuboid, with two identical parallel rectangular faces as the top and bottom bases, four rectangular lateral faces that are perpendicular to both base faces, and all adjacent faces meet at 90-degree right angles.",
-  "function": "This simple uniform rectangular block is designed for use as a general-purpose spacer, basic structural component, or foundational building block for larger mechanical assemblies."
-}

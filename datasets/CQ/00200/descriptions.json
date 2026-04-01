@@ -1,5 +1,0 @@
-{
-  "operation": "First, a 30 mm x 30 mm x 10 mm rectangular box is created on the XY workplane. Next, a workplane is established on the positive Z top face of the box, the workplane origin is offset 5 mm in the positive X direction and 5 mm in the negative Y direction, a 6 mm radius circle is sketched, and this profile is cut fully through the thickness of the box. Finally, the entire part is rotated 70 degrees around the X axis passing through its geometric center.",
-  "geometry": "The model is a rectangular cuboid block with a single circular through-hole running completely through its height. The hole is positioned off-center from the centroid of the cuboid's upper face, and the entire block is held in a tilted orientation rotated around a horizontal axis.",
-  "function": "This is an angled mounting block or spacer for mechanical assemblies, featuring an off-center through-hole for fastener insertion, designed to provide a sloped interface between connected components."
-}

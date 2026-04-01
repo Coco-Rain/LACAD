@@ -1,5 +1,0 @@
-{
-  "operation": "First, initialize a workplane on the XY reference plane, sketch a circle with radius 8 units, then extrude this 2D profile 12 units along the positive Z axis to form a cylindrical base. Next, select the topmost face (positive Z direction) of the cylinder, create a new workplane aligned to this face, draw a regular 5-sided pentagon with circumradius 6 units centered at the workplane origin, then extrude this pentagonal profile 5 units along the positive Z axis to complete the model.",
-  "geometry": "The model is made of two coaxial stacked prismatic solids: a larger right circular cylinder forms the lower base, and a smaller regular pentagonal prism is centered flush on the top flat face of the cylinder, with both components sharing the same central vertical axis.",
-  "function": "This is a specialty fastener or adjustment knob design, where the pentagonal upper feature acts as a non-standard torque interface to prevent unintended adjustment, and the larger cylindrical base evenly distributes contact pressure against mating mounting surfaces."
-}

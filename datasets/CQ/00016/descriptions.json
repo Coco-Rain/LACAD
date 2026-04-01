@@ -1,5 +1,0 @@
-{
-  "operation": "Initially, a rectangular box of size 30×20×10 is created on the XY plane. A hexagonal prism is then extruded 5 units from the center of the top face (diameter 15, 6 sides). Finally, a new workplane is created on the top face of the hexagon, centered at (10, 0) relative to the global center. A sketch is drawn starting with a radius arc of 8 units to the point (10, 5), followed by a line back to (10, 0) and a closing line to the start. This triangular-arched profile is then used to perform a cut through the entire model.",
-  "geometry": "The model consists of a rectangular base with a centered hexagonal protrusion on top. A vertical notch is removed from one side of the structure, cutting through both the hexagon and the base. The cross-section of this notch is a wedge-like shape with one curved side and two straight sides, positioned off-center along the length of the base.",
-  "function": "This component functions as a keyed mounting block. The hexagonal top provides a specific interlocking interface, while the side cutout serves as a clearance slot or an alignment key for mating parts in a mechanical assembly."
-}

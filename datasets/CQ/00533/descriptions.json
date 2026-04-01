@@ -1,5 +1,0 @@
-{
-  "operation": "First, a workplane is initialized on the XY reference plane. A rectangular box is extruded on this workplane with dimensions of 10 units in the X direction, 10 units in the Y direction, and 5 units in the Z direction. All 12 edges of the box are selected, and a uniform fillet with a 1 unit radius is applied to every edge to remove all sharp corners.",
-  "geometry": "This is a symmetric low-profile square-based cuboid with all edges uniformly rounded. Smooth curved transitions exist between the flat square top face, flat square bottom face, and four vertical rectangular side faces, with no sharp edges or corners present across the entire structure. The part is symmetric across both of its horizontal central axes and its vertical central axis.",
-  "function": "This smooth compact component is intended for use as a spacer, small support base, vibration bumper, or protective end cap. Its rounded edges eliminate sharp contact points to prevent damage or injury, and its simple uniform shape is easy to manufacture and integrate into a wide range of general purpose assemblies."
-}

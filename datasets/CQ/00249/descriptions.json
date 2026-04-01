@@ -1,5 +1,0 @@
-{
-  "operation": "Start by creating an XY plane workplane, sketch a 20 x 10 unit centered rectangle, and extrude this sketch 5 units along the positive Z axis to form a solid base block. Next, select the top positive-Z facing face of the base, create a new workplane on this face, sketch a 10 x 5 unit centered rectangle, then perform a blind cut of this rectangular profile 2 units deep into the base block.",
-  "geometry": "The model is a rectangular solid prism base with a smaller rectangular blind pocket centered on its top flat surface. The pocket is aligned parallel to the edges of the base, and does not extend fully through the depth of the base prism.",
-  "function": "This is an alignment or mounting base with a shallow integrated recess, intended to locate and hold a mating rectangular component to prevent unwanted lateral shifting of the installed part."
-}

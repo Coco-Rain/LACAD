@@ -1,5 +1,0 @@
-{
-  "operation": "Create a rectangular box with dimensions 66 (X-axis), 10 (Y-axis), and 70 (Z-axis) on the front workplane. Select the side face at the positive X extremity and create a workplane centered on it. Move the sketch origin 32 units down along the vertical axis of the face, then sketch a right-angled triangle by drawing a horizontal line of 38 units followed by a vertical line of 60 units. Finally, extrude this triangle 3 units in the negative X direction into the main body.",
-  "geometry": "The model features a large vertical rectangular slab with a thin, right-triangular fin protruding from one of its side edges. The triangular fin is oriented vertically and sits flush with the right face of the slab, extending significantly outward perpendicular to the slab's main surface.",
-  "function": "This part is designed as a structural support bracket or gusset. The large flat slab provides a mounting surface, while the triangular rib offers reinforcement and mechanical stability, potentially acting as a brace or an alignment guide in a larger mechanical framework."
-}

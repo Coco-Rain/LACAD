@@ -1,5 +1,0 @@
-{
-  "operation": "First, initialize an empty 2D CadQuery Sketch object. Next, draw a 3.0 unit long vertical straight line segment between the coordinate points (0, 0) and (0, 3.0). Then add a 3-point arc with start point at (0.0, 3.0), midpoint at (1.5, 1.5), and end point at (0.0, 0.0) that connects both endpoints of the previously drawn straight segment. Finally, assemble the two connected sketch entities to form a single closed 2D profile.",
-  "geometry": "This is a closed planar 2D semicircular profile, bounded on one side by a straight vertical edge that forms the diameter of the semicircle, and on the opposite side by a smooth convex circular arc that connects the top and bottom endpoints of the straight edge. The entire profile is symmetric about the horizontal midline passing through the center of the straight edge.",
-  "function": "This standardized 2D semicircular cross-section profile is designed for use in subsequent 3D modeling operations including extrusion, revolution, or subtractive cutting to create rounded structural components, half-round features, or curved cutouts in mechanical parts."
-}

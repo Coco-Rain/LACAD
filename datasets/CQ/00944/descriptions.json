@@ -1,5 +1,0 @@
-{
-  "operation": "First, a 2D sketch is drawn on the XY workplane: start at the origin (0, 0), draw a 20-unit horizontal line to (20, 0), create a three-point arc with control point (25, 5) ending at (20, 10), draw a 20-unit horizontal line left to (0, 10), then close the sketch to form a closed profile. This profile is extruded 5 units along the Z-axis to create a prismatic solid. Finally, all edges parallel to the Z-axis are filleted with a 3-unit radius to round vertical corners.",
-  "geometry": "This is a constant-thickness prismatic solid, whose cross-section features a flat straight left edge, parallel straight top and bottom edges, and a convex outward curved right edge. All edges running perpendicular to the cross-section plane are smoothly rounded with a uniform radius, eliminating sharp vertical corners on the part.",
-  "function": "This compact, low-profile smooth-edged component is designed to be used as a spacer, wear pad, bumper, or small mounting insert, with a contoured end to fit matching curved mating surfaces and rounded edges to avoid sharp contact risks."
-}
