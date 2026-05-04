@@ -1,5 +1,0 @@
-{
-  "operation": "First, a vertical cylinder with height 12 units and radius 8 units is created on the XY workplane. Next, a 6-sided regular hexagon with circumradius 5 units is sketched on an XZ workplane offset to coordinate (0, 4, 6), extruded 3 units along the Y axis, and united with the cylinder. Finally, a counterbore hole is added to the maximum Y-facing face of the combined solid, with a through-hole diameter of 2.5 units, counterbore diameter of 5 units, and counterbore depth of 2 units.",
-  "geometry": "The model is primarily a vertical cylinder, with a small regular hexagonal prism attached to the upper section of the cylinder's side surface, protruding horizontally outward. A counterbored hole passes horizontally through the center of the outer face of the hexagonal prism, oriented perpendicular to the central axis of the main cylinder.",
-  "function": "This is a mounting adapter component designed to secure external parts to a cylindrical base. The hexagonal boss provides a stable flat mounting surface, while the counterbore hole supports flush installation of a fastener for secure attachment of connected parts."
-}
