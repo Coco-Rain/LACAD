@@ -1,4 +1,4 @@
-## Dataset provenance, curation, and normalization
+## Dataset Construction, Quality Control, and Standardization
 
 Text2CQ is a curated benchmark for executable text-to-CadQuery generation. The scripts are not released as raw community code. They were constructed from community-originated CadQuery scripts, GPT-4o-assisted repair of selected initially non-executable scripts, and standardized preprocessing for release.
 
@@ -14,7 +14,7 @@ All retained scripts were required to pass the following checks:
 
 During preprocessing, imports, variable names, indentation, export statements, file paths, and chain-style CadQuery formatting were normalized to improve executability, consistency, and reproducibility. This may make the released scripts more stylistically uniform than raw community code. Therefore, Text2CQ should be understood as a curated benchmark rather than a purely community-sourced or fully human-authored industrial CAD corpus.
 
-## Code normalization prompt
+## Code Standardization Prompt
 
 The following prompt was used as the basic instruction for GPT-4o-assisted code normalization:
 ```text
